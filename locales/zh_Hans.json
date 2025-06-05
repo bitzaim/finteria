@@ -1,0 +1,1468 @@
+{
+  "account": {
+    "wallets": {
+      "tabs": {
+        "transactionsHistory": {
+          "label": "交易历史"
+        },
+        "wallets": {
+          "label": "钱包"
+        }
+      },
+      "title": "钱包",
+      "walletsTab": {
+        "addWalletBtn": "添加钱包",
+        "addWalletCancel": "取消",
+        "estimatedBalance": "估计余额",
+        "hideSmallBalances": "隐藏小额余额",
+        "columns": {
+          "currency": "硬币",
+          "balance": "可用余额",
+          "locked_balance": "锁定的余额"
+        },
+        "btnDeposit": "存款",
+        "btnTransfer": "转移",
+        "btnWithdraw": "撤消",
+        "btnExchange": "交流",
+        "withdrawal": {
+          "amount": "数量",
+          "balance": "平衡",
+          "address": "地址",
+          "networkFee": "撤军委员会",
+          "youGet": "你得到",
+          "continueBtn": "继续",
+          "goBackBtn": "返回首页",
+          "withdrawalErrors": {
+            "required": "需要",
+            "minValue": "最小值为{m$sg}。",
+            "maxValue": "你有{m$sg}",
+            "numeric": "数值必须是数字",
+            "verifiedNotification": "要提取资金，请核实您的身份。",
+            "verifiedDepositNotification": "要提取资金，您需要至少有一笔存款。"
+          },
+          "withdrawalSuccess": {
+            "inReview": "审查中",
+            "address": "地址",
+            "amount": "数量",
+            "status": "状况",
+            "statusResult": "待定",
+            "info": "您的提款请求已经成功提交。我们将在1小时内审查并确认提款请求。如果提款请求需要额外检查，可能需要48小时来确认提款。",
+            "backToWallets": "返回到钱包"
+          },
+          "startVerification": "开始核查。",
+          "networkPlaceholder": "选择提款网络",
+          "network": "网络",
+          "makeDeposit": "存款",
+          "unlockKYC": "要解锁 KYC 验证和提款选项，请先存款。"
+        },
+        "deposit": {
+          "transaction": "交易",
+          "scanQr": "你可以用手机钱包应用程序扫描这个二维码进行支付，或者将准确的金额发送到存款地址。",
+          "depositAmount": "存款金额",
+          "copyBtn": "拷贝",
+          "depositAddress": "存款地址",
+          "onlySendCurrency": "只发送{m$sg}到这个地址",
+          "confirmationMessage": "金币将在3次确认后存入。",
+          "confirmationMessages": {
+            "eth": "硬币将在12次确认后存入。",
+            "ltc": "硬币将在12次确认后存入。",
+            "bch": "硬币将在12次确认后存入。",
+            "zec": "硬币将在24次确认后存入。"
+          },
+          "goBackBtn": "返回首页",
+          "depositMessage": "Finteria只支持{m$sg}通过本地{m$sg}主网存款。其他网络不被支持。发送其他硬币或通过其他网络发送{m$sg}将导致您的资金永久损失。",
+          "depositMessages": {
+            "btc": "只通过比特币网络发送BTC转账。不支持其他网络。发送其他硬币或通过其他网络发送BTC将导致你的资金永久损失。",
+            "eth": "只通过以太坊主网（ERC-20）发送ETH存款。其他网络不被支持。发送其他币种或通过其他网络发送ETH将导致您的资金永久损失。",
+            "usdc": {
+              "erc20": "只能通过ERC20网络发送USDT到这个地址。发送其他硬币或通过其他网络发送USDT将导致您的资金永久损失。",
+              "trc20": "只能通过ERC20网络发送USDT到这个地址。发送其他硬币或通过其他网络发送USDT将导致您的资金永久损失。"
+            },
+            "dai": "只通过Ethereum Mainnet（ERC-20）发送DAI转账。其他网络不被支持。发送其他币种或通过其他网络发送DAI将导致您的资金永久损失。",
+            "wbtc": "只通过以太坊主网（ERC-20）发送WBTC转账。其他网络不被支持。发送其他币种或通过其他网络发送WBTC将导致您的资金永久损失。",
+            "trx": "只通过TRON主网发送TRX传输。其他网络不被支持。发送其他硬币或通过其他网络发送TRX将导致您的资金永久损失。",
+            "avax": "只通过Avalanche Mainnet发送AVAX传输。不支持其他网络。发送其他硬币或通过其他网络发送AVAX将导致您的资金永久损失。",
+            "dot": "只通过TRON主网发送TRX传输。其他网络不被支持。发送其他硬币或通过其他网络发送TRX将导致您的资金永久损失。",
+            "ada": "只通过Polkadot主网发送DOT转账。其他网络不被支持。发送其他硬币或通过其他网络发送DOT将导致你的资金永久损失。",
+            "matic": "只通过Polygon Mainnet发送MATIC传输。其他网络不被支持。发送其他硬币或通过其他网络发送MATIC将导致您的资金永久损失。",
+            "usdt": {
+              "erc20": "只能通过ERC20网络发送USDT到这个地址。发送其他硬币或通过其他网络发送USDT将导致您的资金永久损失。",
+              "trc20": "只能通过ERC20网络发送USDT到这个地址。发送其他硬币或通过其他网络发送USDT将导致您的资金永久损失。"
+            }
+          },
+          "selectNetwork": "选择网络",
+          "rotationalAddress": "临时地址",
+          "beAwareAddresIsTemporary": "请注意，存款地址是临时的，在有限的时间内有效。请不要在过期后发送资金，因为这可能会导致您的资金永久损失。"
+        }
+      },
+      "filters": {
+        "title": "过滤器",
+        "allCurrency": "所有货币",
+        "transactionType": "交易类型",
+        "period": "期间",
+        "transactionTypes": {
+          "deposit": "存款",
+          "withdraw": "撤销",
+          "commission": "佣金",
+          "fee": "费用",
+          "loan_origination_fee": "贷款发放费",
+          "conversion": "转换",
+          "internal_exchange": "内部交流",
+          "collateral": "抵押品",
+          "collateral_adjustment": "抵押品调整",
+          "loan": "贷款",
+          "loan_payment": "贷款支付",
+          "loan_interest_payment": "贷款利息支付"
+        }
+      },
+      "transactionsTab": {
+        "columns": {
+          "id": "身份证",
+          "created_at": "日期",
+          "type": "类型",
+          "transaction_owner_name": "原产地",
+          "amount": "数量"
+        }
+      },
+      "ordersTab": {
+        "columns": {
+          "id": "身份证",
+          "date": "日期",
+          "status": "状况",
+          "amount": "数量",
+          "type": "类型"
+        }
+      }
+    },
+    "settings": {
+      "verification": {
+        "addBtn": "添加",
+        "accountVerificationsStatus": "帐户核查状态",
+        "agreementSignInstruction": "输入你的个人名字和姓氏并签署协议。",
+        "personalData": "个人资料",
+        "name": "命名",
+        "surname": "姓氏",
+        "accountVerification": "账户验证",
+        "chooseYourIdType": "选择你的身份证类型",
+        "copyOfPassport": "护照复印件",
+        "frontSide": "正面的卡片ID",
+        "backSide": "背面的卡片ID",
+        "uploadFileImg": "上传文件（PDF、PNG、JPG、HEIC、HEIF），最大10mb",
+        "notLoaded": "未加载",
+        "loaded": "已加载",
+        "onVerification": "关于核查",
+        "notSigned": "未签署",
+        "signed": "签名",
+        "uploadFile": "上传文件",
+        "uploadSign": "签署协议",
+        "takeASelfie": "拍张自拍",
+        "takeASelfieText": "请自拍，将你的身份证件放在你的脸旁。请确保照片上你的脸和身份证都清晰可见。身份证上不能有任何东西。",
+        "agreement": "协议",
+        "downloadAgreement": "下载协议",
+        "isVerified": {
+          "verified": "已验证",
+          "notVerified": "未核实"
+        },
+        "verifyBtn": "验证",
+        "saveBtn": "拯救",
+        "submitBtn": "提交",
+        "signBtn": "签名",
+        "signAcceptanceTitle": "要开始交易，请签署一份接受服务协议",
+        "signAcceptanceDescription": "本网站提供的金融服务有很高的风险，可能导致你的所有资金损失。你不应该投资你无法承受损失的资金。在我们的交易平台进行任何操作之前，请确保你阅读我们的条款和条件。在任何情况下，本公司对任何个人或实体因在本网站上的操作而造成的任何损失或损害承担任何责任。Finteria或其代理或合作伙伴没有在美国领土上注册，也不提供任何服务。",
+        "codeConfirmed": "您的验证码已被确认",
+        "toast": {
+          "dataRequired": "请在页面上方输入你的姓名，并签署协议",
+          "dataSent": "您的数据已被送去验证",
+          "signatureNeeded": "请发送您的签名",
+          "fileSize": "文件大小不应超过10MB",
+          "fileFormat": "上传文件（PDF, PNG, JPG, HEIC, HEIF）"
+        },
+        "drawSignature": "在这里画上你的签名",
+        "phonePlaceholder": "添加您的电话号码",
+        "verifyPhone": "验证你的手机",
+        "verifyEmail": "验证您的电子邮件",
+        "whatIsPhoneNumber": "你的电话号码是多少？",
+        "enterCode": "输入发送至的代码",
+        "didReceiveCode": "没有收到代码？"
+      },
+      "settingsTitle": "形象",
+      "tabs": {
+        "general": {
+          "label": "一般"
+        },
+        "verification": {
+          "label": "验证"
+        },
+        "password": {
+          "label": "密码"
+        },
+        "sessions": {
+          "label": "会议"
+        }
+      },
+      "general": {
+        "email": "电子邮件",
+        "emailText": "如果你想改变你的电子邮件地址，请联系我们的支持团队。",
+        "phone": "电话",
+        "phoneText": "如果你想改变你的电话号码，请联系我们的支持团队。",
+        "language": "语言",
+        "languageText": "你喜欢的语言。",
+        "btnSave": "保存设置",
+        "selectCountry": "选择国家",
+        "changePhone": "更改电话号码"
+      },
+      "password": {
+        "paragraph": "为安全起见，在你完成这一行动后，提款将被搁置24小时。",
+        "currentPassword": "当前密码",
+        "newPassword": "新密码",
+        "confirmNewPassword": "确认新密码",
+        "changePasswordBtn": "更改密码",
+        "passwordSuccess": "您的密码已被成功更改",
+        "comparePasswordError": "密码不匹配"
+      },
+      "authentication": {
+        "enableAuth": "启用双因素认证",
+        "enableAuthText": "为了您的安全，我们强烈建议在您的账户上启用2FA。此后，每次登录账户、取款或修改密码时，你都需要输入一个一次性的6位数密码。",
+        "enableAuthBtn": "启用2FA",
+        "download2faApp": "下载2FA应用程序",
+        "download2faAppText": "你应该在你的移动设备上下载并安装一个认证器应用程序，如Google Authenticator或Authy。这个应用程序将生成一次性的6位数访问代码，这是登录你的账户所需要的。",
+        "save2faBackupKey": "保存2FA备份密钥并扫描QR码",
+        "save2faBackupKeyText": "请将您的2FA恢复密钥备份到一些离线存储中，例如，写在纸上。如果你的移动设备丢失、被盗或被删除，你将需要这个密钥来恢复你的2FA访问。",
+        "backupSecretKey": "备份/密匙",
+        "backupSecretKeyText": "请记下或打印上述钥匙的副本并安全保存。",
+        "confirm2faActivation": "确认2FA的激活",
+        "confirm2faActivationText": "来自Authenticator应用程序的2FA代码",
+        "confirm2faActivationPlaceholder": "输入一个6位数的2FA代码",
+        "enable2faBtn": "启用2FA"
+      },
+      "sessions": {
+        "columns": {
+          "user_agent": "器材",
+          "country": "国家",
+          "ip": "IP地址",
+          "created_at": "时间"
+        }
+      },
+      "languageChanged": "您的语言已被改变",
+      "dataUpdated": "您的个人数据已被更新"
+    },
+    "trading": {
+      "subPages": {
+        "withdrawal": "撤诉",
+        "deposit": "存款",
+        "depositTransaction": "存款",
+        "transfer": "转移",
+        "openedWithdrawal": "已开放的提款申请"
+      },
+      "tradingAccounts": {
+        "title": "交易账户",
+        "addAccountBtn": "添加账户",
+        "columns": {
+          "external_id": "同上",
+          "group": "类型",
+          "currency": "货币",
+          "balance": "平衡",
+          "bonus": "奖金"
+        },
+        "btnDeposit": "存款",
+        "btnTransfer": "转移",
+        "btnWithdraw": "撤消"
+      },
+      "depositFirstPage": {
+        "depositIsProcessing": "您的存款正在处理中",
+        "demoDepositUnavaliable": "你不能向模拟账户存款",
+        "depositError": "出了问题",
+        "chooseDepositAmount": "选择存款金额",
+        "bonus": "奖金",
+        "policyPrivacy": "我接受并同意",
+        "policyPrivacyLink": "奖金政策",
+        "totalTradingDeposit": "存款总额",
+        "chooseFundingMethod": "选择筹资方式",
+        "depositBtn": "存款",
+        "doYouHavePromocode": "你有促销代码吗？"
+      },
+      "depositSecondPage": {
+        "transaction": "交易",
+        "scanQr": "你可以用手机钱包应用程序扫描这个二维码进行支付，或者将准确的金额发送到存款地址。",
+        "depositAmount": "存款金额",
+        "receivingAmount": "收款金额",
+        "copyBtn": "拷贝",
+        "depositAddress": "存款地址",
+        "txid": "TXID",
+        "openInExplorer": "在资源管理器中打开",
+        "onlySendCurrency": "只发送{m$sg}到这个地址",
+        "depositMessage": "Finteria只支持{m$sg}通过本地{m$sg}主网存款。其他网络不被支持。发送其他硬币或通过其他网络发送{m$sg}将导致您的资金永久损失。",
+        "depositMessages": {
+          "btc": "只通过比特币网络发送BTC转账。不支持其他网络。发送其他硬币或通过其他网络发送BTC将导致你的资金永久损失。",
+          "eth": "只通过以太坊主网（ERC-20）发送ETH存款。其他网络不被支持。发送其他币种或通过其他网络发送ETH将导致您的资金永久损失。",
+          "usdt": {
+            "erc20": "只能通过ERC20网络发送USDT到这个地址。发送其他硬币或通过其他网络发送USDT将导致您的资金永久损失。",
+            "trc20": "只能通过ERC20网络发送USDT到这个地址。发送其他硬币或通过其他网络发送USDT将导致您的资金永久损失。"
+          },
+          "usdc": {
+            "erc20": "只能通过ERC20网络发送USDT到这个地址。发送其他硬币或通过其他网络发送USDT将导致您的资金永久损失。",
+            "trc20": "只能通过ERC20网络发送USDT到这个地址。发送其他硬币或通过其他网络发送USDT将导致您的资金永久损失。"
+          },
+          "dai": "只通过Ethereum Mainnet（ERC-20）发送DAI转账。其他网络不被支持。发送其他币种或通过其他网络发送DAI将导致您的资金永久损失。",
+          "wbtc": "只通过以太坊主网（ERC-20）发送WBTC转账。其他网络不被支持。发送其他币种或通过其他网络发送WBTC将导致您的资金永久损失。",
+          "trx": "只通过TRON主网发送TRX传输。其他网络不被支持。发送其他硬币或通过其他网络发送TRX将导致您的资金永久损失。",
+          "avax": "只通过Avalanche Mainnet发送AVAX传输。不支持其他网络。发送其他硬币或通过其他网络发送AVAX将导致您的资金永久损失。",
+          "dot": "只通过TRON主网发送TRX传输。其他网络不被支持。发送其他硬币或通过其他网络发送TRX将导致您的资金永久损失。",
+          "ada": "只通过Polkadot主网发送DOT转账。其他网络不被支持。发送其他硬币或通过其他网络发送DOT将导致你的资金永久损失。",
+          "matic": "只通过Polygon Mainnet发送MATIC传输。其他网络不被支持。发送其他硬币或通过其他网络发送MATIC将导致您的资金永久损失。"
+        },
+        "status": "状况",
+        "statuses": {
+          "waiting": "等待",
+          "expired": "过期",
+          "pending": "待定",
+          "completed": "已完成",
+          "available": "可以使用"
+        },
+        "timeInterval": "剩余时间",
+        "timeIntervalExpired": "如果还没有付款，请取消并创建一个新的存款",
+        "confirmationMessage": "金币将在3次确认后存入。",
+        "confirmationMessages": {
+          "eth": "硬币将在12次确认后存入。",
+          "ltc": "硬币将在12次确认后存入。",
+          "bch": "硬币将在12次确认后存入。",
+          "zec": "硬币将在24次确认后存入。"
+        },
+        "needAssistance": "需要帮助吗？",
+        "requestCallback": "要求回电",
+        "or": "或",
+        "chatWithUs": "与我们交谈",
+        "timeRemaining": "剩余时间",
+        "rotationalAddress": "临时地址",
+        "payretailers": {
+          "fillRequiredFields": "填写必填字段"
+        }
+      },
+      "depositWithModal": {
+        "paymentCard": {
+          "title": "卡的详细信息",
+          "backBtn": "溯源",
+          "continueBtn": "继续",
+          "toast": {
+            "fillCardNumber": "请正确填写卡号",
+            "fillHolderName": "请填写持卡人的姓名",
+            "expirationNotCorrect": "过期时间不正确",
+            "fillCVV": "请填写CVV"
+          },
+          "processing": "处理你的付款方式",
+          "processingFailed": "您的信用卡已被成功验证",
+          "cardholderName": "持卡人姓名"
+        },
+        "title": "通过Visa、Mastercard提供资金",
+        "paragraph": "你离完成你的交易存款只有一步之遥。只需点击按钮{m$sg}并按照指示操作。",
+        "cantLoadWidget": "无法加载小部件",
+        "paybis": {
+          "text": "您通过第三方供应商 Paybis 购买加密货币，用 Visa/Mastercard 为交易账户充值。",
+          "depositWith": "用 Paybis 购买 {a$mnt}",
+          "addressText": "下面是我们专门为您生成的钱包地址。请务必按图复制。",
+          "walletAddress": "钱包地址",
+          "clickButtonText": "点击下面的按钮，进入 Paybis，这是一项购买加密货币的安全服务。",
+          "afterText": "在 Paybis 上购物后，金额将自动存入您的交易账户。就这么简单！"
+        }
+      },
+      "transfer": {
+        "amount": "数量",
+        "status": "状况",
+        "available": "可提取",
+        "toAccount": "帐户",
+        "continueBtn": "继续",
+        "backToTrading": "返回到交易",
+        "inReview": "审查中",
+        "info": "您的提款请求已经成功提交。我们将在1小时内审查并确认提款请求。如果提款请求需要额外检查，可能需要48小时来确认提款。"
+      },
+      "withdrawal": {
+        "amount": "数量",
+        "balance": "平衡",
+        "address": "地址",
+        "networkFee": "网络费",
+        "youGet": "你得到",
+        "continueBtn": "继续",
+        "blockchain_network": "网络",
+        "cancelBtn": "取消",
+        "currency": "货币"
+      },
+      "depositSuccessPage": {
+        "paid": "你付了钱：",
+        "deposited": "已存入："
+      }
+    },
+    "exchange": {
+      "infoBlock": {
+        "summary": "摘要",
+        "yourBalance": "你的{m$sg}平衡",
+        "exchangeRate": "汇率",
+        "time": {
+          "hours": "在{m$sg}h。"
+        }
+      },
+      "actionBlock": {
+        "balance": "平衡"
+      },
+      "page": {
+        "youPay": "您支付",
+        "youGet": "你得到",
+        "exchangeBtn": "交流"
+      },
+      "success": {
+        "spent": "你花了：",
+        "converted": "已转换：",
+        "price": "价格：",
+        "backToWallets": "返回到钱包",
+        "exchangeAgain": "再次交换"
+      }
+    },
+    "loans": {
+      "columns": {
+        "id": "贷款编号",
+        "status": "状况",
+        "loan_amount": "贷款",
+        "loan_currency": "贷款货币",
+        "collateral_amount": "抵押品",
+        "collateral_currency": "抵押货币",
+        "ltv": "LTV",
+        "daily_rate": "每日费率"
+      },
+      "helpers": {
+        "currency": "货币",
+        "id": "身份证"
+      },
+      "tabs": [
+        {
+          "label": "全部",
+          "value": "所有"
+        },
+        {
+          "label": "活跃",
+          "value": "积极"
+        },
+        {
+          "label": "档案",
+          "value": "档案馆"
+        }
+      ],
+      "statuses": {
+        "opened": "活跃",
+        "closed": "档案",
+        "unsecured": "无担保"
+      },
+      "actionBlock": {
+        "available": "平衡"
+      },
+      "page": {
+        "youPay": "您支付",
+        "youGet": "你得到",
+        "exchangeBtn": "交流"
+      }
+    },
+    "nav": {
+      "wallets": "加密货币钱包",
+      "trading": "交易账户",
+      "loans": "贷款",
+      "interest": "利息账户",
+      "exchange": "证券交易所",
+      "button": "交易平台",
+      "buttonSmall": "贸易",
+      "account": "设置",
+      "profile": "形象"
+    },
+    "navHelper": {
+      "profile-wallets": {
+        "label": "钱包"
+      },
+      "profile-trading": {
+        "label": "交易账户"
+      },
+      "profile-trading-deposit": {
+        "label": "交易账户"
+      },
+      "profile-trading-transfer": {
+        "label": "交易账户"
+      },
+      "profile-trading-address": {
+        "label": "交易账户"
+      },
+      "profile-loans": {
+        "label": "贷款"
+      },
+      "profile-loans-create": {
+        "label": "贷款"
+      },
+      "profile-loans-loan": {
+        "label": "贷款"
+      },
+      "profile-loans-repay": {
+        "label": "贷款"
+      },
+      "profile-interest": {
+        "label": "利息账户"
+      },
+      "profile-exchange": {
+        "label": "加密货币交易所"
+      },
+      "profile": {
+        "label": "形象"
+      },
+      "profile-trading-withdraw-id": {
+        "label": "交易账户"
+      }
+    },
+    "payment": {
+      "success": "付款成功",
+      "error": "付款失败",
+      "info": "取消付款"
+    }
+  },
+  "common": {
+    "errors": {
+      "goHomePage": "转到主页",
+      "403": "授权被拒绝。请联系支持团队。",
+      "copyError": "复制错误"
+    },
+    "btns": {
+      "goBack": "返回首页",
+      "cancel": "取消",
+      "confirm": "确认",
+      "preview": "预览",
+      "continue": "继续",
+      "copied": "抄袭",
+      "done": "已完成",
+      "save": "拯救",
+      "clear": "清楚",
+      "loading": "负载",
+      "reset": "复位",
+      "waiting": "等待",
+      "apply": "申请",
+      "resend": "重新发送"
+    },
+    "toast": {
+      "success": "成功"
+    }
+  },
+  "header": {
+    "nav": {
+      "trade": "贸易",
+      "borrow": "借用",
+      "earn": "赚取",
+      "exchange": "交流"
+    },
+    "btns": {
+      "login": "登录",
+      "signup": "报名参加",
+      "myAccount": "我的账户",
+      "logout": "登出",
+      "unverified": "未经核实的",
+      "close": "关闭"
+    },
+    "menu": {
+      "platforms": {
+        "web": "网络平台",
+        "android": "安卓应用",
+        "title": "交易平台"
+      },
+      "support": {
+        "help": "帮助指南",
+        "faq": "常见问题",
+        "title": "支持"
+      },
+      "menu": "菜单",
+      "blog": {
+        "marketResearch": "市场研究",
+        "education": "教育",
+        "reviews": "评论",
+        "pressAndMedia": "新闻和媒体",
+        "title": "博客"
+      },
+      "markets": {
+        "title": "市场",
+        "forex": "外汇货币",
+        "crypto": "加密货币",
+        "currencystrength": "货币强势",
+        "cryptostrength": "隐蔽性强"
+      },
+      "services": {
+        "title": "服务",
+        "copytrading": "复制交易",
+        "contest": "竞赛",
+        "blog": "博客",
+        "pressAndMedia": "新闻和媒体",
+        "helpGuides": "帮助指南",
+        "platform": "平台"
+      }
+    }
+  },
+  "footer": {
+    "prefooterTitle": "© Finteria, 2023 - 单一进入加密货币市场",
+    "col1": {
+      "title": "Finteria Markets LLC",
+      "ul": [
+        {
+          "label": "条款和条件"
+        },
+        {
+          "label": "奖金政策"
+        },
+        {
+          "label": "隐私政策"
+        },
+        {
+          "label": "反洗钱/KYC政策"
+        },
+        {
+          "label": "风险披露"
+        }
+      ]
+    },
+    "col2": {
+      "title": "快速链接",
+      "ul": [
+        {
+          "label": "网络平台"
+        },
+        {
+          "label": "安卓应用"
+        },
+        {
+          "label": "知识库"
+        },
+        {
+          "label": "二元期权交易"
+        },
+        {
+          "label": "帮助指南"
+        },
+        {
+          "label": "联盟计划"
+        }
+      ]
+    },
+    "col3": {
+      "title": "购买CRYPTO"
+    },
+    "col4": {
+      "registrationInfo": "Company number 13983022",
+      "address": "20-22 Wenlock Road, London, England, N1 7GU"
+    },
+    "postfooter": "本网站服务不适用于欧洲经济区国家、美国和英国的居民。",
+    "colBlog": {
+      "title": "博客",
+      "ul": [
+        {
+          "label": "市场研究"
+        },
+        {
+          "label": "教育方面"
+        },
+        {
+          "label": "评论"
+        },
+        {
+          "label": "新闻和媒体"
+        }
+      ]
+    },
+    "colMarkets": {
+      "title": "市场",
+      "ul": [
+        {
+          "label": "外汇货币"
+        },
+        {
+          "label": "加密货币"
+        },
+        {
+          "label": "货币强势"
+        },
+        {
+          "label": "隐蔽性强"
+        }
+      ]
+    },
+    "disclaimer": "风险警告：杠杆金融工具交易涉及重大风险，可能导致您投资资本的损失。您的投资不应超过您可承受的损失，并应确保您完全了解所涉及的风险。并非所有投资者都适合交易杠杆产品。交易外汇等非杠杆产品也涉及风险，因为资产的价值可升可跌，这可能意味着收回的资金少于您最初投入的资金。过去的业绩并不能保证未来的结果。在交易之前，请考虑您的经验水平和投资目标，必要时寻求独立的财务建议。客户有责任根据其居住国的法律要求，评估自己是否被允许使用Finteria品牌的服务。"
+  },
+  "borrow": {
+    "landingPreview": {
+      "pretitle": "存入加密货币，收取现金",
+      "title": "获得即时的加密货币贷款",
+      "subtitle": "使用前20个硬币作为抵押品，获得最高贷款价值率（90%）的加密货币贷款。以欧元、美元、瑞士法郎和英镑获得贷款，并即时提取到信用卡和银行账户。",
+      "posttitle": "受FSA监管",
+      "btnPrimary": "获得贷款"
+    },
+    "landingRates": {
+      "title": "支持的资产和费率"
+    },
+    "numCards": [
+      {
+        "bigTitle": "$15.6B+",
+        "subtitle": "可用流动资金中"
+      },
+      {
+        "bigTitle": "100+",
+        "subtitle": "支持的硬币和代币"
+      },
+      {
+        "bigTitle": "$100M+",
+        "subtitle": "Finteria政策所涵盖的资产"
+      },
+      {
+        "bigTitle": "$110M+",
+        "subtitle": "社区BTC"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "由FSA注册",
+        "icon": "sw_flag"
+      },
+      {
+        "text": "24/7客户服务",
+        "icon": "钟表"
+      },
+      {
+        "text": "安全性ISO 27001认证",
+        "icon": "盾牌"
+      },
+      {
+        "text": "多语言支持",
+        "icon": "球状物"
+      }
+    ],
+    "infoBlock": {
+      "title": "加密货币支持的贷款如何运作",
+      "left_items": [
+        {
+          "title": "将加密货币转移到你的Finteria钱包里",
+          "text": "Finteria接受前20种加密货币作为抵押品。加密货币的存款或取款不收费。"
+        },
+        {
+          "title": "随时取回你的加密货币抵押品",
+          "text": "您可以使用信用卡、稳定币或银行账户来偿还贷款，并获得您的加密货币回报。您可以将您的加密货币资产保存在Finteria的钱包里，并可以即时获得加密货币贷款。"
+        },
+        {
+          "title": "获得加密货币贷款并提取资金",
+          "text": "您的贷款审批只需几秒钟。不需要像点对点（p2p）平台那样寻找贷款人。您可以立即收到欧元、美元、USDT或BTC的现金。Finteria的工作方式就像一个典当行。有一个临时的加密货币销售，你是卖家，Finteria是买家。在任何时候，你可以从Finteria重新购买加密货币。"
+        }
+      ],
+      "right_title": "我们的现金提取方案",
+      "right_items": [
+        "通过SEPA和SWIFT的银行电汇提款。全球范围内均可使用。",
+        "信用卡提款到你的万事达卡或VISA卡。",
+        "加密货币提款：使用我们的综合加密货币交易所购买任何加密货币或稳定币。"
+      ]
+    },
+    "helpCenter": {
+      "title": "帮助中心",
+      "text": "开始使用Finteria很容易。但对于那些有点不确定的人，我们有很多指导性的帖子和有用的提示，说明如何以安全和聪明的方式管理资产。",
+      "buttonText": "与我们聊天!",
+      "accordions": [
+        {
+          "title": "如何购买加密货币？",
+          "text": "要购买加密货币，请到你的钱包，通过信用卡或银行账户存入资金。一旦收到资金，它们就会在你的钱包里可用，你可以用你的法币购买加密货币。\n"
+        },
+        {
+          "title": "我怎样才能获得贷款？",
+          "text": "获得贷款很简单，也很直接。只需将加密货币存入你的钱包并启动贷款合同。 \n您的贷款批准需要几秒钟。您会立即收到欧元、美元、USDT或BTC的现金。你可以在以后的任何时候从Finteria回购加密货币。"
+        },
+        {
+          "title": "有哪些货币可供兑换？",
+          "text": "Finteria支持20多种加密货币的兑换、借贷和赚钱。可用的硬币和代币列表定期更新。\n"
+        },
+        {
+          "title": "是否有任何提款费用？",
+          "text": "法定货币没有取款手续费。加密货币提款的费用取决于网络费用和区块链网络的当前状态。"
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "贷款金额",
+      "secondTitle": "抵押品",
+      "loan_to_value": "贷款与价值比率(LTV)",
+      "dailyInterest": "每日利息"
+    }
+  },
+  "earn": {
+    "landingPreview": {
+      "pretitle": "你的加密货币为你工作",
+      "title": "通过顶级赌注和借贷平台赚取加密货币",
+      "subtitle": "在DeFi和第三方集中式平台上赚取利息和押注奖励。通过将加密货币存入你的Finteria钱包，将你的冷资产立即变成热利润，并开始获得每日的利息支付。",
+      "posttitle": "受FSA监管",
+      "btnPrimary": "赚取加密货币"
+    },
+    "landingRates": {
+      "title": "支持的资产和费率"
+    },
+    "numCards": [
+      {
+        "bigTitle": "$15.6B+",
+        "subtitle": "在社区资产中"
+      },
+      {
+        "bigTitle": "897K+",
+        "subtitle": "Finteria用户"
+      },
+      {
+        "bigTitle": "$386M+",
+        "subtitle": "过去12个月内支付的收益率"
+      },
+      {
+        "bigTitle": "109K+",
+        "subtitle": "社区BTC"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "由FSA注册",
+        "icon": "sw_flag"
+      },
+      {
+        "text": "24/7客户服务",
+        "icon": "钟表"
+      },
+      {
+        "text": "安全ISO 27001认证",
+        "icon": "盾牌"
+      },
+      {
+        "text": "多语言支持",
+        "icon": "球状物"
+      }
+    ],
+    "infoBlock": {
+      "title": "加密货币储蓄账户如何运作？",
+      "left_items": [
+        {
+          "title": "将加密货币存入你的Finteria钱包",
+          "text": "Finteria接受前20种加密货币。加密货币存款或取款不收费。"
+        },
+        {
+          "title": "指示Finteria将你的加密货币转移到DeFi或赌注平台上",
+          "text": "选择一个加密货币奖励计划，开始赚钱，同时在你的个人钱包上持有你的加密货币代币。"
+        },
+        {
+          "title": "每天赚取复利奖励",
+          "text": "您的储蓄计划批准只需几秒钟。你开始立即从你的加密代币上赚取复利奖励。"
+        }
+      ],
+      "right_title": "储蓄账户提款政策",
+      "right_items": [
+        "你可以在任何时候释放你的资金，你将全额收到赚取的利息。",
+        "每一个额外的加密货币转移到储蓄账户，将创建一个单独的赌注或借款合同。 ",
+        "你可以自由地保留你的累积利息来赚取更多的利润。"
+      ]
+    },
+    "helpCenter": {
+      "title": "帮助中心",
+      "text": "开始使用Finteria很容易。但对于那些有点不确定的人，我们有很多指导性的帖子和有用的提示，说明如何以安全和聪明的方式管理资产。",
+      "accordions": [
+        {
+          "title": "我如何购买加密货币？",
+          "text": "要购买加密货币，请到你的钱包，通过信用卡或银行账户存入资金。一旦收到资金，它们就会在你的钱包里可用，你可以用你的法币购买加密货币。\n"
+        },
+        {
+          "title": "我怎样才能获得贷款？",
+          "text": "获得贷款很简单，也很直接。只需将加密货币存入你的钱包并启动贷款合同。 \n您的贷款批准需要几秒钟。您会立即收到欧元、美元、USDT或BTC的现金。你可以在以后的任何时候从Finteria回购加密货币。"
+        },
+        {
+          "title": "有哪些货币可供兑换？",
+          "text": "Finteria支持20多种加密货币的兑换、借贷和赚钱。可用的硬币和代币列表定期更新。\n"
+        },
+        {
+          "title": "是否有任何提款费用？",
+          "text": "法定货币没有取款手续费。加密货币提款的费用取决于网络费用和区块链网络的当前状态。"
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "数量",
+      "secondTitle": "多久？",
+      "annual": "年利息(APY)",
+      "period": "本期收入",
+      "estimated": "估计的收入",
+      "week": "周",
+      "month": "月",
+      "year": "年"
+    }
+  },
+  "exchange": {
+    "landingPreview": {
+      "pretitle": "存入加密货币，收取现金",
+      "title": "Finteria不收费的加密货币交易所",
+      "subtitle": "即时加密货币交易所，没有任何费用。兑换加密货币、稳定币和法币，如BTC、ETH、美元等。用信用卡购买比特币。 ",
+      "posttitle": "BitGo 钱包",
+      "posttitle2": "监护人供应商",
+      "optionsAdvantages": "被评为优秀",
+      "optionsAdvantages2": "在Trustpilot上",
+      "btnPrimary": "兑换加密货币"
+    },
+    "landingRates": {
+      "title": "支持的资产"
+    },
+    "numCards": [
+      {
+        "bigTitle": "24/7",
+        "title": "不间断的交易",
+        "subtitle": "包括周末"
+      },
+      {
+        "bigTitle": "$250",
+        "title": "最低存款额",
+        "subtitle": "人人都能负担得起"
+      },
+      {
+        "bigTitle": "$1",
+        "title": "最小交易量",
+        "subtitle": "适用于初学者"
+      },
+      {
+        "bigTitle": "100+",
+        "title": "交易资产",
+        "subtitle": "股票、加密货币、商品"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "由FSA注册",
+        "icon": "锁定"
+      },
+      {
+        "text": "24/7客户服务",
+        "icon": "钟表-蓝色"
+      },
+      {
+        "text": "安全性ISO 27001认证",
+        "icon": "盾牌"
+      },
+      {
+        "text": "全球范围内150多个国家",
+        "icon": "球状物"
+      }
+    ],
+    "infoBlock": {
+      "title": "加密货币交易所如何运作",
+      "left_items": [
+        {
+          "title": "存入加密货币",
+          "text": "Finteria接受前20种加密货币。加密货币存款或取款不收费。"
+        },
+        {
+          "title": "兑换法币或加密货币",
+          "text": "你可以轻松地以低费用兑换法币和加密货币资产，并将资金提取到你的卡、银行账户或钱包。"
+        }
+      ],
+      "right_title": "重要信息",
+      "right_items": [
+        "Finteria是一个安全和受监管的平台，用于购买、出售或储存加密货币。",
+        "汇率在加密货币市场之后每秒钟都会更新，因此你可以即时了解到价格比率。",
+        "我们不收取加密货币对加密货币的交换费用。",
+        "你可以用你的VISA/MASTERCARD卡以当前汇率购买主要的加密货币。"
+      ]
+    },
+    "helpCenter": {
+      "title": "帮助中心",
+      "text": "开始使用Finteria很容易。但对于那些有点不确定的人，我们有很多指导性的帖子和有用的提示，说明如何以安全和聪明的方式管理资产。",
+      "buttonText": "与我们聊天!",
+      "accordions": [
+        {
+          "title": "如何购买加密货币？",
+          "text": "要购买加密货币，请到你的钱包，通过信用卡或银行账户存入资金。一旦收到资金，它们就会在你的钱包里可用，你可以用你的法币购买加密货币。\n"
+        },
+        {
+          "title": "我怎样才能获得贷款？",
+          "text": "获得贷款很简单，也很直接。只需将加密货币存入你的钱包并启动贷款合同。 \n您的贷款批准需要几秒钟。您会立即收到欧元、美元、USDT或BTC的现金。你可以在以后的任何时候从Finteria回购加密货币。"
+        },
+        {
+          "title": "有哪些货币可供兑换？",
+          "text": "Finteria支持20多种加密货币的兑换、借贷和赚钱。可用的硬币和代币列表定期更新。\n"
+        },
+        {
+          "title": "是否有任何提款费用？",
+          "text": "法定货币没有取款手续费。加密货币提款的费用取决于网络费用和区块链网络的当前状态。"
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "我有多少钱",
+      "secondTitle": "我需要",
+      "rate": "速率"
+    }
+  },
+  "trade": {
+    "game-widget-title": "价格将上涨<span class='green'></span> ，还是下跌<span class='red'></span> ？",
+    "landingPreview": {
+      "title": "交易加密货币、外汇、差价合约并在30秒内赚取高达90%的利润",
+      "subtitle": "通过预测加密货币和货币市场的动向获得额外收入",
+      "btnPrimary": "开始交易",
+      "btnTry": "示范平台",
+      "gift": "高达100%的<br>交易奖金",
+      "student": "10'000美元的礼物<br>到演示账户"
+    },
+    "numCards": [
+      {
+        "bigTitle": "24/7",
+        "title": "不间断的交易",
+        "subtitle": "包括周末"
+      },
+      {
+        "bigTitle": "${m$sg}",
+        "title": "最低存款额",
+        "subtitle": "人人都能负担得起"
+      },
+      {
+        "bigTitle": "$1",
+        "title": "最小交易量",
+        "subtitle": "适用于初学者"
+      },
+      {
+        "bigTitle": "100+",
+        "title": "交易资产",
+        "subtitle": "股票、加密货币、商品"
+      }
+    ],
+    "tradeAtHome": {
+      "header": "在家或在路上进行交易!",
+      "finteria": {
+        "title": "Finteria平台",
+        "subtitle": "易于运行，具有顶级图表的现代平台",
+        "list": ["12种图表类型", "50多个智能绘图工具", "易于使用和直观", "最适合技术分析!"],
+        "button": "启动平台"
+      }
+    },
+    "threeSteps": {
+      "title": "开始的三个简单步骤",
+      "list": [
+        {
+          "title": "注册",
+          "text": "注册时间不超过1分钟",
+          "icon": "旗帜"
+        },
+        {
+          "title": "为你的账户充值",
+          "text": "存款并开始交易",
+          "icon": "卡"
+        },
+        {
+          "title": "交易与提款",
+          "text": "交易，赚取和提取你的利润!",
+          "icon": "贸易"
+        }
+      ],
+      "button": "注册"
+    },
+    "tradingExperience": {
+      "title": "没有交易经验？",
+      "subtitle": "复制最成功的交易者",
+      "topStrategies": {
+        "title": "顶级战略",
+        "tableHeader": ["级别", "战略", "性能"],
+        "buttonFollow": "拷贝"
+      },
+      "list": [
+        {
+          "title": "加入社会贸易平台",
+          "text": "做多还是做空？跟随最好的交易者。开设交易账户并复制顶级交易者的订单。"
+        },
+        {
+          "title": "订阅顶级交易商",
+          "text": "选择顶级交易员并与他们即时联系。只需点击几下就可以开始接收交易信号。在交易平台上直接指定条件并创建订阅。"
+        },
+        {
+          "title": "赚取更高的利润",
+          "text": "提高你的交易效率，利用你的交易来赚取更高的利润。从最佳表现的交易建议中获益。"
+        }
+      ]
+    },
+    "tradingIdeas": {
+      "title": "需要交易理念吗？",
+      "subtitle": "利用我们的分析工具找到最佳市场机会",
+      "list": [
+        {
+          "title": "赢家 输家"
+        },
+        {
+          "title": "市场实力"
+        },
+        {
+          "title": "热图"
+        },
+        {
+          "title": "每日预测"
+        }
+      ]
+    },
+    "whyFinteria": {
+      "title": "为什么Finteria是您的选择",
+      "choices": [
+        {
+          "text": "<span>保证</span> ，在1小时内处理提款。"
+        },
+        {
+          "text": "在<span>熟练顾问的帮助下，指导交易设施。</span>"
+        },
+        {
+          "text": "有可能在<span>周末进行交易</span>"
+        },
+        {
+          "text": "超过<span>10 000个交易</span> ，每天提供服务"
+        },
+        {
+          "text": "<span>范围广泛</span> 的资金和提款方法"
+        },
+        {
+          "text": "客户支持<span>24/7</span>"
+        },
+        {
+          "text": "<span>100%安全的</span> 交易与数据保护"
+        },
+        {
+          "text": "复制交易，甚至赚取<span>，没有任何交易经验</span>"
+        },
+        {
+          "text": "<span>无佣金的</span> 交易"
+        }
+      ]
+    },
+    "helpCenter": {
+      "title": "开始使用Finteria很容易",
+      "text": "但对于那些有点不确定的人，我们有很多关于如何开始交易的指导性帖子和有用的提示",
+      "buttonText": "与我们聊天!",
+      "accordions": [
+        {
+          "title": "我需要多少钱才能开始？",
+          "text": "最低初始存款为10美元或等值的其他货币。"
+        },
+        {
+          "title": "我怎样才能存款？",
+          "text": "根据你的位置，有几种存款方式可供选择。存款方式包括加密货币，VISA/Mastercard卡，以及其他电子支付系统。请查看您的客户区，以了解更多可用的存款方式的信息。"
+        },
+        {
+          "title": "我可以交易什么工具？",
+          "text": "Finteria提供超过100种交易工具，包括加密货币、外汇、差价合约和商品。"
+        },
+        {
+          "title": "我可以使用哪个平台？",
+          "text": "你可以使用Finteria Trader。该平台可用于桌面和移动设备，使用户可以随时随地访问它。"
+        },
+        {
+          "title": "我是否支付佣金？",
+          "text": "Finteria提供零佣金的交易。"
+        },
+        {
+          "title": "什么是提款费？",
+          "text": "法定货币没有取款手续费。加密货币提款的费用取决于网络费用和区块链网络的当前状态。"
+        }
+      ]
+    },
+    "joinFinteriaNow": "现在就加入Finteria吧!",
+    "calculator": {
+      "title": "你的24小时利润",
+      "dailyChange": "每日变化",
+      "investment": "投资",
+      "leverage": "杠杆",
+      "tradeSize": "贸易规模",
+      "profit": "盈利",
+      "selectAsset": "选择符号",
+      "profitability": "盈利能力"
+    },
+    "meta": {
+      "title": "交易加密货币、外汇、差价合约并在30秒内赚取高达90%的利润",
+      "description": "加入Finteria，这个快速增长的交易平台，解锁无限的交易机会，开始在网上赚钱。免费注册并获得强大的工具，使您的利润最大化。现在就开始交易，利用Finteria的市场潜力。"
+    }
+  },
+  "login": {
+    "reset": "重置密码",
+    "title": "登录",
+    "inputs": {
+      "email": {
+        "label": "电子邮件"
+      },
+      "newPassword": "新密码",
+      "confirmPassword": "确认密码",
+      "password": {
+        "label": "密码",
+        "postfix": "忘记密码？"
+      }
+    },
+    "button": "登录",
+    "buttonReset": "RESET",
+    "toastSuccessNewpassword": "您的密码已被成功更新",
+    "toastSuccessReset": "一个链接已经发送到你的邮箱",
+    "footer": "没有账户？",
+    "fireBlock": "BitGo提供数字资产托管解决方案和7亿美元的集合犯罪保险。",
+    "welcome": "欢迎来到Finteria"
+  },
+  "signUp": {
+    "title": "注册",
+    "subtitle": "并释放你的资产价值!",
+    "inputs": {
+      "email": {
+        "label": "电子邮件",
+        "postfix": "输入正确的电子邮件值"
+      },
+      "country": {
+        "label": "你的国家"
+      },
+      "password": {
+        "label": "密码",
+        "postfix": "必须至少包含6个符号",
+        "identy": "你的密码不匹配"
+      },
+      "signupAgreement": "我确认该服务是在美国领土之外向我提供的",
+      "termsAgreement": {
+        "prefix": "我已阅读并同意服务条款和风险披露",
+        "links": {
+          "service": "服务条款",
+          "privacy": "隐私通知",
+          "policy": "反洗钱政策",
+          "execution": "只执行协议",
+          "conversion": "转换服务的条款",
+          "complaints": "投诉程序",
+          "specific": "转换服务的具体条款"
+        },
+        "union": "和"
+      }
+    },
+    "button": "注册",
+    "footer": "已经有了一个账户？",
+    "fireBlock": "你的资产被储存在领先的托管解决方案下，拥有90亿美元的保险政策。",
+    "description": {
+      "gift": "高达100%的<br>交易奖金",
+      "student": "10'000美元的礼物<br>到演示账户",
+      "times": "1小时 <br> 撤诉"
+    },
+    "wrongPromoCode": "错误的促销代码",
+    "promoCodeApplied": "优惠代码XXX已成功应用",
+    "toast": {
+      "recaptchaFailed": "重新验证码检查失败"
+    }
+  },
+  "Network": "account.wallets.walletsTab.without.network",
+  "blog": {
+    "list": {
+      "title": "交易博客",
+      "lead": "探索Finteria博客，了解交易中的最新热点话题。从Finteria的专家团队获得洞察力，更新，新闻和更多。",
+      "categories": "类别",
+      "articlesTitle": "文章",
+      "paginatorPrev": "上一篇",
+      "paginatorNext": "下一页",
+      "categoriesTitle": "对于交易员来说："
+    },
+    "article": {
+      "otherNews": "其他新闻"
+    }
+  },
+  "pressMedia": {
+    "title": "新闻和媒体"
+  },
+  "cryptocurrency": {
+    "title": "加密货币交易",
+    "lead": "通过 Finteria，您可以交易比特币、以太坊、Solana 等多种加密货币。",
+    "description1": "体验快速进入全球加密货币市场，交易各种流行的加密资产和代币，并通过我们著名的平台提升您的交易结果。",
+    "trade": "贸易",
+    "tradeNow": "现在交易",
+    "see": "见",
+    "exchangeRate": "汇率",
+    "toolsSectionTitle": "工具",
+    "tradingSectionTitle": "释放加密货币交易的潜力",
+    "tradingSectionText": "加密货币交易以其不稳定和快速波动的性质提供了巨大的盈利潜力。数字资产的价格可能经历重大波动，往往在一天内或一周内上升或下降多达20%。",
+    "tradingCheckList": [
+      {
+        "text": "交易者选择加密货币的原因是波动性较高，成功交易后的潜在利润增加。",
+        "title": "高利润潜力"
+      },
+      {
+        "title": "最受欢迎的数字资产",
+        "text": "Finteria提供比特币、以太坊、Solana和Litecoin--市场上最流行的加密货币。"
+      },
+      {
+        "title": "安全交易",
+        "text": "交易者可以通过使用保护单来保护他们的头寸免受极端市场波动的影响，在安全的平台上进行交易时可以放心。"
+      }
+    ],
+    "whyFinteriaSectionTitle": "为什么要在Finteria进行加密货币交易？",
+    "whyFinteriaCheckList": [
+      {
+        "title": "深度流动资金，强大的工具",
+        "text": "用我们快速、安全和可靠的平台交易加密货币。受益于深厚的流动性，以及广泛的高级功能和交易工具。"
+      },
+      {
+        "title": "具有竞争力的收费标准",
+        "text": "享受市场上一些最好的交易条件，所有加密货币交易的点差小，费用低。"
+      },
+      {
+        "title": "直观的、用户友好的交易",
+        "text": "利用多显示器功能、一系列专业交易工具和24/7客户服务等功能定制您的交易界面。"
+      },
+      {
+        "title": "先进的制图工具",
+        "text": "体验一系列不同的图表类型，超过50个交易指标，以及直接从图表中执行交易的能力。"
+      }
+    ],
+    "stepList": [
+      {
+        "title": "注册",
+        "text": "在FInteria上创建一个新的帐户，不超过一分钟。只需要一个注册的电子邮件就可以开始。"
+      },
+      {
+        "title": "为你的账户充值",
+        "text": "将资金存入你的个人钱包。一旦你的账户有了资金，你就可以进行交易了!"
+      },
+      {
+        "title": "开始交易",
+        "text": "获得我们获奖的交易软件的全部使用权。受益于低费用和先进的交易功能"
+      }
+    ],
+    "getStarted": "开始吧",
+    "market": "市场信息",
+    "marketLast": "市场/最后",
+    "last": "最后一次",
+    "24h": "24h",
+    "more": "更多",
+    "description2": "在Finteria，我们提供强大的交易基础设施，可靠的软件，以及为加密货币领域量身定制的用户友好界面。通过我们先进的传统交易工具，您可以自信地交易顶级加密货币，如比特币、以太坊、索拉纳、莱特币，以及其他。",
+    "startSteps": "只需3个步骤即可开始交易"
+  },
+  "forex": {
+    "title": "外汇交易",
+    "lead": "通过Finteria，你可以买入、卖出和交易各种外汇货币，如EURUSD、USDJPY、GBPUSD等。",
+    "description1": "体验快速进入全球外汇市场，交易各种流行货币对，并通过我们著名的平台提升您的交易结果。",
+    "trade": "贸易",
+    "tradeNow": "现在交易",
+    "see": "见",
+    "exchangeRate": "汇率",
+    "toolsSectionTitle": "工具",
+    "tradingSectionTitle": "释放外汇交易的潜力",
+    "tradingCheckList": [
+      {
+        "title": "高利润潜力",
+        "text": "交易者之所以选择外汇，是因为其流动性较高，成功交易后的潜在利润增加。"
+      },
+      {
+        "title": "最受欢迎的外汇货币",
+        "text": "Finteria提供市场上最流行的货币对。"
+      },
+      {
+        "title": "安全交易",
+        "text": "交易者可以通过使用保护订单来保护他们的头寸免受极端市场波动的影响，在安全的平台上进行交易时可以放心。"
+      }
+    ],
+    "whyFinteriaSectionTitle": "为什么在Finteria进行外汇交易",
+    "whyFinteriaCheckList": [
+      {
+        "text": "使用我们快速、安全和可靠的平台进行外汇交易。受益于深厚的流动性，以及广泛的先进功能和交易工具。",
+        "title": "深度流动资金，强大的工具"
+      },
+      {
+        "title": "具有竞争力的收费标准",
+        "text": "享受市场上一些最好的交易条件，所有交易都有严格的点差和低费用。"
+      },
+      {
+        "title": "直观的、用户友好的交易",
+        "text": "利用多显示器功能、一系列专业交易工具和24/7客户服务等功能定制您的交易界面。"
+      },
+      {
+        "text": "体验一系列不同的图表类型，超过50个交易指标，以及直接从图表中执行交易的能力。",
+        "title": "先进的制图工具"
+      }
+    ],
+    "description2": "在Finteria，我们提供一个强大的交易基础设施，可靠的软件，以及为货币领域量身定做的用户友好界面。通过我们先进的传统交易工具，您可以自信地交易顶级货币，如美元、欧元、英镑、日元和其他货币。",
+    "tradingSectionText": "外汇交易以其不稳定和快速波动的特性提供了巨大的利润潜力。由于经济和政治事件的影响，货币价格可能会出现大幅波动。",
+    "getStarted": "开始吧"
+  },
+  "markets": {
+    "title": "今天的价格",
+    "chartTitle": "价格表",
+    "marketWatchTitle": "发现更多资产",
+    "chartText": "按照这个实时价格图表来推测价格走势。通过这个方便的实时图表，你可以查看当前价格，分析价格动态，追踪历史汇率。",
+    "periods": {
+      "1hour": "1小时",
+      "24hours": "24小时",
+      "7days": "7天",
+      "14days": "14天",
+      "30days": "30天",
+      "1year": "1年"
+    }
+  },
+  "strength": {
+    "currency": {
+      "title": "货币强势",
+      "lead": "货币强度是一个帮助你找到市场上最强和最弱的货币的工具。通过结合强势货币和弱势货币，你可以在任何时候发现新的交易理念。你还可以看到市场上的新趋势和不同工具之间的相关性。"
+    },
+    "crypto": {
+      "title": "隐蔽性强",
+      "lead": "Crypto Strength是一个帮助你看到加密货币在所有前10个主要加密货币中的表现的工具。它有助于评估加密货币市场的整体表现，以及查看不同加密货币之间的表现。你可以很容易地在前10名币种中找出最强和最弱的加密货币。"
+    },
+    "periods": {
+      "5min": "最后5分钟",
+      "15min": "最后15分钟",
+      "30min": "最后30分钟",
+      "1h": "最后1小时",
+      "4h": "最后4小时",
+      "8h": "最后8小时",
+      "12h": "过去12小时",
+      "72h": "过去72小时",
+      "1w": "最近1周",
+      "2w": "最近2周",
+      "today": "今天",
+      "yesterday": "昨日",
+      "week": "本周",
+      "month": "这个月",
+      "24h": "过去24小时",
+      "1m": "最近1个月",
+      "prevWeek": "前一周"
+    }
+  },
+  "contest": {
+    "leaders": {
+      "table": {
+        "headers": {
+          "trades": "贸易总额",
+          "prize": "奖品",
+          "prizeTrades": "奖金/交易总额",
+          "name": "命名"
+        }
+      },
+      "periodPrev": "前一页",
+      "periodNext": "下一页",
+      "title": "领导人",
+      "text": "加入我们的每周交易大赛，让您的技能接受考验！在攀登排行榜获取奖励的过程中进行交易、竞争并享受乐趣。",
+      "rules": "交易大赛规则。",
+      "periodTitle": "期间"
+    },
+    "questions": {
+      "title": "问题",
+      "accordions": [
+        {
+          "title": "如何参加比赛？",
+          "text": "所有真实账户均自动参与比赛。无需额外注册。 "
+        },
+        {
+          "title": "获奖名额如何分配？",
+          "text": "名次根据比赛期间的交易次数进行分配。交易次数越多，排名越靠前。如果您有多个账户，所有账户的所有交易都将计算在内。不包括模拟账户。"
+        },
+        {
+          "title": "本次竞赛有哪些奖项？",
+          "text": "所有奖品均为奖金存款，将记入获奖者账户。要获得奖金，您的净余额（余额减去奖金）应等于或高于奖金额。例如，如果奖金是 500 美元，您账户的净余额至少要达到 500 美元。"
+        },
+        {
+          "title": "我如何知道自己是否中奖？",
+          "text": "我们会通过电子邮件通知您获得的名次和奖品。此外，您还可以随时查看自己在排行榜上的排名。"
+        },
+        {
+          "title": "我可以从账户中提取奖金吗？",
+          "text": "由于奖金是作为奖励存款存入的，因此不能提取。不过，如果满足最低营业额条件，您可以提取利润。营业额要求是所有存款和奖金总和的 3 倍。"
+        }
+      ]
+    },
+    "intro": {
+      "title": "适合有经验的交易者和初学者",
+      "tradingContest": "交易大赛！",
+      "prize": "每周奖金",
+      "prizeNumber": "$20 000",
+      "winners": "每周 10 名获奖者",
+      "freeRegistration": "免费注册"
+    }
+  }
+}

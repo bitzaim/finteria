@@ -1,0 +1,1473 @@
+{
+  "header": {
+    "nav": {
+      "trade": "Comercio",
+      "borrow": "Pedir prestado",
+      "earn": "Gane",
+      "exchange": "Intercambio"
+    },
+    "btns": {
+      "login": "Iniciar sesión",
+      "signup": "Inscríbete",
+      "myAccount": "Mi cuenta",
+      "logout": "Cerrar sesión",
+      "unverified": "sin verificar",
+      "close": "Cerrar"
+    },
+    "menu": {
+      "platforms": {
+        "web": "Plataforma web",
+        "android": "Aplicación Android",
+        "title": "Plataformas de negociación"
+      },
+      "support": {
+        "help": "Guías de ayuda",
+        "faq": "PREGUNTAS FRECUENTES",
+        "title": "Ayuda"
+      },
+      "menu": "Menú",
+      "blog": {
+        "marketResearch": "Estudios de mercado",
+        "education": "Educación",
+        "reviews": "Reseñas",
+        "pressAndMedia": "Prensa y medios de comunicación",
+        "title": "Blog"
+      },
+      "markets": {
+        "title": "Mercados",
+        "forex": "Divisas",
+        "crypto": "Criptomonedas",
+        "currencystrength": "Fortaleza de la moneda",
+        "cryptostrength": "Criptofuerza"
+      },
+      "services": {
+        "title": "Servicios",
+        "copytrading": "Copytrading",
+        "contest": "Concurso",
+        "blog": "Blog",
+        "pressAndMedia": "Prensa y medios de comunicación",
+        "helpGuides": "Guías de ayuda",
+        "platform": "Plataforma"
+      }
+    }
+  },
+  "footer": {
+    "prefooterTitle": "© Finteria, 2023 - Entrada única en el mercado de criptomonedas",
+    "col1": {
+      "title": "Finteria Markets LLC",
+      "ul": [
+        {
+          "label": "Condiciones generales"
+        },
+        {
+          "label": "Política de primas"
+        },
+        {
+          "label": "Política de privacidad"
+        },
+        {
+          "label": "Política AML/KYC"
+        },
+        {
+          "label": "Divulgación de riesgos"
+        }
+      ]
+    },
+    "col2": {
+      "title": "Enlaces rápidos",
+      "ul": [
+        {
+          "label": "Plataforma web"
+        },
+        {
+          "label": "Aplicación Android"
+        },
+        {
+          "label": "Base de conocimientos"
+        },
+        {
+          "label": "Comercio de opciones binarias"
+        },
+        {
+          "label": "Guías de ayuda"
+        },
+        {
+          "label": "Programa de afiliados"
+        }
+      ]
+    },
+    "col3": {
+      "title": "COMPRAR CRYPTO"
+    },
+    "col4": {
+      "registrationInfo": "Company number 13983022",
+      "address": "20-22 Wenlock Road, London, England, N1 7GU"
+    },
+    "postfooter": "Los servicios de este sitio web no están disponibles para los residentes de los países del EEE, EE.UU. y Reino Unido.",
+    "colBlog": {
+      "title": "Blog",
+      "ul": [
+        {
+          "label": "Estudios de mercado"
+        },
+        {
+          "label": "Educación"
+        },
+        {
+          "label": "Reseñas"
+        },
+        {
+          "label": "Prensa y medios de comunicación"
+        }
+      ]
+    },
+    "colMarkets": {
+      "title": "Mercados",
+      "ul": [
+        {
+          "label": "Divisas"
+        },
+        {
+          "label": "Criptomonedas"
+        },
+        {
+          "label": "Fortaleza de la moneda"
+        },
+        {
+          "label": "Criptofuerza"
+        }
+      ]
+    },
+    "disclaimer": "Advertencia de riesgo: Operar con Instrumentos Financieros Apalancados implica un riesgo significativo y puede resultar en la pérdida de su capital invertido. No debe invertir más de lo que pueda permitirse perder y debe asegurarse de que comprende plenamente los riesgos que implica. La negociación de productos apalancados puede no ser adecuada para todos los inversores. Operar con productos no apalancados, como el mercado de divisas, también conlleva riesgos, ya que el valor de un activo puede tanto bajar como subir, lo que podría suponer recuperar menos de lo invertido originalmente. Rentabilidades pasadas no garantizan resultados futuros. Antes de operar, tenga en cuenta su nivel de experiencia, sus objetivos de inversión y, si es necesario, solicite asesoramiento financiero independiente. Es responsabilidad del cliente evaluar si está autorizado a utilizar los servicios de la marca Finteria en función de los requisitos legales de su país de residencia."
+  },
+  "account": {
+    "trading": {
+      "subPages": {
+        "withdrawal": "Retirada",
+        "deposit": "Depósito",
+        "depositTransaction": "Depósito",
+        "transfer": "Transferencia",
+        "openedWithdrawal": "Solicitud de retirada abierta"
+      },
+      "tradingAccounts": {
+        "title": "Cuentas de Trading",
+        "addAccountBtn": "Añadir cuenta",
+        "columns": {
+          "external_id": "Id",
+          "group": "Tipo",
+          "currency": "Moneda",
+          "balance": "Saldo",
+          "bonus": "Bono"
+        },
+        "btnDeposit": "Depósito",
+        "btnTransfer": "Transferencia",
+        "btnWithdraw": "Retirar"
+      },
+      "depositFirstPage": {
+        "depositIsProcessing": "Su depósito se está procesando",
+        "demoDepositUnavaliable": "No se puede depositar en la cuenta demo",
+        "depositError": "Algo salió mal",
+        "chooseDepositAmount": "Elija el importe del depósito",
+        "bonus": "Bono",
+        "policyPrivacy": "Acepto y estoy de acuerdo con",
+        "policyPrivacyLink": "Política de primas",
+        "totalTradingDeposit": "Depósito total",
+        "chooseFundingMethod": "Elegir el método de financiación",
+        "depositBtn": "Depósito",
+        "doYouHavePromocode": "¿Tiene un código promocional?"
+      },
+      "depositSecondPage": {
+        "copyBtn": "Copia",
+        "depositAddress": "Dirección del depósito",
+        "txid": "TXID",
+        "openInExplorer": "Abrir en el Explorador",
+        "onlySendCurrency": "Sólo enviar {m$sg} a esta dirección",
+        "depositMessage": "Finteria sólo admite depósitos {m$sg} a través de la red principal nativa {m$sg}. Otras redes no están soportadas. El envío de otras monedas o el envío de {m$sg} a través de otras redes resultará en la pérdida permanente de sus fondos.",
+        "depositMessages": {
+          "btc": "Envíe sólo transferencias BTC a través de la red Bitcoin. No se admiten otras redes. El envío de otras monedas o el envío de BTC a través de otras redes resultará en la pérdida permanente de sus fondos.",
+          "eth": "Envíe sólo depósitos ETH a través de Ethereum Mainnet (ERC-20). No se admiten otras redes. El envío de otras monedas o el envío de ETH a través de otras redes resultará en una pérdida permanente de sus fondos.",
+          "usdt": {
+            "erc20": "Envíe únicamente USDT a través de la red ERC20 a esta dirección. El envío de otras monedas o el envío de USDT a través de otras redes resultará en la pérdida permanente de sus fondos.",
+            "trc20": "Envíe únicamente USDT a través de la red ERC20 a esta dirección. El envío de otras monedas o el envío de USDT a través de otras redes resultará en la pérdida permanente de sus fondos."
+          },
+          "usdc": {
+            "erc20": "Envíe únicamente USDT a través de la red ERC20 a esta dirección. El envío de otras monedas o el envío de USDT a través de otras redes resultará en la pérdida permanente de sus fondos.",
+            "trc20": "Envíe únicamente USDT a través de la red ERC20 a esta dirección. El envío de otras monedas o el envío de USDT a través de otras redes resultará en la pérdida permanente de sus fondos."
+          },
+          "dai": "Envíe sólo transferencias DAI a través de Ethereum Mainnet (ERC-20). No se admiten otras redes. El envío de otras monedas o el envío de DAI a través de otras redes resultará en la pérdida permanente de sus fondos.",
+          "trx": "Envíe sólo transferencias TRX a través de TRON Mainnet. No se admiten otras redes. El envío de otras monedas o el envío de TRX a través de otras redes resultará en una pérdida permanente de sus fondos.",
+          "avax": "Envíe sólo transferencias AVAX a través de Avalanche Mainnet. No se admiten otras redes. El envío de otras monedas o el envío de AVAX a través de otras redes resultará en la pérdida permanente de sus fondos.",
+          "dot": "Envíe sólo transferencias TRX a través de TRON Mainnet. No se admiten otras redes. El envío de otras monedas o el envío de TRX a través de otras redes resultará en la pérdida permanente de sus fondos.",
+          "ada": "Envíe sólo transferencias ADA a través de Cardano Mainnet. No se admiten otras redes. El envío de otras monedas o el envío de ADA a través de otras redes resultará en la pérdida permanente de sus fondos.",
+          "matic": "Envíe sólo transferencias MATIC a través de Polygon Mainnet. No se admiten otras redes. El envío de otras monedas o el envío de MATIC a través de otras redes resultará en la pérdida permanente de sus fondos.",
+          "wbtc": "Envíe únicamente transferencias de WBTC a través de Ethereum Mainnet (ERC-20). No se admiten otras redes. El envío de otras monedas o el envío de WBTC a través de otras redes resultará en la pérdida permanente de sus fondos."
+        },
+        "statuses": {
+          "pending": "Pendiente",
+          "completed": "Completado",
+          "waiting": "En espera",
+          "expired": "Caducado",
+          "available": "Disponible en"
+        },
+        "timeInterval": "Tiempo restante",
+        "timeIntervalExpired": "Si aún no se ha efectuado el pago, anúlelo y cree un nuevo depósito",
+        "confirmationMessage": "Las monedas se depositarán después de 3 confirmaciones.",
+        "confirmationMessages": {
+          "eth": "Las monedas se depositarán después de 12 confirmaciones.",
+          "ltc": "Las monedas se depositarán después de 12 confirmaciones.",
+          "bch": "Las monedas se depositarán después de 12 confirmaciones.",
+          "zec": "Las monedas se depositarán después de 24 confirmaciones."
+        },
+        "transaction": "Transacción",
+        "scanQr": "Puede escanear este código QR con la aplicación de monedero móvil para realizar un pago o enviar el importe exacto a la dirección de depósito.",
+        "depositAmount": "Importe del depósito",
+        "receivingAmount": "Importe de recepción",
+        "status": "Estado",
+        "needAssistance": "¿Necesita ayuda?",
+        "requestCallback": "Solicitar una devolución de llamada",
+        "or": "o",
+        "chatWithUs": "chatea con nosotros",
+        "rotationalAddress": "Dirección temporal",
+        "timeRemaining": "Tiempo restante",
+        "payretailers": {
+          "fillRequiredFields": "Rellene los campos obligatorios"
+        }
+      },
+      "depositWithModal": {
+        "paymentCard": {
+          "title": "Datos de la tarjeta",
+          "backBtn": "Volver",
+          "continueBtn": "Continúe en",
+          "processing": "Procesar su método de pago",
+          "processingFailed": "Su tarjeta de crédito ha sido verificada correctamente",
+          "toast": {
+            "fillCardNumber": "Rellene correctamente el número de tarjeta",
+            "fillHolderName": "Nombre del titular de la tarjeta",
+            "expirationNotCorrect": "La hora de caducidad no es correcta",
+            "fillCVV": "Por favor, rellene el CVV"
+          },
+          "cardholderName": "Nombre del titular"
+        },
+        "title": "Financiación con Visa, Mastercard",
+        "paragraph": "Está a un paso de completar su depósito comercial. Simplemente haga clic en el botón {m$sg} y siga las instrucciones.",
+        "cantLoadWidget": "No se puede cargar el widget",
+        "paybis": {
+          "text": "Usted está financiando su cuenta de trading con Visa/Mastercard comprando cripto con el proveedor de terceros Paybis.",
+          "depositWith": "COMPRAR {a$mnt} con Paybis",
+          "addressText": "A continuación encontrará la dirección del monedero que hemos generado especialmente para usted. Asegúrese de copiarla exactamente como se muestra.",
+          "walletAddress": "Dirección de la cartera",
+          "clickButtonText": "Haga clic en el botón de abajo para acceder a Paybis, un servicio seguro para comprar criptomonedas.",
+          "afterText": "Una vez que haya realizado la compra en Paybis, el importe se abonará automáticamente en su cuenta de operaciones. Así de sencillo."
+        }
+      },
+      "transfer": {
+        "amount": "Importe",
+        "status": "Estado",
+        "toAccount": "A la cuenta",
+        "continueBtn": "Continúe en",
+        "backToTrading": "Volver a Comercio",
+        "inReview": "En revisión",
+        "info": "Su solicitud de retirada se ha enviado correctamente. Revisaremos y confirmaremos la solicitud de retirada en el plazo de 1 hora. Si la solicitud de retirada requiere comprobaciones adicionales, la confirmación puede tardar hasta 48 horas.",
+        "available": "Disponible para retirar"
+      },
+      "withdrawal": {
+        "amount": "Importe",
+        "balance": "Saldo",
+        "address": "Dirección",
+        "networkFee": "Tasa de red",
+        "youGet": "Obtienes",
+        "continueBtn": "Continúe en",
+        "blockchain_network": "Red",
+        "cancelBtn": "Cancelar",
+        "currency": "Moneda"
+      },
+      "depositSuccessPage": {
+        "paid": "Tú pagaste:",
+        "deposited": "Depositado:"
+      }
+    },
+    "wallets": {
+      "title": "Billeteras",
+      "tabs": {
+        "wallets": {
+          "label": "Billeteras"
+        },
+        "transactionsHistory": {
+          "label": "Historial de transacciones"
+        }
+      },
+      "walletsTab": {
+        "addWalletBtn": "Añadir cartera",
+        "addWalletCancel": "Cancelar",
+        "estimatedBalance": "Saldo estimado",
+        "hideSmallBalances": "Ocultar pequeños saldos",
+        "columns": {
+          "currency": "Moneda",
+          "balance": "Saldo disponible",
+          "locked_balance": "Saldo bloqueado"
+        },
+        "btnDeposit": "Depósito",
+        "btnTransfer": "Transferencia",
+        "btnWithdraw": "Retirar",
+        "btnExchange": "Intercambio",
+        "withdrawal": {
+          "amount": "Importe",
+          "balance": "Saldo",
+          "address": "Dirección",
+          "networkFee": "Comisión de Retirada",
+          "youGet": "Obtienes",
+          "continueBtn": "Continúe en",
+          "goBackBtn": "Volver atrás",
+          "withdrawalErrors": {
+            "required": "Requerido",
+            "minValue": "El valor mínimo es {m$sg}",
+            "maxValue": "Tienes {m$sg}",
+            "numeric": "El valor debe ser numérico",
+            "verifiedNotification": "Para retirar fondos, verifique su identidad.",
+            "verifiedDepositNotification": "Para retirar fondos, debe haber realizado al menos un depósito."
+          },
+          "withdrawalSuccess": {
+            "inReview": "En revisión",
+            "address": "Dirección",
+            "amount": "Importe",
+            "status": "Estado",
+            "statusResult": "Pendiente",
+            "info": "Su solicitud de retirada se ha enviado correctamente. Revisaremos y confirmaremos la solicitud de retirada en el plazo de 1 hora. Si la solicitud de retirada requiere comprobaciones adicionales, la confirmación puede tardar hasta 48 horas.",
+            "backToWallets": "Volver a Carteras"
+          },
+          "startVerification": "Iniciar verificación.",
+          "networkPlaceholder": "Seleccione la red de retirada",
+          "network": "Red",
+          "makeDeposit": "Hacer un ingreso",
+          "unlockKYC": "Para desbloquear la verificación KYC y las opciones de retirada, realice primero un depósito."
+        },
+        "deposit": {
+          "scanQr": "Puede escanear este código QR con la aplicación de monedero móvil para realizar un pago o enviar el importe exacto a la dirección de depósito.",
+          "depositAmount": "Importe del depósito",
+          "depositAddress": "Dirección del depósito",
+          "onlySendCurrency": "Sólo enviar {m$sg} a esta dirección",
+          "confirmationMessage": "Las monedas se depositarán después de 3 confirmaciones.",
+          "confirmationMessages": {
+            "eth": "Las monedas se depositarán después de 12 confirmaciones.",
+            "ltc": "Las monedas se depositarán después de 12 confirmaciones.",
+            "bch": "Las monedas se depositarán después de 12 confirmaciones.",
+            "zec": "Las monedas se depositarán después de 24 confirmaciones."
+          },
+          "goBackBtn": "Volver atrás",
+          "depositMessage": "Finteria sólo admite depósitos {m$sg} a través de la red principal nativa {m$sg}. Otras redes no están soportadas. El envío de otras monedas o el envío de {m$sg} a través de otras redes resultará en la pérdida permanente de sus fondos.",
+          "depositMessages": {
+            "btc": "Envíe sólo transferencias BTC a través de la red Bitcoin. No se admiten otras redes. El envío de otras monedas o el envío de BTC a través de otras redes resultará en la pérdida permanente de sus fondos.",
+            "eth": "Envíe sólo depósitos ETH a través de Ethereum Mainnet (ERC-20). No se admiten otras redes. El envío de otras monedas o el envío de ETH a través de otras redes resultará en una pérdida permanente de sus fondos.",
+            "usdc": {
+              "erc20": "Envíe únicamente USDT a través de la red ERC20 a esta dirección. El envío de otras monedas o el envío de USDT a través de otras redes resultará en la pérdida permanente de sus fondos.",
+              "trc20": "Envíe únicamente USDT a través de la red ERC20 a esta dirección. El envío de otras monedas o el envío de USDT a través de otras redes resultará en la pérdida permanente de sus fondos."
+            },
+            "dai": "Envíe sólo transferencias DAI a través de Ethereum Mainnet (ERC-20). No se admiten otras redes. El envío de otras monedas o el envío de DAI a través de otras redes resultará en la pérdida permanente de sus fondos.",
+            "wbtc": "Envíe únicamente transferencias de WBTC a través de Ethereum Mainnet (ERC-20). No se admiten otras redes. El envío de otras monedas o el envío de WBTC a través de otras redes resultará en la pérdida permanente de sus fondos.",
+            "trx": "Envíe sólo transferencias TRX a través de TRON Mainnet. No se admiten otras redes. El envío de otras monedas o el envío de TRX a través de otras redes resultará en la pérdida permanente de sus fondos.",
+            "avax": "Envíe sólo transferencias AVAX a través de Avalanche Mainnet. No se admiten otras redes. El envío de otras monedas o el envío de AVAX a través de otras redes resultará en la pérdida permanente de sus fondos.",
+            "dot": "Envíe sólo transferencias DOT a través de Polkadot Mainnet. Otras redes no están soportadas. Enviar otras monedas o enviar DOT a través de otras redes resultará en la pérdida permanente de sus fondos.",
+            "ada": "Envíe sólo transferencias ADA a través de Cardano Mainnet. No se admiten otras redes. El envío de otras monedas o el envío de ADA a través de otras redes resultará en la pérdida permanente de sus fondos.",
+            "matic": "Envíe sólo transferencias MATIC a través de Polygon Mainnet. No se admiten otras redes. El envío de otras monedas o el envío de MATIC a través de otras redes resultará en la pérdida permanente de sus fondos.",
+            "usdt": {
+              "erc20": "Envíe únicamente USDT a través de la red ERC20 a esta dirección. El envío de otras monedas o el envío de USDT a través de otras redes resultará en la pérdida permanente de sus fondos.",
+              "trc20": "Envíe únicamente USDT a través de la red ERC20 a esta dirección. El envío de otras monedas o el envío de USDT a través de otras redes resultará en la pérdida permanente de sus fondos."
+            }
+          },
+          "transaction": "Transacción",
+          "copyBtn": "Copia",
+          "beAwareAddresIsTemporary": "Tenga en cuenta que la dirección de depósito es temporal y está activa durante un tiempo limitado. No envíe fondos después de la fecha de caducidad, ya que podría perder sus fondos de forma permanente.",
+          "selectNetwork": "Seleccionar red",
+          "rotationalAddress": "Dirección temporal"
+        }
+      },
+      "filters": {
+        "title": "Filtros",
+        "allCurrency": "Todas las divisas",
+        "transactionType": "Tipo de transacción",
+        "period": "Periodo",
+        "transactionTypes": {
+          "deposit": "depósito",
+          "withdraw": "retirar",
+          "commission": "comisión",
+          "fee": "tarifa",
+          "loan_origination_fee": "comisión de apertura del préstamo",
+          "conversion": "conversión",
+          "internal_exchange": "intercambio interno",
+          "collateral": "garantía",
+          "collateral_adjustment": "ajuste de garantías",
+          "loan": "préstamo",
+          "loan_payment": "pago del préstamo",
+          "loan_interest_payment": "pago de intereses del préstamo"
+        }
+      },
+      "transactionsTab": {
+        "columns": {
+          "id": "ID",
+          "created_at": "Fecha",
+          "type": "Tipo",
+          "transaction_owner_name": "Origen",
+          "amount": "Importe"
+        }
+      },
+      "ordersTab": {
+        "columns": {
+          "id": "ID",
+          "date": "Fecha",
+          "status": "Estado",
+          "amount": "Importe",
+          "type": "Tipo"
+        }
+      }
+    },
+    "settings": {
+      "settingsTitle": "Perfil",
+      "tabs": {
+        "general": {
+          "label": "General"
+        },
+        "verification": {
+          "label": "Verificación"
+        },
+        "password": {
+          "label": "Contraseña"
+        },
+        "sessions": {
+          "label": "Sesiones"
+        }
+      },
+      "general": {
+        "email": "Correo electrónico",
+        "emailText": "Si desea cambiar su dirección de correo electrónico, póngase en contacto con nuestro equipo de asistencia.",
+        "phone": "Teléfono",
+        "phoneText": "Si desea cambiar su número de teléfono, póngase en contacto con nuestro equipo de asistencia.",
+        "language": "Idioma",
+        "languageText": "Su idioma preferido.",
+        "btnSave": "Guardar configuración",
+        "selectCountry": "Seleccione un país",
+        "changePhone": "Cambiar el número de teléfono"
+      },
+      "verification": {
+        "accountVerificationsStatus": "Estado de las verificaciones de cuentas",
+        "agreementSignInstruction": "Introduzca su nombre y apellidos y firme el acuerdo.",
+        "personalData": "Datos personales",
+        "name": "Nombre",
+        "surname": "Apellido",
+        "accountVerification": "Verificación de la cuenta",
+        "chooseYourIdType": "Elija su tipo de identificación",
+        "copyOfPassport": "Copia del pasaporte",
+        "frontSide": "Anverso Tarjeta ID",
+        "backSide": "Parte trasera Tarjeta ID",
+        "uploadFileImg": "Cargar archivo (PDF, PNG, JPG, HEIC, HEIF) máx. 10 mb",
+        "notLoaded": "No cargado",
+        "loaded": "Cargado",
+        "onVerification": "Sobre la verificación",
+        "notSigned": "No firmado",
+        "signed": "Firmado",
+        "uploadFile": "Cargar archivo",
+        "uploadSign": "Firmar acuerdo",
+        "takeASelfie": "Hazte un selfie",
+        "takeASelfieText": "Tómese una foto con su documento de identidad junto a la cara. Asegúrese de que tanto su cara como su documento de identidad son claramente visibles en la foto. No debe haber nada en el documento de identidad.",
+        "agreement": "Acuerdo",
+        "downloadAgreement": "Descargar acuerdo",
+        "isVerified": {
+          "verified": "Verificado",
+          "notVerified": "No verificado"
+        },
+        "verifyBtn": "Verifique",
+        "saveBtn": "Guardar",
+        "submitBtn": "Enviar",
+        "signBtn": "Firme",
+        "signAcceptanceTitle": "Para empezar a operar, firme una aceptación de servicio",
+        "signAcceptanceDescription": "Los servicios financieros prestados por este sitio web conllevan un alto nivel de riesgo y pueden provocar la pérdida de todos sus fondos. Nunca debe invertir dinero que no pueda permitirse perder. Por favor, asegúrese de leer nuestros términos y condiciones antes de realizar cualquier operación en nuestra plataforma de negociación. Bajo ninguna circunstancia la empresa tiene responsabilidad alguna ante ninguna persona o entidad por cualquier pérdida o daño causado por operaciones en este sitio web. Finteria ni sus agentes o socios no están registrados y no prestan ningún servicio en el territorio de EE.UU..",
+        "codeConfirmed": "Su código de verificación está confirmado",
+        "toast": {
+          "dataRequired": "Por favor, introduzca su nombre y apellidos en la parte superior de la página y firme el acuerdo",
+          "dataSent": "Sus datos han sido enviados para su verificación",
+          "signatureNeeded": "Envíe su firma",
+          "fileSize": "El tamaño del archivo no debe superar los 10 MB",
+          "fileFormat": "Cargar archivo (PDF, PNG, JPG, HEIC, HEIF)"
+        },
+        "drawSignature": "Dibuje aquí su firma",
+        "phonePlaceholder": "Añade tu número de teléfono",
+        "addBtn": "Añadir",
+        "verifyPhone": "Verifica tu teléfono",
+        "verifyEmail": "Verifique su correo electrónico",
+        "whatIsPhoneNumber": "¿Cuál es tu número de teléfono?",
+        "enterCode": "Introduzca el código enviado a",
+        "didReceiveCode": "¿No ha recibido el código?"
+      },
+      "password": {
+        "paragraph": "Por motivos de seguridad, las retiradas de fondos quedarán en suspenso durante 24 horas después de realizar esta acción.",
+        "currentPassword": "Contraseña actual",
+        "newPassword": "Nueva contraseña",
+        "confirmNewPassword": "Confirmar nueva contraseña",
+        "changePasswordBtn": "Cambiar contraseña",
+        "passwordSuccess": "Su contraseña ha sido modificada correctamente",
+        "comparePasswordError": "Las contraseñas no coinciden"
+      },
+      "authentication": {
+        "enableAuth": "Activar la autenticación de dos factores",
+        "enableAuthText": "Por su seguridad, le recomendamos encarecidamente que active la función 2FA en su cuenta. Después, tendrá que introducir un código de 6 dígitos cada vez que acceda a su cuenta, retire fondos o cambie la contraseña.",
+        "enableAuthBtn": "Activar 2FA",
+        "download2faApp": "Descargar la aplicación 2FA",
+        "download2faAppText": "Debes descargar e instalar una aplicación de autenticación, como Google Authenticator o Authy, en tu dispositivo móvil. Esta aplicación generará códigos de acceso únicos de 6 dígitos, necesarios para iniciar sesión en tu cuenta.",
+        "save2faBackupKey": "Guardar la clave de seguridad 2FA y escanear el código QR",
+        "save2faBackupKeyText": "Por favor, haga una copia de seguridad de su clave de recuperación 2FA en algún almacenamiento fuera de línea, es decir, anótela en un papel. Si pierde, le roban o borran su dispositivo móvil, necesitará esta clave para recuperar su acceso 2FA.",
+        "backupSecretKey": "Copia de seguridad / Clave secreta",
+        "backupSecretKeyText": "Por favor, anote o imprima una copia de la clave anterior y guárdela en un lugar seguro.",
+        "confirm2faActivation": "Confirmar activación 2FA",
+        "confirm2faActivationText": "Código 2FA de la aplicación Authenticator",
+        "confirm2faActivationPlaceholder": "Introduzca un código 2FA de 6 dígitos",
+        "enable2faBtn": "Activar 2FA"
+      },
+      "sessions": {
+        "columns": {
+          "user_agent": "Dispositivo",
+          "country": "País",
+          "ip": "Dirección IP",
+          "created_at": "Tiempo"
+        }
+      },
+      "languageChanged": "Su idioma ha cambiado",
+      "dataUpdated": "Sus datos personales han sido actualizados"
+    },
+    "exchange": {
+      "infoBlock": {
+        "summary": "Resumen",
+        "yourBalance": "Su {msg} Saldo",
+        "exchangeRate": "Tipo de cambio",
+        "time": {
+          "hours": "en {msg} h."
+        }
+      },
+      "actionBlock": {
+        "balance": "Saldo"
+      },
+      "page": {
+        "youPay": "Usted paga",
+        "youGet": "Obtienes",
+        "exchangeBtn": "Intercambio"
+      },
+      "success": {
+        "spent": "Gastaste:",
+        "converted": "Convertido:",
+        "price": "Precio:",
+        "backToWallets": "Volver a Carteras",
+        "exchangeAgain": "Intercambiar de nuevo"
+      }
+    },
+    "loans": {
+      "columns": {
+        "id": "Identificación del préstamo",
+        "status": "Estado",
+        "loan_amount": "Préstamo",
+        "loan_currency": "Moneda del préstamo",
+        "collateral_amount": "Colateral",
+        "collateral_currency": "Moneda de garantía",
+        "ltv": "LTV",
+        "daily_rate": "Tarifa diaria"
+      },
+      "helpers": {
+        "currency": "Moneda",
+        "id": "ID"
+      },
+      "tabs": [
+        {
+          "label": "Todos",
+          "value": "todos"
+        },
+        {
+          "label": "Activo",
+          "value": "activo"
+        },
+        {
+          "label": "Archivo",
+          "value": "archivo"
+        }
+      ],
+      "statuses": {
+        "opened": "Activo",
+        "closed": "Archivo",
+        "unsecured": "Sin garantía"
+      },
+      "actionBlock": {
+        "available": "Saldo"
+      },
+      "page": {
+        "youPay": "Usted paga",
+        "youGet": "Obtienes",
+        "exchangeBtn": "Intercambio"
+      }
+    },
+    "nav": {
+      "wallets": "Criptocarteras",
+      "trading": "Cuentas de Trading",
+      "loans": "Préstamos",
+      "interest": "Cuentas de Intereses",
+      "exchange": "Criptointercambio",
+      "button": "Plataforma de comercio",
+      "buttonSmall": "Comercio",
+      "account": "Ajustes",
+      "profile": "Perfil"
+    },
+    "navHelper": {
+      "profile-wallets": {
+        "label": "Billeteras"
+      },
+      "profile-trading": {
+        "label": "Cuentas de Trading"
+      },
+      "profile-trading-deposit": {
+        "label": "Cuentas de Trading"
+      },
+      "profile-trading-transfer": {
+        "label": "Cuentas de Trading"
+      },
+      "profile-trading-address": {
+        "label": "Cuentas de Trading"
+      },
+      "profile-loans": {
+        "label": "Préstamos"
+      },
+      "profile-loans-create": {
+        "label": "Préstamos"
+      },
+      "profile-loans-loan": {
+        "label": "Préstamos"
+      },
+      "profile-loans-repay": {
+        "label": "Préstamos"
+      },
+      "profile-interest": {
+        "label": "Cuentas de intereses"
+      },
+      "profile-exchange": {
+        "label": "Criptointercambio"
+      },
+      "profile": {
+        "label": "Perfil"
+      },
+      "profile-trading-withdraw-id": {
+        "label": "Cuentas de Trading"
+      }
+    },
+    "payment": {
+      "success": "Pago efectuado",
+      "error": "Pago fallido",
+      "info": "Pago anulado"
+    }
+  },
+  "borrow": {
+    "landingPreview": {
+      "btnPrimary": "OBTENER PRÉSTAMO",
+      "pretitle": "Depositar criptomonedas, recibir efectivo",
+      "title": "Obtenga criptopréstamos al instante",
+      "subtitle": "Utilice las TOP 20 monedas como garantía para los préstamos de criptomonedas con la mayor relación préstamo-valor (90%). Obtén préstamos en EUR, USD, CHF y GBP y retira al instante a tarjeta de crédito y cuenta bancaria.",
+      "posttitle": "Regulado por la FSA"
+    },
+    "landingRates": {
+      "title": "Activos y tipos subvencionados"
+    },
+    "numCards": [
+      {
+        "bigTitle": "$15.6B+",
+        "subtitle": "De liquidez disponible"
+      },
+      {
+        "bigTitle": "100+",
+        "subtitle": "monedas y fichas admitidas"
+      },
+      {
+        "bigTitle": "$100M+",
+        "subtitle": "Activos cubiertos por la póliza Finteria"
+      },
+      {
+        "bigTitle": "$110M+",
+        "subtitle": "Comunidad BTC"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "Registrado por la FSA",
+        "icon": "sw_flag"
+      },
+      {
+        "text": "Servicio de atención al cliente 24 horas al día, 7 días a la semana",
+        "icon": "reloj"
+      },
+      {
+        "text": "Seguridad Certificación ISO 27001",
+        "icon": "sheild"
+      },
+      {
+        "text": "Soporte multilingüe",
+        "icon": "globus"
+      }
+    ],
+    "infoBlock": {
+      "title": "Cómo funcionan los préstamos respaldados por criptomonedas",
+      "left_items": [
+        {
+          "title": "Transfiere criptomonedas a tu monedero Finteria",
+          "text": "Finteria acepta las 20 principales criptomonedas como garantía. Sin comisiones por depósitos o retiradas de criptodivisas."
+        },
+        {
+          "title": "Recupere su criptogarantía en cualquier momento",
+          "text": "Puedes devolver tu préstamo utilizando una tarjeta de crédito, stablecoins o cuenta bancaria y recuperar tu cripto. Puedes guardar tus criptoactivos en la cartera de Finteria y tener acceso instantáneo a los criptopréstamos."
+        },
+        {
+          "title": "Obtener un criptopréstamo y retirar fondos",
+          "text": "La aprobación de tu préstamo tarda segundos. No necesitas encontrar un prestamista como en las plataformas peer-to-peer (p2p). Recibes dinero al instante en EUR, USD, USDT o BTC. Finteria funciona como una casa de empeño. Hay una venta temporal de criptodivisas, donde TÚ eres el vendedor y Finteria es el comprador. En cualquier momento, puede recomprar la criptomoneda de Finteria."
+        }
+      ],
+      "right_title": "Nuestras opciones de retirada de efectivo",
+      "right_items": [
+        "Retirada por transferencia bancaria a través de SEPA y SWIFT. Disponible en todo el mundo.",
+        "Retirada con tarjeta de crédito a su MasterCard o VISA.",
+        "Retirada de criptomonedas: compre cualquier criptomoneda o stablecoin utilizando nuestra bolsa de criptomonedas integrada."
+      ]
+    },
+    "helpCenter": {
+      "title": "Centro de ayuda",
+      "text": "Empezar a utilizar Finteria es fácil. Pero para aquellos de ustedes que están un poco inseguros, tenemos un montón de posts instructivos y consejos útiles sobre cómo gestionar los activos de una manera segura e inteligente.",
+      "buttonText": "Chatea con nosotros",
+      "accordions": [
+        {
+          "title": "¿Cómo comprar criptomonedas?",
+          "text": "Para comprar cripto, vaya a su monedero y deposite fondos mediante tarjeta de crédito o cuenta bancaria. Una vez recibidos los fondos, estarán disponibles en tu monedero y podrás comprar cripto con tu fiat.\n"
+        },
+        {
+          "title": "¿Cómo puedo obtener un préstamo?",
+          "text": "Obtener un préstamo es fácil y sencillo. Sólo tienes que depositar criptomoneda en tu cartera e iniciar un contrato de préstamo. \nLa aprobación de tu préstamo tardará segundos. Recibirás dinero al instante en EUR, USD, USDT o BTC. Puedes recomprar la criptomoneda de Finteria más tarde en cualquier momento."
+        },
+        {
+          "title": "¿Qué divisas se pueden cambiar?",
+          "text": "Finteria admite más de 20 criptomonedas para intercambiar, pedir prestado y ganar dinero. La lista de monedas y tokens disponibles se actualiza periódicamente.\n"
+        },
+        {
+          "title": "¿Hay comisiones por retirada de dinero?",
+          "text": "No se cobran comisiones por retirar divisas fiduciarias. Las comisiones por retirada de criptomonedas dependen de las comisiones de red y del estado actual de la red blockchain."
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "Importe del préstamo",
+      "secondTitle": "Colateral",
+      "loan_to_value": "Relación préstamo-valor (LTV)",
+      "dailyInterest": "Interés diario"
+    }
+  },
+  "earn": {
+    "landingPreview": {
+      "pretitle": "Su criptografía trabaja para usted",
+      "title": "Gana Crypto con las plataformas TOP de apuestas y préstamos",
+      "subtitle": "Gana intereses y recompensas de staking en DeFi y plataformas centralizadas de terceros. Convierte tus activos fríos en beneficios calientes al instante depositando cripto en tu cartera Finteria y empieza a recibir pagos de intereses diarios.",
+      "posttitle": "Regulado por la FSA",
+      "btnPrimary": "Gane criptomonedas"
+    },
+    "landingRates": {
+      "title": "Activos y tipos subvencionados"
+    },
+    "numCards": [
+      {
+        "bigTitle": "$15.6B+",
+        "subtitle": "En activos comunitarios"
+      },
+      {
+        "bigTitle": "897K+",
+        "subtitle": "Usuarios de Finteria"
+      },
+      {
+        "bigTitle": "$386M+",
+        "subtitle": "Rendimiento pagado en los últimos 12 meses"
+      },
+      {
+        "bigTitle": "109K+",
+        "subtitle": "Comunidad BTC"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "Registrado por la FSA",
+        "icon": "sw_flag"
+      },
+      {
+        "text": "Servicio de atención al cliente 24 horas al día, 7 días a la semana",
+        "icon": "reloj"
+      },
+      {
+        "text": "Seguridad Certificación ISO 27001",
+        "icon": "sheild"
+      },
+      {
+        "text": "Soporte multilingüe",
+        "icon": "globus"
+      }
+    ],
+    "infoBlock": {
+      "title": "¿Cómo funciona una cuenta de criptoahorro?",
+      "left_items": [
+        {
+          "title": "Deposita criptomonedas en tu monedero Finteria",
+          "text": "Finteria acepta las 20 principales criptomonedas. Sin comisiones por depósitos o retiradas de criptodivisas."
+        },
+        {
+          "title": "Indique a Finteria que transfiera su cripto a DeFi o a la plataforma de apuestas",
+          "text": "Elija un programa de cripto recompensas y comience a ganar mientras mantiene sus cripto tokens en su monedero individual."
+        },
+        {
+          "title": "Gane recompensas compuestas cada día",
+          "text": "La aprobación de su programa de ahorro tarda segundos. Comenzará a ganar instantáneamente recompensas compuestas en sus cripto tokens."
+        }
+      ],
+      "right_title": "Política de retirada de fondos de las cuentas de ahorro",
+      "right_items": [
+        "Puede liberar sus fondos en cualquier momento y recibirá íntegramente los intereses devengados.",
+        "Cada transferencia adicional de cripto a la cuenta de ahorro, creará un contrato de estaca o préstamo separado. ",
+        "Puede conservar los intereses acumulados para obtener aún más beneficios."
+      ]
+    },
+    "helpCenter": {
+      "title": "Centro de ayuda",
+      "text": "Empezar a utilizar Finteria es fácil. Pero para aquellos de ustedes que están un poco inseguros, tenemos un montón de posts instructivos y consejos útiles sobre cómo gestionar los activos de una manera segura e inteligente.",
+      "accordions": [
+        {
+          "title": "¿Cómo puedo comprar criptomonedas?",
+          "text": "Para comprar cripto, vaya a su monedero y deposite fondos mediante tarjeta de crédito o cuenta bancaria. Una vez recibidos los fondos, estarán disponibles en tu monedero y podrás comprar cripto con tu fiat.\n"
+        },
+        {
+          "title": "¿Cómo puedo obtener un préstamo?",
+          "text": "Obtener un préstamo es fácil y sencillo. Sólo tienes que depositar criptomoneda en tu cartera e iniciar un contrato de préstamo. \nLa aprobación de tu préstamo tardará segundos. Recibirás dinero al instante en EUR, USD, USDT o BTC. Puedes recomprar la criptomoneda de Finteria más tarde en cualquier momento."
+        },
+        {
+          "title": "¿Qué divisas se pueden cambiar?",
+          "text": "Finteria admite más de 20 criptomonedas para intercambiar, pedir prestado y ganar dinero. La lista de monedas y tokens disponibles se actualiza periódicamente.\n"
+        },
+        {
+          "title": "¿Hay comisiones por retirada de dinero?",
+          "text": "No se cobran comisiones por retirar divisas fiduciarias. Las comisiones por retirada de criptomonedas dependen de las comisiones de red y del estado actual de la red blockchain."
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "Importe",
+      "secondTitle": "¿Durante cuánto tiempo?",
+      "annual": "Interés anual (APY)",
+      "period": "Ganancias del periodo",
+      "estimated": "Ingresos estimados",
+      "week": "semana",
+      "month": "mes",
+      "year": "año"
+    }
+  },
+  "exchange": {
+    "landingPreview": {
+      "title": "Bolsa de criptomonedas Finteria NO FEE",
+      "subtitle": "Intercambio instantáneo de criptomonedas sin comisiones. Intercambia criptomonedas, stablecoins y fiat como BTC, ETH, USD, etc. Compra Bitcoins con tarjeta de crédito. ",
+      "posttitle": "Cartera BitGo",
+      "posttitle2": "Proveedor de custodia",
+      "optionsAdvantages": "Calificación Excelente",
+      "optionsAdvantages2": "en Trustpilot",
+      "btnPrimary": "INTERCAMBIO DE CRIPTOMONEDAS",
+      "pretitle": "Depositar criptomonedas, recibir efectivo"
+    },
+    "landingRates": {
+      "title": "Activos subvencionados"
+    },
+    "numCards": [
+      {
+        "bigTitle": "24/7",
+        "title": "Comercio ininterrumpido",
+        "subtitle": "incluidos los fines de semana"
+      },
+      {
+        "bigTitle": "$250",
+        "title": "Depósito mínimo",
+        "subtitle": "Asequible para todos"
+      },
+      {
+        "bigTitle": "$1",
+        "title": "Tamaño mínimo de operación",
+        "subtitle": "Adecuado para principiantes"
+      },
+      {
+        "bigTitle": "100+",
+        "title": "Activos comerciales",
+        "subtitle": "acciones, criptomonedas, materias primas"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "Registrado por la FSA",
+        "icon": "cierre"
+      },
+      {
+        "text": "Servicio de atención al cliente 24 horas al día, 7 días a la semana",
+        "icon": "reloj-azul"
+      },
+      {
+        "text": "Seguridad Certificación ISO 27001",
+        "icon": "sheild"
+      },
+      {
+        "text": "Alcance mundial: más de 150 países",
+        "icon": "globus"
+      }
+    ],
+    "infoBlock": {
+      "title": "Cómo funciona el criptointercambio",
+      "left_items": [
+        {
+          "title": "Depositar Crypto",
+          "text": "Finteria acepta las 20 principales criptomonedas. Sin comisiones por depósitos o retiradas de criptodivisas."
+        },
+        {
+          "title": "Canje por Fiat o Cripto",
+          "text": "Puede intercambiar fácilmente activos fiduciarios y criptográficos con comisiones bajas y retirar fondos a su tarjeta, cuenta bancaria o monedero."
+        }
+      ],
+      "right_title": "Información importante",
+      "right_items": [
+        "Finteria es una plataforma segura y regulada para comprar, vender o almacenar criptomonedas.",
+        "El tipo de cambio se actualiza cada segundo siguiendo el mercado de criptomonedas, por lo que recibirá una visión instantánea de la relación de precios.",
+        "No cobramos comisión por el intercambio de cripto a cripto.",
+        "Puede comprar las principales criptomonedas al tipo de cambio actual utilizando su VISA/MASTERCARD."
+      ]
+    },
+    "helpCenter": {
+      "title": "Centro de ayuda",
+      "text": "Empezar a utilizar Finteria es fácil. Pero para aquellos de ustedes que están un poco inseguros, tenemos un montón de posts instructivos y consejos útiles sobre cómo gestionar los activos de una manera segura e inteligente.",
+      "buttonText": "Chatea con nosotros",
+      "accordions": [
+        {
+          "title": "¿Cómo comprar criptomonedas?",
+          "text": "Para comprar cripto, vaya a su monedero y deposite fondos mediante tarjeta de crédito o cuenta bancaria. Una vez recibidos los fondos, estarán disponibles en tu monedero y podrás comprar cripto con tu fiat.\n"
+        },
+        {
+          "text": "Obtener un préstamo es fácil y sencillo. Sólo tienes que depositar criptomoneda en tu cartera e iniciar un contrato de préstamo. \nLa aprobación de tu préstamo tardará segundos. Recibirás dinero al instante en EUR, USD, USDT o BTC. Puedes recomprar la criptomoneda de Finteria más tarde en cualquier momento.",
+          "title": "¿Cómo puedo obtener un préstamo?"
+        },
+        {
+          "title": "¿Qué divisas se pueden cambiar?",
+          "text": "Finteria admite más de 20 criptomonedas para intercambiar, pedir prestado y ganar dinero. La lista de monedas y tokens disponibles se actualiza periódicamente.\n"
+        },
+        {
+          "title": "¿Hay comisiones por retirada de dinero?",
+          "text": "No se cobran comisiones por retirar divisas fiduciarias. Las comisiones por retirada de criptomonedas dependen de las comisiones de red y del estado actual de la red blockchain."
+        }
+      ]
+    },
+    "calculator": {
+      "secondTitle": "Necesito",
+      "rate": "Tarifa",
+      "firstTitle": "Cantidad que tengo"
+    }
+  },
+  "trade": {
+    "game-widget-title": "¿Subirá el precio <span class='green'></span> o bajará <span class='red'></span> ?",
+    "landingPreview": {
+      "title": "Opere con criptomonedas, divisas y CFD y gane hasta un 90% en 30 segundos.",
+      "subtitle": "Obtenga ingresos adicionales prediciendo los movimientos de los mercados de criptomonedas y divisas",
+      "btnPrimary": "EMPEZAR A OPERAR",
+      "btnTry": "PLATAFORMA DEMO",
+      "gift": "Hasta el 100% <br> de bonificación",
+      "student": "10.000 $ de regalo <br> a la cuenta de demo"
+    },
+    "numCards": [
+      {
+        "bigTitle": "24/7",
+        "title": "Comercio ininterrumpido",
+        "subtitle": "incluidos los fines de semana"
+      },
+      {
+        "bigTitle": "${m$sg}",
+        "title": "Depósito mínimo",
+        "subtitle": "Asequible para todos"
+      },
+      {
+        "bigTitle": "$1",
+        "title": "Tamaño mínimo de operación",
+        "subtitle": "Adecuado para principiantes"
+      },
+      {
+        "bigTitle": "100+",
+        "title": "Activos comerciales",
+        "subtitle": "acciones, criptomonedas, materias primas"
+      }
+    ],
+    "tradeAtHome": {
+      "header": "Comercie en casa o sobre la marcha",
+      "finteria": {
+        "title": "Plataforma Finteria",
+        "subtitle": "Plataforma moderna y fácil de usar con los mejores gráficos",
+        "list": [
+          "12 tipos de gráficos",
+          "Más de 50 herramientas de dibujo inteligentes",
+          "Fácil de usar e intuitivo",
+          "Lo mejor para el análisis técnico"
+        ],
+        "button": "Plataforma de lanzamiento"
+      }
+    },
+    "threeSteps": {
+      "title": "Tres sencillos pasos para empezar",
+      "list": [
+        {
+          "title": "Inscribirse",
+          "text": "Registrarse lleva menos de un minuto",
+          "icon": "bandera"
+        },
+        {
+          "title": "Financie su cuenta",
+          "text": "Haga un depósito y empiece a operar",
+          "icon": "tarjeta"
+        },
+        {
+          "text": "¡Opere, gane y retire sus beneficios!",
+          "icon": "comercio",
+          "title": "Comercio y retirada"
+        }
+      ],
+      "button": "Inscribirse"
+    },
+    "tradingExperience": {
+      "title": "¿No tiene experiencia en comercio?",
+      "subtitle": "Copie a los operadores con más éxito",
+      "topStrategies": {
+        "title": "Estrategias principales",
+        "tableHeader": ["rango", "estrategia", "rendimiento"],
+        "buttonFollow": "Copia"
+      },
+      "list": [
+        {
+          "title": "Únase a la plataforma de negociación social",
+          "text": "¿A largo o a corto? Vaya con los mejores operadores. Abra una cuenta de trading y copie las órdenes de los mejores traders."
+        },
+        {
+          "title": "Suscribirse a Top Traders",
+          "text": "Seleccione a los mejores operadores y conecte con ellos al instante. Sólo necesita unos clics para empezar a recibir señales de negociación. Especifique las condiciones y cree suscripciones directamente en la plataforma de negociación."
+        },
+        {
+          "title": "Obtenga mayores beneficios",
+          "text": "Aumente la eficacia de sus operaciones y aprovéchelas para obtener mayores beneficios. Benefíciese de las recomendaciones de negociación con mejores resultados."
+        }
+      ]
+    },
+    "tradingIdeas": {
+      "title": "¿Necesita ideas?",
+      "subtitle": "Utilice nuestras herramientas analíticas para encontrar las mejores oportunidades de mercado",
+      "list": [
+        {
+          "title": "Ganadores Perdedores"
+        },
+        {
+          "title": "Fortaleza del mercado"
+        },
+        {
+          "title": "Mapa de calor"
+        },
+        {
+          "title": "Previsión diaria"
+        }
+      ]
+    },
+    "whyFinteria": {
+      "title": "Por qué Finteria es su elección",
+      "choices": [
+        {
+          "text": "<span>Retiradas garantizadas en</span> procesadas en 1 hora"
+        },
+        {
+          "text": "Servicio de negociación guiada con la ayuda de un asesor cualificado de <span></span>"
+        },
+        {
+          "text": "Posibilidad de operar en <span>los fines de semana</span>"
+        },
+        {
+          "text": "Más de <span>10 000 operaciones</span> servidas diariamente"
+        },
+        {
+          "text": "<span>Amplia gama</span> de métodos de financiación y retirada de fondos"
+        },
+        {
+          "text": "Atención al cliente <span>24/7</span>"
+        },
+        {
+          "text": "<span>Comercio 100% seguro</span> con protección de datos"
+        },
+        {
+          "text": "Copiar operaciones y ganar incluso <span>sin ninguna experiencia</span> en el comercio"
+        },
+        {
+          "text": "<span>Comercio sin comisiones</span>"
+        }
+      ]
+    },
+    "helpCenter": {
+      "accordions": [
+        {
+          "title": "¿Cuánto dinero necesito para empezar?",
+          "text": "El depósito inicial mínimo es de 10 $ o su equivalente en otra divisa."
+        },
+        {
+          "title": "¿Cómo puedo depositar?",
+          "text": "Hay varios métodos de depósito disponibles en función de su ubicación. Los métodos de depósito incluyen criptomonedas, tarjetas VISA/Mastercard y otros sistemas de pago electrónico. Consulte su Área de Cliente para obtener más información sobre los métodos de depósito disponibles."
+        },
+        {
+          "title": "¿Qué instrumentos puedo negociar?",
+          "text": "Finteria ofrece más de 100 instrumentos de negociación, incluyendo criptomonedas, divisas, CFD y materias primas."
+        },
+        {
+          "title": "¿Qué plataforma puedo utilizar?",
+          "text": "Puede utilizar Finteria Trader. La plataforma está disponible tanto para escritorio como para dispositivos móviles, lo que permite a los usuarios acceder a ella en cualquier momento y lugar."
+        },
+        {
+          "title": "¿Pago comisiones?",
+          "text": "Finteria ofrece operaciones sin comisiones."
+        },
+        {
+          "title": "¿Qué son las comisiones de retirada?",
+          "text": "No se cobran comisiones por retirar divisas fiduciarias. Las comisiones por retirada de criptomonedas dependen de las comisiones de red y del estado actual de la red blockchain."
+        }
+      ],
+      "title": "Empezar a utilizar Finteria es fácil",
+      "text": "Pero para los que no estén seguros, tenemos muchos artículos instructivos y consejos útiles sobre cómo empezar a operar.",
+      "buttonText": "Chatea con nosotros"
+    },
+    "joinFinteriaNow": "¡Únete a Finteria ahora mismo!",
+    "calculator": {
+      "title": "Su beneficio en 24 horas",
+      "dailyChange": "Cambio diario",
+      "investment": "Inversión",
+      "leverage": "Aproveche",
+      "tradeSize": "Tamaño del comercio",
+      "profit": "Beneficios",
+      "selectAsset": "Seleccione el activo",
+      "profitability": "Rentabilidad"
+    },
+    "meta": {
+      "title": "Opere con criptomonedas, divisas y CFD y gane hasta un 90% en 30 segundos",
+      "description": "Únete a Finteria, la plataforma de trading de rápido crecimiento, y desbloquea ilimitadas oportunidades de trading para empezar a ganar dinero online. Regístrate gratis y accede a potentes herramientas para maximizar tus beneficios. Empieza a operar ahora y aprovecha el potencial del mercado con Finteria."
+    }
+  },
+  "login": {
+    "reset": "Restablecer contraseña",
+    "title": "Iniciar sesión",
+    "inputs": {
+      "email": {
+        "label": "Correo electrónico"
+      },
+      "newPassword": "Nueva contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "password": {
+        "label": "Contraseña",
+        "postfix": "¿Ha olvidado su contraseña?"
+      }
+    },
+    "button": "INSCRÍBETE",
+    "buttonReset": "RESET",
+    "toastSuccessNewpassword": "Su contraseña se ha actualizado correctamente",
+    "toastSuccessReset": "Se ha enviado un enlace a su correo electrónico",
+    "footer": "¿No tiene cuenta?",
+    "fireBlock": "BitGo ofrece soluciones de custodia de activos digitales y un seguro contra delitos de 700 millones de dólares.",
+    "welcome": "Bienvenido a Finteria"
+  },
+  "signUp": {
+    "inputs": {
+      "email": {
+        "label": "Correo electrónico",
+        "postfix": "Introduzca el valor de correo electrónico correcto"
+      },
+      "country": {
+        "label": "Su país"
+      },
+      "password": {
+        "label": "Contraseña",
+        "postfix": "Debe contener al menos 6 símbolos",
+        "identy": "Sus contraseñas no coinciden"
+      },
+      "signupAgreement": "Confirmo que el servicio se me presta fuera del territorio de EE.UU.",
+      "termsAgreement": {
+        "prefix": "He leído y acepto las Condiciones del servicio y la Declaración de riesgos",
+        "links": {
+          "service": "Condiciones de uso",
+          "privacy": "Confidencialidad",
+          "policy": "Política AML",
+          "execution": "Acuerdo de ejecución",
+          "conversion": "Condiciones de los servicios de conversión",
+          "complaints": "Procedimiento de reclamación",
+          "specific": "Condiciones específicas de los servicios de conversión"
+        },
+        "union": "y"
+      }
+    },
+    "button": "INSCRÍBETE",
+    "footer": "¿Ya tiene una cuenta?",
+    "fireBlock": "Sus activos se almacenan bajo una solución de custodia líder con una póliza de seguro de 9.000 millones de dólares.",
+    "description": {
+      "gift": "Hasta el 100% <br> de bonificación",
+      "student": "10.000 $ de regalo <br> a la cuenta de demo",
+      "times": "1 hora <br> Retirada"
+    },
+    "wrongPromoCode": "Código promocional incorrecto",
+    "promoCodeApplied": "El código promocional XXX se ha aplicado correctamente",
+    "title": "Inscribirse",
+    "subtitle": "¡Y desbloquee el valor de sus activos!",
+    "toast": {
+      "recaptchaFailed": "Fallo de comprobación de Recaptcha"
+    }
+  },
+  "common": {
+    "btns": {
+      "goBack": "Volver atrás",
+      "cancel": "Cancelar",
+      "confirm": "Confirme",
+      "preview": "Vista previa",
+      "continue": "Continúe en",
+      "copied": "Copiado",
+      "done": "Hecho",
+      "save": "Guardar",
+      "clear": "Claro",
+      "loading": "Cargando",
+      "reset": "Restablecer",
+      "waiting": "En espera",
+      "apply": "Solicitar",
+      "resend": "Vuelva a enviar"
+    },
+    "toast": {
+      "success": "Éxito"
+    },
+    "errors": {
+      "goHomePage": "Ir a la página de inicio",
+      "403": "Autorización denegada. Póngase en contacto con el equipo de asistencia.",
+      "copyError": "Error de copia"
+    }
+  },
+  "Network": "account.wallets.walletsTab.withdrawal.network",
+  "blog": {
+    "list": {
+      "title": "Blog de comercio",
+      "lead": "Explore el blog de Finteria para conocer los últimos temas de actualidad en el mundo del trading. Obtenga información, actualizaciones, noticias y mucho más de un equipo de expertos de Finteria.",
+      "categories": "Categorías",
+      "categoriesTitle": "Para comerciantes:",
+      "articlesTitle": "Artículos",
+      "paginatorPrev": "Anterior",
+      "paginatorNext": "Siguiente"
+    },
+    "article": {
+      "otherNews": "Otras noticias"
+    }
+  },
+  "pressMedia": {
+    "title": "Prensa y medios de comunicación"
+  },
+  "cryptocurrency": {
+    "description1": "Experimente un acceso rápido al mercado global de criptomonedas, opere con una amplia gama de criptoactivos y tokens populares, y eleve sus resultados de trading con nuestra renombrada plataforma.",
+    "tradingCheckList": [
+      {
+        "title": "Alto potencial de beneficios",
+        "text": "Los operadores eligen las criptomonedas por su mayor volatilidad y el aumento de los beneficios potenciales en las operaciones con éxito."
+      },
+      {
+        "title": "Activos digitales más populares",
+        "text": "Finteria ofrece Bitcoin, Ethereum, Solana y Litecoin, las criptomonedas más populares del mercado."
+      },
+      {
+        "title": "Comercio seguro",
+        "text": "Los operadores pueden proteger sus posiciones contra la volatilidad extrema del mercado utilizando órdenes de protección, y tener tranquilidad mientras operan en una plataforma segura."
+      }
+    ],
+    "whyFinteriaCheckList": [
+      {
+        "title": "Gran liquidez, potentes herramientas",
+        "text": "Opere con criptomonedas con nuestra plataforma rápida, segura y fiable. Benefíciese de una gran liquidez y de una amplia gama de funciones y herramientas de negociación avanzadas."
+      },
+      {
+        "text": "Disfrute de algunas de las mejores condiciones de negociación del mercado con spreads reducidos y comisiones bajas en todas las operaciones con criptomonedas.",
+        "title": "Tarifas competitivas"
+      },
+      {
+        "text": "Personalice su interfaz de negociación con características como la funcionalidad multimonitor, una gama de herramientas de negociación profesionales y un servicio de atención al cliente 24 horas al día, 7 días a la semana.",
+        "title": "Operaciones intuitivas y fáciles de usar"
+      },
+      {
+        "title": "Herramientas gráficas avanzadas",
+        "text": "Experimente distintos tipos de gráficos, más de 50 indicadores de negociación y la posibilidad de ejecutar operaciones directamente desde los gráficos."
+      }
+    ],
+    "getStarted": "Comenzar",
+    "title": "Comercio de criptomonedas",
+    "lead": "Con Finteria puedes operar con una gran variedad de criptodivisas como Bitcoin, Ethereum, Solana y más.",
+    "description2": "En Finteria, ofrecemos una infraestructura de trading robusta, un software fiable y una interfaz fácil de usar adaptada al mundo de las criptomonedas. Con nuestras avanzadas herramientas de trading tradicionales, puede operar con confianza con las principales criptodivisas como Bitcoin, Ethereum, Solana, Litecoin y muchas más.",
+    "trade": "Comercio",
+    "tradeNow": "Negociar ahora",
+    "see": "Véase",
+    "exchangeRate": "tipo de cambio",
+    "toolsSectionTitle": "Herramientas",
+    "tradingSectionTitle": "Libera el potencial del comercio de criptomonedas",
+    "tradingSectionText": "El comercio de criptomonedas ofrece un inmenso potencial de beneficios por su naturaleza volátil y rápidamente fluctuante. Los precios de los activos digitales pueden experimentar oscilaciones significativas, a menudo subiendo o bajando hasta un 20% en un solo día o en el transcurso de una semana.",
+    "whyFinteriaSectionTitle": "Por qué operar con criptomonedas con Finteria",
+    "stepList": [
+      {
+        "title": "Regístrese en",
+        "text": "Cree una nueva cuenta en FInteria en menos de un minuto. Sólo se necesita un E-mail registrado para empezar."
+      },
+      {
+        "title": "Financie su cuenta",
+        "text": "Deposite fondos en su monedero personal. Una vez que tenga fondos en su cuenta, ¡estará listo para operar!"
+      },
+      {
+        "title": "Comenzar a operar",
+        "text": "Obtenga acceso completo a nuestro galardonado software de negociación. Benefíciese de comisiones bajas y funciones de negociación avanzadas."
+      }
+    ],
+    "market": "Mercado",
+    "marketLast": "Mercado / Último",
+    "last": "Última",
+    "24h": "24h",
+    "more": "Más",
+    "startSteps": "Comience a operar en sólo 3 pasos"
+  },
+  "forex": {
+    "title": "Divisas",
+    "lead": "Con Finteria puedes comprar, vender y operar con una gran variedad de divisas como EURUSD, USDJPY, GBPUSD y más.",
+    "description1": "Experimente un acceso rápido al mercado mundial de divisas, opere con una amplia gama de pares de divisas populares y eleve sus resultados de negociación con nuestra renombrada plataforma.",
+    "trade": "Comercio",
+    "tradeNow": "Negociar ahora",
+    "see": "Véase",
+    "exchangeRate": "tipo de cambio",
+    "toolsSectionTitle": "Herramientas",
+    "tradingSectionTitle": "Libere el potencial del mercado de divisas",
+    "tradingSectionText": "El mercado de divisas ofrece un inmenso potencial de beneficios por su naturaleza volátil y rápidamente fluctuante. Los precios de las divisas pueden experimentar importantes oscilaciones debido a acontecimientos económicos y políticos.",
+    "tradingCheckList": [
+      {
+        "title": "Alto potencial de beneficios",
+        "text": "Los operadores eligen Forex por su mayor liquidez y el aumento de los beneficios potenciales en las operaciones con éxito."
+      },
+      {
+        "title": "Divisas más populares",
+        "text": "Finteria ofrece los pares de divisas más populares del mercado."
+      },
+      {
+        "title": "Comercio seguro",
+        "text": "Los operadores pueden proteger sus posiciones contra la volatilidad extrema del mercado utilizando órdenes de protección, y tener tranquilidad mientras operan en una plataforma segura."
+      }
+    ],
+    "whyFinteriaSectionTitle": "Por qué operar en Forex con Finteria",
+    "whyFinteriaCheckList": [
+      {
+        "text": "Opere en Forex con nuestra plataforma rápida, segura y fiable. Benefíciese de una gran liquidez y de una amplia gama de funciones y herramientas de negociación avanzadas.",
+        "title": "Gran liquidez, potentes herramientas"
+      },
+      {
+        "title": "Tarifas competitivas",
+        "text": "Disfrute de algunas de las mejores condiciones de negociación del mercado con spreads reducidos y comisiones bajas en todas las operaciones."
+      },
+      {
+        "title": "Operaciones intuitivas y fáciles de usar",
+        "text": "Personalice su interfaz de negociación con características como la funcionalidad multimonitor, una gama de herramientas de negociación profesionales y un servicio de atención al cliente 24 horas al día, 7 días a la semana."
+      },
+      {
+        "title": "Herramientas gráficas avanzadas",
+        "text": "Experimente distintos tipos de gráficos, más de 50 indicadores de negociación y la posibilidad de ejecutar operaciones directamente desde los gráficos."
+      }
+    ],
+    "description2": "En Finteria, ofrecemos una sólida infraestructura de negociación, un software fiable y una interfaz fácil de usar adaptada al mundo de las divisas. Con nuestras avanzadas herramientas de trading tradicional, podrá operar con confianza con las principales divisas: el dólar, el euro, la libra esterlina, el yen japonés y muchas más.",
+    "getStarted": "Comenzar"
+  },
+  "markets": {
+    "title": "precio para hoy",
+    "chartTitle": "Gráfico de precios",
+    "marketWatchTitle": "Descubra más activos",
+    "chartText": "Siga este gráfico de cotizaciones en tiempo real para especular con los movimientos de las cotizaciones. Con este cómodo gráfico en directo, puede ver el precio actual, analizar la dinámica de los precios y rastrear los tipos de cambio históricos.",
+    "periods": {
+      "1hour": "1 hora",
+      "24hours": "24 horas",
+      "7days": "7 días",
+      "14days": "14 días",
+      "30days": "30 días",
+      "1year": "1 año"
+    }
+  },
+  "strength": {
+    "currency": {
+      "title": "Fortaleza de la moneda",
+      "lead": "Currency Strength es una herramienta que le ayuda a encontrar las divisas más fuertes y más débiles del mercado. Combinando divisas fuertes y débiles, puede descubrir nuevas ideas de negociación en cualquier momento. También puede ver nuevas tendencias en el mercado y la correlación entre diferentes instrumentos."
+    },
+    "crypto": {
+      "title": "Criptofuerza",
+      "lead": "Crypto Strength es una herramienta que le ayuda a ver el rendimiento de las criptodivisas en las 10 principales criptodivisas. Ayuda a evaluar el rendimiento general del mercado de criptomonedas, así como ver cómo las diferentes criptomonedas se desempeñan en relación con los demás. Puede identificar fácilmente las criptodivisas más fuertes y más débiles entre las 10 principales."
+    },
+    "periods": {
+      "5min": "Últimos 5 minutos",
+      "15min": "Últimos 15 minutos",
+      "30min": "Últimos 30 minutos",
+      "1h": "Última 1h",
+      "4h": "Últimas 4h",
+      "8h": "Últimas 8h",
+      "12h": "Últimas 12h",
+      "72h": "Últimas 72 horas",
+      "1w": "Última 1 semana",
+      "2w": "Últimas 2 semanas",
+      "1m": "Último 1 mes",
+      "yesterday": "Ayer",
+      "week": "Esta semana",
+      "prevWeek": "Semana anterior",
+      "month": "Este mes",
+      "24h": "Últimas 24h",
+      "today": "Hoy"
+    }
+  },
+  "contest": {
+    "intro": {
+      "tradingContest": "Concurso de intercambio",
+      "prizeNumber": "$20 000",
+      "winners": "10 ganadores cada semana",
+      "freeRegistration": "Inscripción gratuita",
+      "title": "Para operadores experimentados y principiantes",
+      "prize": "Fondo semanal de premios"
+    },
+    "leaders": {
+      "title": "Líderes",
+      "text": "Participa en nuestro concurso semanal de intercambio y pon a prueba tus habilidades. Comercia, compite y diviértete mientras escalas puestos en la clasificación para conseguir recompensas.",
+      "rules": "Reglas del concurso de negociación.",
+      "periodTitle": "Periodo",
+      "table": {
+        "headers": {
+          "name": "Nombre",
+          "trades": "Total Operaciones",
+          "prize": "Premio",
+          "prizeTrades": "Premio/Total de intercambios"
+        }
+      },
+      "periodPrev": "Anterior",
+      "periodNext": "Siguiente"
+    },
+    "questions": {
+      "accordions": [
+        {
+          "title": "¿Cómo participar en el concurso?",
+          "text": "Todas las cuentas reales participan automáticamente en el concurso. No es necesario ningún registro adicional. "
+        },
+        {
+          "title": "¿Cómo se distribuyen las plazas premiadas?",
+          "text": "Los puestos se distribuyen en función del número de operaciones realizadas durante el periodo del concurso. Cuantas más operaciones tenga, mejor será su clasificación. Si tiene varias cuentas, se tendrán en cuenta todas las operaciones de todas las cuentas. No se incluyen las cuentas demo."
+        },
+        {
+          "title": "¿Cuáles son los premios de este concurso?",
+          "text": "Todos los premios son depósitos de bonificación que se abonan a los ganadores. Para obtener un premio, su saldo neto (saldo menos bonificaciones) debe ser igual o superior al importe del premio. Por ejemplo, si su premio es de 500 USD, el saldo neto de su cuenta debe ser de al menos 500 USD."
+        },
+        {
+          "title": "¿Cómo sabré si he ganado un premio?",
+          "text": "Se te notificará por correo electrónico tu puesto y el premio que has ganado. Además, siempre podrás consultar tu clasificación en la tabla de clasificación."
+        },
+        {
+          "title": "¿Puedo retirar el premio de la cuenta?",
+          "text": "Como el premio se abona como un depósito de bonificación, no puede retirarlo. Sin embargo, puede retirar las ganancias si se cumplen las condiciones de facturación mínima. El requisito de facturación es 3 veces la suma de todos los depósitos y bonificaciones."
+        }
+      ],
+      "title": "Preguntas"
+    }
+  }
+}

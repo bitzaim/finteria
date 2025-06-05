@@ -1,0 +1,1461 @@
+{
+  "header": {
+    "nav": {
+      "trade": "Trade",
+      "borrow": "Borrow",
+      "earn": "Earn",
+      "exchange": "Exchange"
+    },
+    "btns": {
+      "login": "Login",
+      "signup": "Sign up",
+      "myAccount": "My Account",
+      "logout": "Log Out",
+      "unverified": "unverified",
+      "close": "Close"
+    },
+    "menu": {
+      "platforms": {
+        "web": "Web Platform",
+        "android": "Android App",
+        "title": "Trading Platforms"
+      },
+      "menu": "Menu",
+      "markets": {
+        "title": "Markets",
+        "forex": "Forex currencies",
+        "crypto": "Cryptocurrencies",
+        "currencystrength": "Currency Strength",
+        "cryptostrength": "Crypto Strength"
+      },
+      "services": {
+        "title": "Services",
+        "copytrading": "Copytrading",
+        "contest": "Contest",
+        "blog": "Blog",
+        "pressAndMedia": "Press and Media",
+        "helpGuides": "Help Guides",
+        "platform": "Platform"
+      }
+    }
+  },
+  "footer": {
+    "prefooterTitle": "© Finteria, 2023 — Single Entry to Crypto Market",
+    "col1": {
+      "title": "Finteria Markets LLC",
+      "ul": [
+        {
+          "label": "Terms & Conditions"
+        },
+        {
+          "label": "Bonus Policy"
+        },
+        {
+          "label": "Privacy Policy"
+        },
+        {
+          "label": "AML/KYC Policy"
+        },
+        {
+          "label": "Risk Disclosure"
+        }
+      ]
+    },
+    "col2": {
+      "title": "Quick Links",
+      "ul": [
+        {
+          "label": "Web Platform"
+        },
+        {
+          "label": "Android App"
+        },
+        {
+          "label": "Knowledge Base"
+        },
+        {
+          "label": "Binary Options Trading"
+        },
+        {
+          "label": "Help Guides"
+        },
+        {
+          "label": "Affiliate Program"
+        }
+      ]
+    },
+    "col3": {
+      "title": "BUY CRYPTO"
+    },
+    "col4": {
+      "registrationInfo": "Company number 13983022",
+      "address": "20-22 Wenlock Road, London, England, N1 7GU"
+    },
+    "postfooter": "This website services are not available to residents of the EEA countries, USA, and UK.",
+    "colBlog": {
+      "title": "Blog",
+      "ul": [
+        {
+          "label": "Market Research"
+        },
+        {
+          "label": "Education"
+        },
+        {
+          "label": "Reviews"
+        },
+        {
+          "label": "Press and Media"
+        }
+      ]
+    },
+    "colMarkets": {
+      "title": "Markets",
+      "ul": [
+        {
+          "label": "Forex currencies"
+        },
+        {
+          "label": "Cryptocurrencies"
+        },
+        {
+          "label": "Currency Strength"
+        },
+        {
+          "label": "Crypto Strength"
+        }
+      ]
+    },
+    "disclaimer": "Risk Warning: Trading Leveraged Financial Instruments involves significant risk and can result in the loss of your invested capital. You should not invest more than you can afford to lose and should ensure that you fully understand the risks involved. Trading leveraged products may not be suitable for all investors. Trading non-leveraged products such as forex also involves risk as the value of an asset can fall as well as rise, which could mean getting back less than you originally put in. Past performance is no guarantee of future results. Before trading, please take into consideration your level of experience, investment objectives and seek independent financial advice if necessary. It is the responsibility of the client to assess whether he/she is permitted to use the services of the Finteria brand based on the legal requirements in his/her country of residence."
+  },
+  "account": {
+    "trading": {
+      "subPages": {
+        "withdrawal": "Withdrawal",
+        "deposit": "Deposit",
+        "depositTransaction": "Deposit",
+        "transfer": "Transfer",
+        "openedWithdrawal": "Opened Withdrawal Request"
+      },
+      "tradingAccounts": {
+        "title": "Trading accounts",
+        "addAccountBtn": "Add account",
+        "columns": {
+          "external_id": "Id",
+          "group": "Type",
+          "currency": "Currency",
+          "balance": "Balance",
+          "bonus": "Bonus"
+        },
+        "btnDeposit": "Deposit",
+        "btnTransfer": "Transfer",
+        "btnWithdraw": "Withdraw"
+      },
+      "depositFirstPage": {
+        "depositIsProcessing": "Your deposit is processing",
+        "demoDepositUnavaliable": "You can't deposit to demo account",
+        "depositError": "Something went wrong",
+        "chooseDepositAmount": "Choose deposit amount",
+        "bonus": "Bonus",
+        "policyPrivacy": "I accept and agree with",
+        "policyPrivacyLink": "Bonus Policy",
+        "totalTradingDeposit": "Total deposit",
+        "chooseFundingMethod": "Choose funding method",
+        "depositBtn": "Deposit",
+        "doYouHavePromocode": "Do you have a promo code?"
+      },
+      "depositSecondPage": {
+        "transaction": "Transaction",
+        "scanQr": "You can scan this QR code with mobile wallet app to make a payment or send the exact amount to the deposit address.",
+        "depositAmount": "Deposit Amount",
+        "receivingAmount": "Receiving amount",
+        "copyBtn": "Copy",
+        "depositAddress": "Deposit Address",
+        "txid": "TXID",
+        "openInExplorer": "Open In Explorer",
+        "onlySendCurrency": "Only send {m$sg} to this address",
+        "depositMessage": "Finteria only supports {m$sg} deposits via native {m$sg} mainnet. Other networks are not supported. Sending other coins or sending {m$sg} via other networks will result in a permanent loss of your funds.",
+        "depositMessages": {
+          "btc": "Send only BTC transfers via Bitcoin network. Other networks are not supported. Sending other coins or sending BTC via other networks will result in a permanent loss of your funds.",
+          "eth": "Send only ETH deposits via Ethereum Mainnet (ERC-20). Other networks are not supported. Sending other coins or sending ETH via other networks will result in a permanent loss of your funds.",
+          "usdt": {
+            "erc20": "Send only USDT via ERC20 network to this address. Sending other coins or sending USDT via other networks will result in a permanent loss of your funds.",
+            "trc20": "Send only USDT via TRC20 network to this address. Sending other coins or sending USDT via other networks will result in a permanent loss of your funds."
+          },
+          "usdc": {
+            "erc20": "Send only USDC via ERC20 network to this address. Sending other coins or sending USDC via other networks will result in a permanent loss of your funds.",
+            "trc20": "Send only USDC via TRC20 network to this address. Sending other coins or sending USDT via other networks will result in a permanent loss of your funds."
+          },
+          "dai": "Send only DAI transfers via Ethereum Mainnet (ERC-20). Other networks are not supported. Sending other coins or sending DAI via other networks will result in a permanent loss of your funds.",
+          "wbtc": "Send only WBTC transfers via Ethereum Mainnet (ERC-20). Other networks are not supported. Sending other coins or sending WBTC via other networks will result in a permanent loss of your funds.",
+          "trx": "Send only TRX transfers via TRON Mainnet. Other networks are not supported. Sending other coins or sending TRX via other networks will result in a permanent loss of your funds.",
+          "avax": "Send only AVAX transfers via Avalanche Mainnet. Other networks are not supported. Sending other coins or sending AVAX via other networks will result in a permanent loss of your funds.",
+          "dot": "Send only DOT transfers via Polkadot Mainnet. Other networks are not supported. Sending other coins or sending DOT via other networks will result in a permanent loss of your funds.",
+          "ada": "Send only ADA transfers via Cardano Mainnet. Other networks are not supported. Sending other coins or sending ADA via other networks will result in a permanent loss of your funds.",
+          "matic": "Send only MATIC transfers via Polygon Mainnet. Other networks are not supported. Sending other coins or sending MATIC via other networks will result in a permanent loss of your funds."
+        },
+        "status": "Status",
+        "statuses": {
+          "waiting": "Waiting",
+          "expired": "Expired",
+          "pending": "Pending",
+          "completed": "Completed",
+          "available": "Availabe"
+        },
+        "timeInterval": "Time remaining",
+        "timeIntervalExpired": "If payment is not made yet, please cancel and create a new deposit",
+        "confirmationMessage": "Coins will be deposited after 3 confirmations.",
+        "confirmationMessages": {
+          "eth": "Coins will be deposited after 12 confirmations.",
+          "ltc": "Coins will be deposited after 12 confirmations.",
+          "bch": "Coins will be deposited after 12 confirmations.",
+          "zec": "Coins will be deposited after 24 confirmations."
+        },
+        "needAssistance": "Need assistance?",
+        "requestCallback": "Request a callback",
+        "or": "or",
+        "chatWithUs": "chat to us",
+        "timeRemaining": "Time remaining",
+        "rotationalAddress": "Temporary address",
+        "payretailers": {
+          "fillRequiredFields": "Fill required fields"
+        }
+      },
+      "depositWithModal": {
+        "paymentCard": {
+          "title": "Card details",
+          "backBtn": "Back",
+          "continueBtn": "Continue",
+          "toast": {
+            "fillCardNumber": "Please fill card number correctly",
+            "fillHolderName": "Please fill cardholder's name",
+            "expirationNotCorrect": "Expiration time is not correct",
+            "fillCVV": "Please fill CVV"
+          },
+          "processing": "Processing your payment method",
+          "processingFailed": "Your credit card has been successfully verified",
+          "cardholderName": "Cardholder name"
+        },
+        "title": "Funding by Visa, Mastercard",
+        "paragraph": "You are one step away from completing your trading deposit. Simply click on button {m$sg} and follow the instruction.",
+        "cantLoadWidget": "Can't load widget",
+        "paybis": {
+          "text": "You are funding your trading account with Visa/Mastercard by purchasing crypto with 3rd party provider Paybis.",
+          "depositWith": "BUY {a$mnt} with Paybis",
+          "addressText": "Below is the wallet address we generated specially for you. Make sure to copy it exactly as shown.",
+          "walletAddress": "Wallet Address",
+          "clickButtonText": "Click on the button below to be taken to Paybis, a secure service to buy crypto.",
+          "afterText": "Once you've made the purchase on Paybis, the amount will be automatically credited to your trading account. Simple as that!"
+        }
+      },
+      "transfer": {
+        "amount": "Amount",
+        "status": "Status",
+        "available": "Available to withdraw",
+        "toAccount": "To Account",
+        "continueBtn": "Continue",
+        "backToTrading": "Back to Trading",
+        "inReview": "In review",
+        "info": "Your withdrawal request has been successfully submitted. We will review and confirm the withdrawal request within 1 hour. If the withdrawal request requires additional checks, it may take up to 48 hours to confirm the withdrawal."
+      },
+      "withdrawal": {
+        "amount": "Amount",
+        "balance": "Balance",
+        "address": "Address",
+        "networkFee": "Network Fee",
+        "youGet": "You Get",
+        "continueBtn": "Continue",
+        "currency": "Currency",
+        "blockchain_network": "Network",
+        "cancelBtn": "Cancel"
+      },
+      "depositSuccessPage": {
+        "paid": "You paid:",
+        "deposited": "Deposited:"
+      }
+    },
+    "wallets": {
+      "title": "Wallets",
+      "tabs": {
+        "wallets": {
+          "label": "Wallets"
+        },
+        "transactionsHistory": {
+          "label": "Transactions History"
+        }
+      },
+      "walletsTab": {
+        "addWalletBtn": "Add Wallet",
+        "addWalletCancel": "Cancel",
+        "estimatedBalance": "Estimated Balance",
+        "hideSmallBalances": "Hide Small Balances",
+        "columns": {
+          "currency": "Coin",
+          "balance": "Available Balance",
+          "locked_balance": "Locked Balance"
+        },
+        "btnDeposit": "Deposit",
+        "btnTransfer": "Transfer",
+        "btnWithdraw": "Withdraw",
+        "btnExchange": "Exchange",
+        "withdrawal": {
+          "amount": "Amount",
+          "balance": "Balance",
+          "address": "Address",
+          "networkFee": "Withdrawal Commission",
+          "youGet": "You Get",
+          "continueBtn": "Continue",
+          "goBackBtn": "Go Back",
+          "withdrawalErrors": {
+            "required": "Required",
+            "minValue": "Minimum value is {m$sg}",
+            "maxValue": "You have {m$sg}",
+            "numeric": "Value must be numeric",
+            "verifiedNotification": "To withdraw funds, please verify your identity.",
+            "verifiedDepositNotification": "To withdraw funds, you need to have at least one deposit."
+          },
+          "withdrawalSuccess": {
+            "inReview": "In review",
+            "address": "Address",
+            "amount": "Amount",
+            "status": "Status",
+            "statusResult": "Pending",
+            "info": "Your withdrawal request has been successfully submitted. We will review and confirm the withdrawal request within 1 hour. If the withdrawal request requires additional checks, it may take up to 48 hours to confirm the withdrawal.",
+            "backToWallets": "Back to Wallets"
+          },
+          "startVerification": "Start verification.",
+          "makeDeposit": "Make a deposit",
+          "networkPlaceholder": "Select withdrawal network",
+          "network": "Network",
+          "unlockKYC": "To unlock KYC verification and withdrawal options, please make a deposit first."
+        },
+        "deposit": {
+          "transaction": "Transaction",
+          "scanQr": "You can scan this QR code with mobile wallet app to make a payment or send the exact amount to the deposit address.",
+          "depositAmount": "Deposit Amount",
+          "copyBtn": "Copy",
+          "depositAddress": "Deposit Address",
+          "onlySendCurrency": "Only send {m$sg} to this address",
+          "confirmationMessage": "Coins will be deposited after 3 confirmations.",
+          "confirmationMessages": {
+            "eth": "Coins will be deposited after 12 confirmations.",
+            "ltc": "Coins will be deposited after 12 confirmations.",
+            "bch": "Coins will be deposited after 12 confirmations.",
+            "zec": "Coins will be deposited after 24 confirmations."
+          },
+          "goBackBtn": "Go Back",
+          "depositMessage": "Finteria only supports {m$sg} deposits via native {m$sg} mainnet. Other networks are not supported. Sending other coins or sending {m$sg} via other networks will result in a permanent loss of your funds.",
+          "depositMessages": {
+            "btc": "Send only BTC transfers via Bitcoin network. Other networks are not supported. Sending other coins or sending BTC via other networks will result in a permanent loss of your funds.",
+            "eth": "Send only ETH deposits via Ethereum Mainnet (ERC-20). Other networks are not supported. Sending other coins or sending ETH via other networks will result in a permanent loss of your funds.",
+            "usdt": {
+              "erc20": "Send only USDT via ERC20 network to this address. Sending other coins or sending USDT via other networks will result in a permanent loss of your funds.",
+              "trc20": "Send only USDT via TRC20 network to this address. Sending other coins or sending USDT via other networks will result in a permanent loss of your funds."
+            },
+            "usdc": {
+              "erc20": "Send only USDT via ERC20 network to this address. Sending other coins or sending USDT via other networks will result in a permanent loss of your funds.",
+              "trc20": "Send only USDT via TRC20 network to this address. Sending other coins or sending USDT via other networks will result in a permanent loss of your funds."
+            },
+            "dai": "Send only DAI transfers via Ethereum Mainnet (ERC-20). Other networks are not supported. Sending other coins or sending DAI via other networks will result in a permanent loss of your funds.",
+            "wbtc": "Send only WBTC transfers via Ethereum Mainnet (ERC-20). Other networks are not supported. Sending other coins or sending WBTC via other networks will result in a permanent loss of your funds.",
+            "trx": "Send only TRX transfers via TRON Mainnet. Other networks are not supported. Sending other coins or sending TRX via other networks will result in a permanent loss of your funds.",
+            "avax": "Send only AVAX transfers via Avalanche Mainnet. Other networks are not supported. Sending other coins or sending AVAX via other networks will result in a permanent loss of your funds.",
+            "dot": "Send only DOT transfers via Polkadot Mainnet. Other networks are not supported. Sending other coins or sending DOT via other networks will result in a permanent loss of your funds.",
+            "ada": "Send only ADA transfers via Cardano Mainnet. Other networks are not supported. Sending other coins or sending ADA via other networks will result in a permanent loss of your funds.",
+            "matic": "Send only MATIC transfers via Polygon Mainnet. Other networks are not supported. Sending other coins or sending MATIC via other networks will result in a permanent loss of your funds."
+          },
+          "selectNetwork": "Select network",
+          "rotationalAddress": "Temporary address",
+          "beAwareAddresIsTemporary": "Please note that the deposit address is temporary and active for a limited time. Do not send funds after the expiration time as it may result in a permanent loss your funds."
+        }
+      },
+      "filters": {
+        "title": "Filters",
+        "allCurrency": "All Currency",
+        "transactionType": "Transaction type",
+        "period": "Period",
+        "transactionTypes": {
+          "deposit": "deposit",
+          "withdraw": "withdraw",
+          "commission": "commission",
+          "fee": "fee",
+          "loan_origination_fee": "loan origination fee",
+          "conversion": "conversion",
+          "internal_exchange": "internal exchange",
+          "collateral": "collateral",
+          "collateral_adjustment": "collateral adjustment",
+          "loan": "loan",
+          "loan_payment": "loan payment",
+          "loan_interest_payment": "loan interest payment"
+        }
+      },
+      "transactionsTab": {
+        "columns": {
+          "id": "ID",
+          "created_at": "Date",
+          "type": "Type",
+          "transaction_owner_name": "Origin",
+          "amount": "Amount"
+        }
+      },
+      "ordersTab": {
+        "columns": {
+          "id": "ID",
+          "date": "Date",
+          "status": "Status",
+          "amount": "Amount",
+          "type": "Type"
+        }
+      }
+    },
+    "settings": {
+      "settingsTitle": "Profile",
+      "tabs": {
+        "general": {
+          "label": "General"
+        },
+        "verification": {
+          "label": "Verification"
+        },
+        "password": {
+          "label": "Password"
+        },
+        "sessions": {
+          "label": "Sessions"
+        }
+      },
+      "general": {
+        "email": "Email",
+        "emailText": "If you want to change your email address, please contact our support team.",
+        "phone": "Phone",
+        "phoneText": "If you want to change your phone number, please contact our support team.",
+        "language": "Language",
+        "languageText": "Your preferred language.",
+        "btnSave": "Save Settings",
+        "selectCountry": "Select country",
+        "changePhone": "Change phone number"
+      },
+      "verification": {
+        "accountVerificationsStatus": "Account verifications status",
+        "agreementSignInstruction": "Enter your personal name and surname and sign the agreement.",
+        "personalData": "Personal data",
+        "name": "Name",
+        "surname": "Surname",
+        "accountVerification": "Account verification",
+        "chooseYourIdType": "Choose your ID type",
+        "copyOfPassport": "Copy of passport",
+        "frontSide": "Front side Card ID",
+        "backSide": "Back side Card ID",
+        "uploadFileImg": "Upload file (PDF, PNG, JPG, HEIC, HEIF) max 10 mb",
+        "notLoaded": "Not loaded",
+        "loaded": "Loaded",
+        "onVerification": "On verification",
+        "notSigned": "Not signed",
+        "signed": "Signed",
+        "uploadFile": "Upload file",
+        "uploadSign": "Sign Agreement",
+        "takeASelfie": "Take a selfie",
+        "takeASelfieText": "Please take a selfie, holding your identity document next to your face. Please make sure, both,your face and ID are clearly visible on the photo. Nothing on the ID should be.",
+        "agreement": "Agreement",
+        "downloadAgreement": "Download agreement",
+        "isVerified": {
+          "verified": "Verified",
+          "notVerified": "Not verified"
+        },
+        "verifyBtn": "Verify",
+        "saveBtn": "Save",
+        "submitBtn": "Submit",
+        "signBtn": "Sign",
+        "signAcceptanceTitle": "To start trading, sign an acceptance of service",
+        "signAcceptanceDescription": "The financial services provided by this website carry a high level of risk and can result in the loss of all of your funds. You should never invest money that you cannot afford to lose. Please ensure you read our terms and conditions before making any operation in our trading platform. Under no circumstances the company has any liability to any person or entity for any loss or damage caused by operations on this website. Finteria nor its agents or partners are not registered and do not provide any services on the USA territory.",
+        "codeConfirmed": "Your verification code is confirmed",
+        "toast": {
+          "dataRequired": "Please enter your name and surname at the top of the page and sign the agreement",
+          "dataSent": "Your data has been sent for verification",
+          "signatureNeeded": "Please send your signature",
+          "fileSize": "File size shouldn't exceed 10 MB",
+          "fileFormat": "Upload file (PDF, PNG, JPG, HEIC, HEIF)"
+        },
+        "drawSignature": "Draw your signature here",
+        "phonePlaceholder": "Add your phone number",
+        "addBtn": "Add",
+        "verifyPhone": "Verify your phone",
+        "verifyEmail": "Verify your email",
+        "whatIsPhoneNumber": "What's your phone number?",
+        "enterCode": "Enter the code sent to",
+        "didReceiveCode": "Didn't receive the code?"
+      },
+      "password": {
+        "paragraph": "For security purposes, withdrawals will be on hold for 24 hours after you complete this action.",
+        "currentPassword": "Current Password",
+        "newPassword": "New Password",
+        "confirmNewPassword": "Confirm New Password",
+        "changePasswordBtn": "Change password",
+        "passwordSuccess": "Your password has been successfully changed",
+        "comparePasswordError": "Passwords do not match"
+      },
+      "authentication": {
+        "enableAuth": "Enable Two-Factor Authentication",
+        "enableAuthText": "For your security, we strongly recommend enabling 2FA on your account. After that, you will need to enter a one-time 6-digit code each time you are logging into your account, withdrawing funds or changing the password.",
+        "enableAuthBtn": "Enable 2FA",
+        "download2faApp": "Download 2FA App",
+        "download2faAppText": "You should download and install an authenticator application, such as Google Authenticator or Authy, on your mobile device. This app will generate one-time 6- digit access codes, which are required for logging into your account.",
+        "save2faBackupKey": "Save 2FA Backup Key and Scan QR Code",
+        "save2faBackupKeyText": "Please, backup your 2FA recovery key to some offline storage, i.e., write down on a paper. If your mobile device gets lost, stolen or erased, you will need this key to recover your 2FA access.",
+        "backupSecretKey": "Backup / Secret Key",
+        "backupSecretKeyText": "Please, write down or print a copy of the key above and store it safely.",
+        "confirm2faActivation": "Confirm 2FA Activation",
+        "confirm2faActivationText": "2FA Code from Authenticator App",
+        "confirm2faActivationPlaceholder": "Enter a 6-digit 2FA code",
+        "enable2faBtn": "Enable 2FA"
+      },
+      "sessions": {
+        "columns": {
+          "user_agent": "Device",
+          "country": "Country",
+          "ip": "IP address",
+          "created_at": "Time"
+        }
+      },
+      "languageChanged": "Your language has been changed",
+      "dataUpdated": "Your personal data has been updated"
+    },
+    "exchange": {
+      "infoBlock": {
+        "summary": "Summary",
+        "yourBalance": "Your {m$sg} Balance",
+        "exchangeRate": "Exchange Rate",
+        "time": {
+          "hours": "in {m$sg} h."
+        }
+      },
+      "actionBlock": {
+        "balance": "Balance"
+      },
+      "page": {
+        "youPay": "You Pay",
+        "youGet": "You Get",
+        "exchangeBtn": "Exchange"
+      },
+      "success": {
+        "spent": "You spent:",
+        "converted": "Converted:",
+        "price": "Price:",
+        "backToWallets": "Back to Wallets",
+        "exchangeAgain": "Exchange again"
+      }
+    },
+    "loans": {
+      "columns": {
+        "id": "Loan ID",
+        "status": "Status",
+        "loan_amount": "Loan",
+        "loan_currency": "Loan Currency",
+        "collateral_amount": "Collateral",
+        "collateral_currency": "Collateral Currency",
+        "ltv": "LTV",
+        "daily_rate": "Daily rate"
+      },
+      "helpers": {
+        "currency": "Currency",
+        "id": "ID"
+      },
+      "tabs": [
+        {
+          "label": "All",
+          "value": "all"
+        },
+        {
+          "label": "Active",
+          "value": "active"
+        },
+        {
+          "label": "Archive",
+          "value": "archive"
+        }
+      ],
+      "statuses": {
+        "opened": "Active",
+        "closed": "Archive",
+        "unsecured": "Unsecured"
+      },
+      "actionBlock": {
+        "available": "Balance"
+      },
+      "page": {
+        "youPay": "You Pay",
+        "youGet": "You Get",
+        "exchangeBtn": "Exchange"
+      }
+    },
+    "nav": {
+      "wallets": "Crypto Wallets",
+      "trading": "Trading Accounts",
+      "loans": "Loans",
+      "interest": "Interest Accounts",
+      "exchange": "Crypto Exchange",
+      "button": "Trading Platform",
+      "buttonSmall": "Trade",
+      "account": "Settings",
+      "profile": "Profile"
+    },
+    "navHelper": {
+      "profile-wallets": {
+        "label": "Wallets"
+      },
+      "profile-trading": {
+        "label": "Trading accounts"
+      },
+      "profile-trading-deposit": {
+        "label": "Trading accounts"
+      },
+      "profile-trading-transfer": {
+        "label": "Trading accounts"
+      },
+      "profile-trading-address": {
+        "label": "Trading accounts"
+      },
+      "profile-loans": {
+        "label": "Loans"
+      },
+      "profile-loans-create": {
+        "label": "Loans"
+      },
+      "profile-loans-loan": {
+        "label": "Loans"
+      },
+      "profile-loans-repay": {
+        "label": "Loans"
+      },
+      "profile-interest": {
+        "label": "Interest accounts"
+      },
+      "profile-exchange": {
+        "label": "Crypto exchange"
+      },
+      "profile": {
+        "label": "Profile"
+      },
+      "profile-trading-withdraw-id": {
+        "label": "Trading accounts"
+      }
+    },
+    "payment": {
+      "success": "Payment succeeded",
+      "error": "Payment failed",
+      "info": "Payment cancelled"
+    }
+  },
+  "borrow": {
+    "landingPreview": {
+      "pretitle": "Deposit Crypto, Receive Cash",
+      "title": "Get Instant Crypto Loans",
+      "subtitle": "Use the TOP 20 coins as collateral for crypto loans with the highest loan to value ratio (90%). Get loans in EUR, USD, CHF and GBP and withdraw instantly to credit card and bank account.",
+      "posttitle": "Regulated by FSA",
+      "btnPrimary": "GET LOAN"
+    },
+    "landingRates": {
+      "title": "Supported assets & rates"
+    },
+    "numCards": [
+      {
+        "bigTitle": "$15.6B+",
+        "subtitle": "Of available liquidity"
+      },
+      {
+        "bigTitle": "100+",
+        "subtitle": "coins and tokens supported"
+      },
+      {
+        "bigTitle": "$100M+",
+        "subtitle": "Assets covered by Finteria policy"
+      },
+      {
+        "bigTitle": "$110M+",
+        "subtitle": "Community BTC"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "Registered by FSA",
+        "icon": "sw_flag"
+      },
+      {
+        "text": "24/7 customer service",
+        "icon": "clock"
+      },
+      {
+        "text": "Security ISO 27001 certified",
+        "icon": "sheild"
+      },
+      {
+        "text": "Multi language support",
+        "icon": "globus"
+      }
+    ],
+    "infoBlock": {
+      "title": "How crypto backed loans work",
+      "left_items": [
+        {
+          "title": "Transfer crypto to your Finteria wallet",
+          "text": "Finteria accepts the TOP 20 cryptocurrencies as collateral. No fees for crypto deposits or withdrawals."
+        },
+        {
+          "title": "Get your crypto collateral back anytime",
+          "text": "You can repay your loan using a credit card, stablecoins or bank account and get your crypto back. You can keep your crypto assets in Finteria's wallet and have instant access to crypto loans."
+        },
+        {
+          "title": "Get a crypto loan and withdraw funds",
+          "text": "Your loan approval take seconds. No need to find a lender like in peer-to-peer (p2p) platforms. You instantly receive cash in EUR, USD, USDT or BTC. Finteria works like a pawnshop. There is a temporary sale of cryptocurrency, where YOU are the seller and Finteria is the buyer. At any moment, you can repurchase the cryptocurrency from Finteria."
+        }
+      ],
+      "right_title": "Our cash withdrawal options",
+      "right_items": [
+        "Bank wire withdrawal via SEPA and SWIFT. Available worldwide.",
+        "Credit card withdrawal to your MasterCard or VISA.",
+        "Crypto withdrawal: buy any crypto or stablecoins using our integrated crypto exchange."
+      ]
+    },
+    "helpCenter": {
+      "title": "Help Center",
+      "text": "Getting started with Finteria is easy. But for those of you who are a bit unsure, we have plenty of instructional posts and helpful hints on how to manage assets in a safe & smart way.",
+      "buttonText": "Chat with us!",
+      "accordions": [
+        {
+          "title": "How to buy crypto?",
+          "text": "To buy crypto, go to your wallet and deposit funds via credit card or bank account. Once funds are received, they become available in your wallet and you can buy crypto with your fiat.\n"
+        },
+        {
+          "title": "How can I get a loan?",
+          "text": "Getting a loan is easy and straight-forward. Just deposit crypto to your wallet and initiate a loan contract. \nYour loan approval take seconds. You instantly receive cash in EUR, USD, USDT or BTC. You can repurchase the cryptocurrency from Finteria later at any time."
+        },
+        {
+          "title": "What currencies are available for exchange?",
+          "text": "Finteria supports 20+ cryptocurrencies for exchange, borrowing and earning. The list of available coins and tokens is updated on a regular basis.\n"
+        },
+        {
+          "title": "Are there any withdrawal fees?",
+          "text": "There are no withthdawal fees for fiat currencies. The fees for crypto withdrawals depend on network fees and the current state of the blockchain network."
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "Loan Amount",
+      "secondTitle": "Collateral",
+      "loan_to_value": "Loan-to-value (LTV)",
+      "dailyInterest": "Daily Interest"
+    }
+  },
+  "earn": {
+    "landingPreview": {
+      "pretitle": "Your Crypto works for You",
+      "title": "Earn Crypto with TOP staking and lending platforms",
+      "subtitle": "Earn interest and staking rewards on DeFi and third-party centralized platforms. Turn your cold assets into hot profit instantly by depositing crypto in your Finteria wallet and start getting daily interest payments.",
+      "posttitle": "Regulated by FSA",
+      "btnPrimary": "Earn Crypto"
+    },
+    "landingRates": {
+      "title": "Supported assets & rates"
+    },
+    "numCards": [
+      {
+        "bigTitle": "$15.6B+",
+        "subtitle": "In community assets"
+      },
+      {
+        "bigTitle": "897K+",
+        "subtitle": "Finteria users"
+      },
+      {
+        "bigTitle": "$386M+",
+        "subtitle": "Yield paid in last 12 months"
+      },
+      {
+        "bigTitle": "109K+",
+        "subtitle": "Community BTC"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "Registered by FSA",
+        "icon": "sw_flag"
+      },
+      {
+        "text": "24/7 customer service",
+        "icon": "clock"
+      },
+      {
+        "text": "Security ISO 27001 certification",
+        "icon": "sheild"
+      },
+      {
+        "text": "Multi language support",
+        "icon": "globus"
+      }
+    ],
+    "infoBlock": {
+      "title": "How crypto saving account work?",
+      "left_items": [
+        {
+          "title": "Deposit crypto to your Finteria wallet",
+          "text": "Finteria accepts the TOP 20 cryptocurrencies. No fees for crypto deposits or withdrawals."
+        },
+        {
+          "title": "Instruct Finteria to transfer your crypto to DeFi or staking platform",
+          "text": "Choose a crypto reward program and start earning while holding your crypto tokens on your individual wallet."
+        },
+        {
+          "title": "Earn compounding rewards every day",
+          "text": "Your saving program approval takes seconds. You start instantly earning compounding rewards on your crypto tokens."
+        }
+      ],
+      "right_title": "Saving account withdrawal policy",
+      "right_items": [
+        "You can release your funds any time and you will receive earned interest in full.",
+        "Each additional crypto transfer to saving account, will create a separate staking or borrow contract. ",
+        "Your are free to keep your accumulated interest to earn even more profit."
+      ]
+    },
+    "helpCenter": {
+      "title": "Help Center",
+      "text": "Getting started with Finteria is easy. But for those of you who are a bit unsure, we have plenty of instructional posts and helpful hints on how to manage assets in a safe & smart way.",
+      "accordions": [
+        {
+          "title": "How can I buy crypto?",
+          "text": "To buy crypto, go to your wallet and deposit funds via credit card or bank account. Once funds are received, they become available in your wallet and you can buy crypto with your fiat.\n"
+        },
+        {
+          "title": "How can I get a loan?",
+          "text": "Getting a loan is easy and straight-forward. Just deposit crypto to your wallet and initiate a loan contract. \nYour loan approval take seconds. You instantly receive cash in EUR, USD, USDT or BTC. You can repurchase the cryptocurrency from Finteria later at any time."
+        },
+        {
+          "title": "What currencies are available for exchange?",
+          "text": "Finteria supports 20+ cryptocurrencies for exchange, borrowing and earning. The list of available coins and tokens is updated on a regular basis.\n"
+        },
+        {
+          "title": "Are there any withdrawal fees?",
+          "text": "There are no withthdawal fees for fiat currencies. The fees for crypto withdrawals depend on network fees and the current state of the blockchain network."
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "Amount",
+      "secondTitle": "For how long?",
+      "annual": "Annual Interest (APY)",
+      "period": "Earning for period",
+      "estimated": "Estimated earnings",
+      "week": "week",
+      "month": "month",
+      "year": "year"
+    }
+  },
+  "exchange": {
+    "landingPreview": {
+      "pretitle": "Deposit Crypto, Receive Cash",
+      "title": "Finteria NO FEE crypto exchange",
+      "subtitle": "Instant cryptocurrency exchange with no fees. Exchange crypto, stablecoins and fiat such as BTC, ETH, USD, etc. Buy Bitcoins with credit card. ",
+      "posttitle": "BitGo Wallet",
+      "posttitle2": "Custody Provider",
+      "optionsAdvantages": "Rated Excellent",
+      "optionsAdvantages2": "on Trustpilot",
+      "btnPrimary": "EXCHANGE CRYPTO"
+    },
+    "landingRates": {
+      "title": "Supported assets"
+    },
+    "numCards": [
+      {
+        "bigTitle": "24/7",
+        "title": "Non-stop trading",
+        "subtitle": "including weekends"
+      },
+      {
+        "bigTitle": "$250",
+        "title": "Minimum deposit",
+        "subtitle": "Affordable for everyone"
+      },
+      {
+        "bigTitle": "$1",
+        "title": "Minimum trade size",
+        "subtitle": "Suitable for beginners"
+      },
+      {
+        "bigTitle": "100+",
+        "title": "Trading assets",
+        "subtitle": "stocks, crypto, commodities"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "Registered by FSA",
+        "icon": "lock"
+      },
+      {
+        "text": "24/7 customer service",
+        "icon": "clock-blue"
+      },
+      {
+        "text": "Security ISO 27001 certified",
+        "icon": "sheild"
+      },
+      {
+        "text": "Global reach 150+ countries",
+        "icon": "globus"
+      }
+    ],
+    "infoBlock": {
+      "title": "How crypto exchange works",
+      "left_items": [
+        {
+          "title": "Deposit Crypto",
+          "text": "Finteria accepts the TOP 20 cryptocurrencies. No fees for crypto deposits or withdrawals."
+        },
+        {
+          "title": "Exchange for Fiat or Crypto",
+          "text": "You can easily exchange fiat and crypto assets with low fees and withdraw funds to your card, bank account or wallet."
+        }
+      ],
+      "right_title": "Important info",
+      "right_items": [
+        "Finteria is a safe and regulated platform for buying, selling, or storing cryptocurrencies.",
+        "The exchange rate is updated every second following crypto market, so you receive an instant insight into the price ratio.",
+        "We charge no fee for crypto to crypto exchange.",
+        "You can buy the major cryptocurrencies at the current exchange rate using your VISA/MASTERCARD."
+      ]
+    },
+    "helpCenter": {
+      "title": "Help Center",
+      "text": "Getting started with Finteria is easy. But for those of you who are a bit unsure, we have plenty of instructional posts and helpful hints on how to manage assets in a safe & smart way.",
+      "buttonText": "Chat with us!",
+      "accordions": [
+        {
+          "title": "How to buy crypto?",
+          "text": "To buy crypto, go to your wallet and deposit funds via credit card or bank account. Once funds are received, they become available in your wallet and you can buy crypto with your fiat.\n"
+        },
+        {
+          "title": "How can I get a loan?",
+          "text": "Getting a loan is easy and straight-forward. Just deposit crypto to your wallet and initiate a loan contract. \nYour loan approval take seconds. You instantly receive cash in EUR, USD, USDT or BTC. You can repurchase the cryptocurrency from Finteria later at any time."
+        },
+        {
+          "title": "What currencies are available for exchange?",
+          "text": "Finteria supports 20+ cryptocurrencies for exchange, borrowing and earning. The list of available coins and tokens is updated on a regular basis.\n"
+        },
+        {
+          "title": "Are there any withdrawal fees?",
+          "text": "There are no withthdawal fees for fiat currencies. The fees for crypto withdrawals depend on network fees and the current state of the blockchain network."
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "Amount i have",
+      "secondTitle": "I need",
+      "rate": "Rate"
+    }
+  },
+  "trade": {
+    "game-widget-title": "Will price go <span class='green'>Up</span> or <span class='red'>Down</span>?",
+    "landingPreview": {
+      "title": "Trade Crypto, Forex, CFDs and Earn up to 90% in 30 sec",
+      "subtitle": "Get additional income by predicting the moves of the crypto and currency markets",
+      "btnPrimary": "START TRADING",
+      "btnTry": "DEMO PLATFORM",
+      "gift": "Up to 100% <br> trading bonus",
+      "student": "$10'000 gift <br> to demo account"
+    },
+    "numCards": [
+      {
+        "bigTitle": "24/7",
+        "title": "Non-stop trading",
+        "subtitle": "including weekends"
+      },
+      {
+        "bigTitle": "${m$sg}",
+        "title": "Minimum deposit",
+        "subtitle": "Affordable for everyone"
+      },
+      {
+        "bigTitle": "$1",
+        "title": "Minimum trade size",
+        "subtitle": "Suitable for beginners"
+      },
+      {
+        "bigTitle": "100+",
+        "title": "Trading assets",
+        "subtitle": "stocks, crypto, commodities"
+      }
+    ],
+    "tradeAtHome": {
+      "header": "Trade at home or on the GO!",
+      "finteria": {
+        "title": "Finteria Platform",
+        "subtitle": "Easy to run, modern platform with top charts",
+        "list": [
+          "12 chart types",
+          "50+ smart drawing tools",
+          "Easy to use and intuitive",
+          "Best for Technical Analysis!"
+        ],
+        "button": "Launch Platform"
+      }
+    },
+    "threeSteps": {
+      "title": "Three Easy Steps to Start",
+      "list": [
+        {
+          "title": "Sign Up",
+          "text": "Registration takes less than a minute",
+          "icon": "flag"
+        },
+        {
+          "title": "Fund your account",
+          "text": "Make a deposit and start trading",
+          "icon": "card"
+        },
+        {
+          "title": "Trade & Withdraw",
+          "text": "Trade, earn and withdraw your profit!",
+          "icon": "trade"
+        }
+      ],
+      "button": "Sign Up"
+    },
+    "tradingExperience": {
+      "title": "No experience in trading?",
+      "subtitle": "Copy the most successful traders",
+      "topStrategies": {
+        "title": "Top Strategies",
+        "tableHeader": ["rank", "strategy", "performance"],
+        "buttonFollow": "Copy"
+      },
+      "list": [
+        {
+          "title": "Join Social Trading Platform",
+          "text": "Go long or short? Go with the best traders. Open trading account and copy orders of TOP traders."
+        },
+        {
+          "title": "Subscribe to Top Traders",
+          "text": "Select top traders and connect with them instantly. It takes only a few clicks to start receiving trading signals. Specify conditions and create subscriptions right in the trading platform."
+        },
+        {
+          "title": "Earn higher profits",
+          "text": "Increase your trading efficiency and leverage your trading to earn higher profits. Benefit from the best-performing trading recommendations."
+        }
+      ]
+    },
+    "tradingIdeas": {
+      "title": "Need trading ideas?",
+      "subtitle": "Use our analytical tools to find best market opportunities",
+      "list": [
+        {
+          "title": "Winners Losers"
+        },
+        {
+          "title": "Market Strength"
+        },
+        {
+          "title": "Heat map"
+        },
+        {
+          "title": "Daily Forecast"
+        }
+      ]
+    },
+    "whyFinteria": {
+      "title": "Why Finteria is your choice",
+      "choices": [
+        {
+          "text": "<span>Guaranteed</span> withdrawals processing within 1 hour"
+        },
+        {
+          "text": "Guided trading facility with a help of <span>skilled advisor</span>"
+        },
+        {
+          "text": "Possibility to trade over <span>weekends</span>"
+        },
+        {
+          "text": "Over <span>10 000 trades</span> served daily"
+        },
+        {
+          "text": "<span>Wide range</span> of funding and withdrawals methods"
+        },
+        {
+          "text": "Customer support <span>24/7</span>"
+        },
+        {
+          "text": "<span>100% secured</span> trading with data protection"
+        },
+        {
+          "text": "Copy trades and earn even <span>without any experience</span> in trading"
+        },
+        {
+          "text": "<span>No-commission</span> trading"
+        }
+      ]
+    },
+    "helpCenter": {
+      "title": "Getting started with Finteria is easy",
+      "text": "But for those of you who are a bit unsure, we have plenty of instructional posts and helpful hints on how to start trading",
+      "buttonText": "Chat with us!",
+      "accordions": [
+        {
+          "title": "How much money do I need to start?",
+          "text": "The minimum initial deposit is ${m$sg} or equivalent in another currency."
+        },
+        {
+          "title": "How can I deposit?",
+          "text": "There are several deposit methods available depending on your location. The deposit methods include crypto, VISA/Mastercard cards, and other electronic payment systems. Check your Client Area for more information on available deposit methods."
+        },
+        {
+          "title": "What instruments can I trade?",
+          "text": "Finteria offers over 100+ trading instruments including Crypto, Forex, CFDs, and Commodities."
+        },
+        {
+          "title": "Which platform can I use?",
+          "text": "You can use Finteria Trader. The platform is available for both desktop and mobile devices, allowing users to access it anytime, anywhere."
+        },
+        {
+          "title": "Do I pay commissions?",
+          "text": "Finteria offers trading with zero commissions."
+        },
+        {
+          "title": "What are withdrawal fees?",
+          "text": "There are no withthdawal fees for fiat currencies. The fees for crypto withdrawals depend on network fees and the current state of the blockchain network."
+        }
+      ]
+    },
+    "joinFinteriaNow": "Join Finteria right now!",
+    "calculator": {
+      "title": "Your 24-hour Profit",
+      "dailyChange": "Daily change",
+      "investment": "Investment",
+      "leverage": "Leverage",
+      "tradeSize": "Trade Size",
+      "profit": "Profit",
+      "selectAsset": "Select symbol",
+      "profitability": "Profitability"
+    },
+    "meta": {
+      "title": "Trade Crypto, Forex, CFDs and Earn up to 90% in 30 sec",
+      "description": "Join Finteria, the fast-growing trading platform, and unlock unlimited trading opportunities to start earning money online. Sign up for free and access powerful tools to maximize your profits. Start trading now and take advantage of the market's potential with Finteria."
+    }
+  },
+  "login": {
+    "reset": "Reset Password",
+    "title": "Log In",
+    "inputs": {
+      "email": {
+        "label": "E-mail"
+      },
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm Password",
+      "password": {
+        "label": "Password",
+        "postfix": "Forgot password?"
+      }
+    },
+    "button": "SIGN IN",
+    "buttonReset": "RESET",
+    "toastSuccessNewpassword": "Your password has been successfully updated",
+    "toastSuccessReset": "A link has been sent to your email",
+    "footer": "Don't have an account?",
+    "fireBlock": "BitGo provides digital asset custody solutions and $700M pooled crime insurance.",
+    "welcome": "Welcome to Finteria"
+  },
+  "signUp": {
+    "title": "Sign Up",
+    "subtitle": "And unlock your assets value!",
+    "inputs": {
+      "email": {
+        "label": "E-mail",
+        "postfix": "Enter the correct email value"
+      },
+      "country": {
+        "label": "Your country"
+      },
+      "password": {
+        "label": "Password",
+        "postfix": "Must contain at least 6 symbols",
+        "identy": "Your passwords don't match"
+      },
+      "signupAgreement": "I confirm the service is provided to me outside of the USA territory",
+      "termsAgreement": {
+        "prefix": "I have read and agree to Terms of Service and Risk Disclosure",
+        "links": {
+          "service": "Terms of Service",
+          "privacy": "Privacy Notice",
+          "policy": "AML Policy",
+          "execution": "Execution only Agreement",
+          "conversion": "Terms for Conversion Services",
+          "complaints": "Complaints process",
+          "specific": "Specific Terms for Conversion Services"
+        },
+        "union": "and"
+      }
+    },
+    "button": "SIGN UP",
+    "footer": "Already have an account?",
+    "fireBlock": "Your assets are stored under leading custody solution with $9 billion insurance policy.",
+    "description": {
+      "gift": "Up to 100% <br> trading bonus",
+      "student": "$10'000 gift <br> to demo account",
+      "times": "1-hour <br> Withdrawal"
+    },
+    "wrongPromoCode": "Wrong promo code",
+    "promoCodeApplied": "Promo code XXX is applied successfully",
+    "toast": {
+      "recaptchaFailed": "Recaptcha check fail"
+    }
+  },
+  "common": {
+    "btns": {
+      "goBack": "Go Back",
+      "cancel": "Cancel",
+      "confirm": "Confirm",
+      "preview": "Preview",
+      "continue": "Continue",
+      "copied": "Copied",
+      "done": "Done",
+      "save": "Save",
+      "clear": "Clear",
+      "loading": "Loading",
+      "reset": "Reset",
+      "waiting": "Waiting",
+      "apply": "Apply",
+      "resend": "Resend"
+    },
+    "toast": {
+      "success": "Success"
+    },
+    "errors": {
+      "goHomePage": "Go to home page",
+      "403": "Authorization denied. Please contact the support team.",
+      "copyError": "Copy error"
+    }
+  },
+  "Network": "account.wallets.walletsTab.withdrawal.network",
+  "blog": {
+    "list": {
+      "title": "Trading Blog",
+      "lead": "Explore the Finteria blog for the latest hot topics in trading. Get insights, updates, news and more from a team of experts at Finteria.",
+      "categories": "Categories",
+      "categoriesTitle": "For Traders:",
+      "articlesTitle": "Articles",
+      "paginatorPrev": "Previous",
+      "paginatorNext": "Next"
+    },
+    "article": {
+      "otherNews": "Other news"
+    }
+  },
+  "pressMedia": {
+    "title": "Press and media"
+  },
+  "cryptocurrency": {
+    "title": "Cryptocurrency trading",
+    "lead": "With Finteria you can trade a variety of cryptocurrencies such as Bitcoin, Ethereum, Solana and more.",
+    "description1": "Experience rapid access to the global cryptocurrency market, trade a wide range of popular crypto-assets and tokens, and elevate your trading outcomes with our renowned platform.",
+    "description2": "At Finteria, we offer a robust trading infrastructure, dependable software, and a user-friendly interface tailored for the cryptocurrency realm. With our advanced traditional trading tools, you can confidently trade top cryptocurrencies like Bitcoin, Ethereum, Solana, Litecoin, and beyond.",
+    "trade": "Trade",
+    "tradeNow": "Trade now",
+    "see": "See",
+    "exchangeRate": "exchange rate",
+    "toolsSectionTitle": "Tools",
+    "tradingSectionTitle": "Unlock the potential of cryptocurrency trading",
+    "tradingSectionText": "Cryptocurrency trading offers immense profit potential with its volatile and rapidly fluctuating nature. Prices of digital assets can experience significant swings, often rising or falling by as much as 20% within a single day or over the course of a week.",
+    "tradingCheckList": [
+      {
+        "title": "High profit potential",
+        "text": "Traders choose cryptocurrencies because of higher volatility and increased potential profits on successful trades."
+      },
+      {
+        "title": "Most popular digital assets",
+        "text": "Finteria offers Bitcoin, Ethereum, Solana, and Litecoin – the most popular cryptocurrencies in the market."
+      },
+      {
+        "title": "Secure trading",
+        "text": "Traders can protect their positions against extreme market volatility by using protection orders, and have peace of mind while trading on a secure platform."
+      }
+    ],
+    "whyFinteriaSectionTitle": "Why trade cryptocurrency with Finteria",
+    "whyFinteriaCheckList": [
+      {
+        "title": "Deep liquidity, powerful tools",
+        "text": "Trade cryptocurrencies with our fast, secure and reliable platform. Benefit from deep liquidity, and a wide range of advanced features and trading tools."
+      },
+      {
+        "title": "Competitive fee schedule",
+        "text": "Enjoy some of the best trading conditions on the market with tight spreads and low fees on all cryptocurrency trades."
+      },
+      {
+        "title": "Intuitive, user-friendly trading",
+        "text": "Customize your trading interface with features like multi-monitor functionality, a range of professional trading tools, and 24/7 customer service."
+      },
+      {
+        "title": "Advanced charting tools",
+        "text": "Experience a range of different chart types, over 50+ trading indicators, and the ability to execute trades directly from charts."
+      }
+    ],
+    "stepList": [
+      {
+        "title": "Register",
+        "text": "Create a new account on FInteria in less than a minute. Only a registered E-mail is needed to begin."
+      },
+      {
+        "title": "Fund your account",
+        "text": "Deposit funds into your personal wallet. Once your account is funded, you’re ready to trade!"
+      },
+      {
+        "title": "Begin trading",
+        "text": "Get full access to our award-winning trading software. Benefit from low fees and advanced trading features"
+      }
+    ],
+    "getStarted": "Get Started",
+    "market": "Market",
+    "marketLast": "Market / Last",
+    "last": "Last",
+    "24h": "24h",
+    "more": "More",
+    "startSteps": "Start trading in only 3 steps"
+  },
+  "forex": {
+    "title": "Forex trading",
+    "lead": "With Finteria you can buy, sell, and trade a variety of forex currencies such as EURUSD, USDJPY, GBPUSD and more.",
+    "description1": "Experience rapid access to the global Forex market, trade a wide range of popular currency pairs, and elevate your trading outcomes with our renowned platform.",
+    "description2": "At Finteria, we offer a robust trading infrastructure, dependable software, and a user-friendly interface tailored for the currency realm. With our advanced traditional trading tools, you can confidently trade top currencies the Dollar, the Euro, the British Pound, the Japanese Yen, and beyond.",
+    "trade": "Trade",
+    "tradeNow": "Trade now",
+    "see": "See",
+    "exchangeRate": "exchange rate",
+    "toolsSectionTitle": "Tools",
+    "tradingSectionTitle": "Unlock the potential of forex trading",
+    "tradingSectionText": "Forex trading offers immense profit potential with its volatile and rapidly fluctuating nature. Prices of currencies can experience significant swings due to economic and political events.",
+    "tradingCheckList": [
+      {
+        "title": "High profit potential",
+        "text": "Traders choose Forex because of higher liquidity and increased potential profits on successful trades."
+      },
+      {
+        "title": "Most popular forex currencies",
+        "text": "Finteria offers the most popular currency pairs in the market."
+      },
+      {
+        "title": "Secure trading",
+        "text": "Traders can protect their positions against extreme market volatility by using protection orders, and have peace of mind while trading on a secure platform."
+      }
+    ],
+    "whyFinteriaSectionTitle": "Why trade Forex with Finteria",
+    "whyFinteriaCheckList": [
+      {
+        "title": "Deep liquidity, powerful tools",
+        "text": "Trade Forex with our fast, secure and reliable platform. Benefit from deep liquidity, and a wide range of advanced features and trading tools."
+      },
+      {
+        "title": "Competitive fee schedule",
+        "text": "Enjoy some of the best trading conditions on the market with tight spreads and low fees on all trades."
+      },
+      {
+        "title": "Intuitive, user-friendly trading",
+        "text": "Customize your trading interface with features like multi-monitor functionality, a range of professional trading tools, and 24/7 customer service."
+      },
+      {
+        "title": "Advanced charting tools",
+        "text": "Experience a range of different chart types, over 50+ trading indicators, and the ability to execute trades directly from charts."
+      }
+    ],
+    "getStarted": "Get Started"
+  },
+  "markets": {
+    "title": "price for today",
+    "chartTitle": "Price Chart",
+    "marketWatchTitle": "Discover more assets",
+    "chartText": "Follow this real-time price chart to speculate on the price movements. With this convenient live chart, you can view the current price, analyze the price dynamics, trace historical exchange rates.",
+    "periods": {
+      "1hour": "1 hour",
+      "24hours": "24 hours",
+      "7days": "7 days",
+      "14days": "14 days",
+      "30days": "30 days",
+      "1year": "1 year"
+    }
+  },
+  "strength": {
+    "currency": {
+      "title": "Currency Strength",
+      "lead": "Currency Strength is a tool that helps you find the strongest and the weakest currencies in the market. By combining strong and weak currencies, you can discover new trading ideas at any given moment. You can also see new tendencies in the market and correlation between different instruments."
+    },
+    "crypto": {
+      "title": "Crypto Strength",
+      "lead": "Crypto Strength is a tool that helps you see how cryptocurrencies performs across all top-10 major crypto currencies. It helps to evaluate the overall performance of the crypto market as well as see how different cryptocurrencies perform in relation to each other. You can easily identify the strongest and weakest cryptocurrencies among top-10 coins."
+    },
+    "periods": {
+      "5min": "Last 5min",
+      "15min": "Last 15min",
+      "30min": "Last 30min",
+      "1h": "Last 1h",
+      "4h": "Last 4h",
+      "8h": "Last 8h",
+      "12h": "Last 12h",
+      "24h": "Last 24h",
+      "72h": "Last 72h",
+      "1w": "Last 1week",
+      "2w": "Last 2weeks",
+      "1m": "Last 1month",
+      "today": "Today",
+      "yesterday": "Yesterday",
+      "week": "This Week",
+      "prevWeek": "Previous Week",
+      "month": "This Month"
+    }
+  },
+  "contest": {
+    "intro": {
+      "title": "For experienced traders and beginners",
+      "tradingContest": "Trading Contest!",
+      "prize": "Weekly prize fund",
+      "prizeNumber": "$20 000",
+      "winners": "10 winners every week",
+      "freeRegistration": "Free Registration"
+    },
+    "leaders": {
+      "title": "Leaders",
+      "text": "Join our weekly Trading Contest and put your skills to the test! Trade, compete, and have fun as you climb the leaderboard for rewards.",
+      "rules": "Trading Contest Rules.",
+      "periodTitle": "Period",
+      "table": {
+        "headers": {
+          "name": "Name",
+          "trades": "Total trades",
+          "prize": "Prize",
+          "prizeTrades": "Prize/Total trades"
+        }
+      },
+      "periodPrev": "Previos",
+      "periodNext": "Next"
+    },
+    "questions": {
+      "title": "Questions",
+      "accordions": [
+        {
+          "title": "How to take part in the contest?",
+          "text": "All live accounts participate in the contest automatically. No additional registration is necessary. "
+        },
+        {
+          "title": "How the winning places are distributed?",
+          "text": "The places are distributed based on the number of trades during the contest period. The more trades you have, the higher is your ranking. If you have several accounts, all trades from all accounts are taken into account. Demo accounts are not included."
+        },
+        {
+          "title": "What are the prizes for this contest?",
+          "text": "All prizes are bonus deposits which are credited to winners. To get a prize, your net balance (balance minus bonuses) should be equal or more than the prize amount. For example, if your prize is 500 USD, the net balance of your account needs to be at least 500 USD."
+        },
+        {
+          "title": "How will I know if I won a prize?",
+          "text": "You will be notified by email about your place and the prize you won. Also you can always check your rank in the leader board."
+        },
+        {
+          "title": "Can I withdraw the prize from the account?",
+          "text": "As the prize is credited as a bonus deposit, you can't withdraw it. However, you can withdraw the profits if the minimum turnover conditions are met. The turnover requirement is 3x the sum of all deposits and bonuses."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+$toast-colors: () !default;
+
+$toast-colors: map-merge(
+  (
+    "success": hsla(133, 97%, 94%, 1),
+    "info": hsl(206, 100%, 97%),
+    "warning": hsla(40, 97%, 92%, 1),
+    "error": hsla(360, 97%, 94%, 1),
+    "default": hsl(0, 0%, 42%),
+    "gift": hsl(322, 100%, 95%),
+  ),
+  $toast-colors
+);

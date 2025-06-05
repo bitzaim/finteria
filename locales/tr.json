@@ -1,0 +1,1473 @@
+{
+  "header": {
+    "nav": {
+      "trade": "Ticaret",
+      "borrow": "Ödünç almak",
+      "earn": "Kazanmak",
+      "exchange": "Değişim"
+    },
+    "btns": {
+      "login": "Giriş",
+      "signup": "Kaydolun",
+      "myAccount": "Hesabım",
+      "logout": "Çıkış Yap",
+      "unverified": "doğrulanmamış",
+      "close": "Kapat"
+    },
+    "menu": {
+      "platforms": {
+        "web": "Web Platformu",
+        "android": "Android Uygulaması",
+        "title": "Ticaret Platformları"
+      },
+      "support": {
+        "help": "Yardım Kılavuzları",
+        "faq": "SSS",
+        "title": "Destek"
+      },
+      "menu": "Menü",
+      "blog": {
+        "marketResearch": "Pazar Araştırması",
+        "education": "Eğitim",
+        "reviews": "Yorumlar",
+        "pressAndMedia": "Basın ve Medya",
+        "title": "Blog"
+      },
+      "markets": {
+        "title": "Piyasalar",
+        "forex": "Forex para birimleri",
+        "crypto": "Kripto Para Birimleri",
+        "currencystrength": "Para Birimi Gücü",
+        "cryptostrength": "Kripto Gücü"
+      },
+      "services": {
+        "title": "Hizmetler",
+        "copytrading": "Copytrading",
+        "contest": "Yarışma",
+        "blog": "Blog",
+        "pressAndMedia": "Basın ve Medya",
+        "helpGuides": "Yardım Kılavuzları",
+        "platform": "Platform"
+      }
+    }
+  },
+  "footer": {
+    "prefooterTitle": "© Finteria, 2023 - Kripto Pazarına Tek Giriş",
+    "col1": {
+      "title": "Finteria Markets LLC",
+      "ul": [
+        {
+          "label": "Şartlar ve Koşullar"
+        },
+        {
+          "label": "Bonus Politikası"
+        },
+        {
+          "label": "Gizlilik Politikası"
+        },
+        {
+          "label": "AML/KYC Politikası"
+        },
+        {
+          "label": "Risk Açıklaması"
+        }
+      ]
+    },
+    "col2": {
+      "title": "Hızlı Bağlantılar",
+      "ul": [
+        {
+          "label": "Web Platformu"
+        },
+        {
+          "label": "Android Uygulaması"
+        },
+        {
+          "label": "Bilgi Bankası"
+        },
+        {
+          "label": "İkili Opsiyon Ticareti"
+        },
+        {
+          "label": "Yardım Kılavuzları"
+        },
+        {
+          "label": "Ortaklık Programı"
+        }
+      ]
+    },
+    "col3": {
+      "title": "KRİPTO SATIN AL"
+    },
+    "col4": {
+      "registrationInfo": "Company number 13983022",
+      "address": "20-22 Wenlock Road, London, England, N1 7GU"
+    },
+    "postfooter": "Bu web sitesi hizmetleri AEA ülkeleri, ABD ve İngiltere'de ikamet edenler için geçerli değildir.",
+    "colBlog": {
+      "title": "Blog",
+      "ul": [
+        {
+          "label": "Pazar araştırması"
+        },
+        {
+          "label": "Eğitim"
+        },
+        {
+          "label": "Yorumlar"
+        },
+        {
+          "label": "Basın ve medya"
+        }
+      ]
+    },
+    "colMarkets": {
+      "title": "Piyasalar",
+      "ul": [
+        {
+          "label": "Forex para birimleri"
+        },
+        {
+          "label": "Kripto Para Birimleri"
+        },
+        {
+          "label": "Para Birimi Gücü"
+        },
+        {
+          "label": "Kripto Gücü"
+        }
+      ]
+    },
+    "disclaimer": "Risk Uyarısı: Kaldıraçlı Finansal Araçların alım satımı önemli riskler içerir ve yatırdığınız sermayenin kaybına neden olabilir. Kaybetmeyi göze alabileceğinizden daha fazla yatırım yapmamalı ve ilgili riskleri tam olarak anladığınızdan emin olmalısınız. Kaldıraçlı ürünlerin alım satımı tüm yatırımcılar için uygun olmayabilir. Forex gibi kaldıraçsız ürünlerin alım satımı da risk içerir, çünkü bir varlığın değeri yükselebileceği gibi düşebilir de, bu da başlangıçta koyduğunuzdan daha azını geri almanız anlamına gelebilir. Geçmiş performans gelecekteki sonuçların garantisi değildir. Yatırım yapmadan önce lütfen deneyim seviyenizi, yatırım hedeflerinizi göz önünde bulundurun ve gerekirse bağımsız finansal tavsiye alın. İkamet ettiği ülkedeki yasal gerekliliklere göre Finteria markasının hizmetlerini kullanma iznine sahip olup olmadığını değerlendirmek müşterinin sorumluluğundadır."
+  },
+  "account": {
+    "trading": {
+      "subPages": {
+        "withdrawal": "Para Çekme",
+        "deposit": "Depozito",
+        "depositTransaction": "Depozito",
+        "transfer": "Transfer",
+        "openedWithdrawal": "Açılmış Para Çekme Talebi"
+      },
+      "tradingAccounts": {
+        "title": "Ticari hesaplar",
+        "addAccountBtn": "Hesap ekle",
+        "columns": {
+          "external_id": "Kimlik",
+          "group": "Tip",
+          "currency": "Para Birimi",
+          "balance": "Denge",
+          "bonus": "Bonus"
+        },
+        "btnDeposit": "Depozito",
+        "btnTransfer": "Transfer",
+        "btnWithdraw": "Geri Çekilme"
+      },
+      "depositFirstPage": {
+        "depositIsProcessing": "Depozitonuz işleme alınıyor",
+        "demoDepositUnavaliable": "Demo hesabına para yatıramazsınız",
+        "depositError": "Bir şeyler ters gitti",
+        "chooseDepositAmount": "Depozito miktarını seçin",
+        "bonus": "Bonus",
+        "policyPrivacy": "Kabul ediyorum ve katılıyorum",
+        "policyPrivacyLink": "Bonus Politikası",
+        "totalTradingDeposit": "Toplam mevduat",
+        "chooseFundingMethod": "Finansman yöntemini seçin",
+        "depositBtn": "Depozito",
+        "doYouHavePromocode": "Promosyon kodunuz var mı?"
+      },
+      "depositSecondPage": {
+        "transaction": "İşlem",
+        "scanQr": "Ödeme yapmak için bu QR kodunu mobil cüzdan uygulaması ile tarayabilir veya tam tutarı para yatırma adresine gönderebilirsiniz.",
+        "depositAmount": "Mevduat Tutarı",
+        "receivingAmount": "Alım tutarı",
+        "copyBtn": "Anlaşıldı",
+        "depositAddress": "Depozito Adresi",
+        "txid": "TXID",
+        "openInExplorer": "Explorer'da Aç",
+        "onlySendCurrency": "Sadece bu adrese {m$sg} gönderin",
+        "depositMessage": "Finteria yalnızca yerel {m$sg} ana ağı üzerinden {m$sg} para yatırma işlemlerini destekler. Diğer ağlar desteklenmemektedir. Diğer paraları göndermek veya diğer ağlar üzerinden {m$sg} göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+        "depositMessages": {
+          "btc": "Bitcoin ağı üzerinden yalnızca BTC transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer paraları göndermek veya diğer ağlar üzerinden BTC göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+          "eth": "Ethereum Mainnet (ERC-20) üzerinden yalnızca ETH para yatırma işlemleri gönderin. Diğer ağlar desteklenmemektedir. Diğer coinleri göndermek veya diğer ağlar üzerinden ETH göndermek, fonlarınızın kalıcı olarak kaybedilmesine neden olacaktır.",
+          "usdt": {
+            "erc20": "Bu adrese ERC20 ağı üzerinden yalnızca USDT gönderin. Diğer coinleri göndermek veya diğer ağlar üzerinden USDT göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+            "trc20": "Bu adrese yalnızca TRC20 ağı üzerinden USDT gönderin. Diğer paraları göndermek veya diğer ağlar üzerinden USDT göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır"
+          },
+          "usdc": {
+            "erc20": "Bu adrese ERC20 ağı üzerinden yalnızca USDT gönderin. Diğer coinleri göndermek veya diğer ağlar üzerinden USDT göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+            "trc20": "Bu adrese yalnızca TRC20 ağı üzerinden USDT gönderin. Diğer paraları göndermek veya diğer ağlar üzerinden USDT göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır"
+          },
+          "dai": "Yalnızca Ethereum Mainnet (ERC-20) üzerinden DAI transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer coinleri göndermek veya diğer ağlar üzerinden DAI göndermek, fonlarınızın kalıcı olarak kaybedilmesine neden olacaktır.",
+          "wbtc": "Ethereum Mainnet (ERC-20) üzerinden yalnızca WBTC transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer coinleri göndermek veya diğer ağlar üzerinden WBTC göndermek, fonlarınızın kalıcı olarak kaybedilmesine neden olacaktır.",
+          "trx": "TRON Mainnet üzerinden sadece TRX transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer coinleri göndermek veya diğer ağlar üzerinden TRX göndermek, fonlarınızın kalıcı olarak kaybedilmesine neden olacaktır.",
+          "avax": "Avalanche Mainnet üzerinden yalnızca AVAX transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer coinleri göndermek veya AVAX'ı diğer ağlar üzerinden göndermek, fonlarınızın kalıcı olarak kaybedilmesine neden olacaktır.",
+          "dot": "TRON Mainnet üzerinden sadece TRX transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer paraları göndermek veya diğer ağlar üzerinden TRX göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+          "ada": "Polkadot Mainnet üzerinden sadece DOT transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer paraları göndermek veya diğer ağlar üzerinden DOT göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+          "matic": "Polygon Mainnet üzerinden sadece MATIC transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer paraları göndermek veya diğer ağlar üzerinden MATIC göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır."
+        },
+        "status": "Durum",
+        "statuses": {
+          "waiting": "Bekliyorum",
+          "expired": "Süresi doldu",
+          "pending": "Beklemede",
+          "completed": "Tamamlandı",
+          "available": "Mevcut"
+        },
+        "timeInterval": "Kalan süre",
+        "timeIntervalExpired": "Ödeme henüz yapılmadıysa, lütfen iptal edin ve yeni bir depozito oluşturun",
+        "confirmationMessage": "Madeni paralar 3 onaydan sonra yatırılacaktır.",
+        "confirmationMessages": {
+          "eth": "Madeni paralar 12 onaydan sonra yatırılacaktır.",
+          "ltc": "Madeni paralar 12 onaydan sonra yatırılacaktır.",
+          "bch": "Madeni paralar 12 onaydan sonra yatırılacaktır.",
+          "zec": "Madeni paralar 24 onaydan sonra yatırılacaktır."
+        },
+        "needAssistance": "Yardıma mı ihtiyacınız var?",
+        "requestCallback": "Geri arama talep edin",
+        "or": "veya",
+        "chatWithUs": "bizimle sohbet edin",
+        "timeRemaining": "Kalan süre",
+        "rotationalAddress": "Geçici adres",
+        "payretailers": {
+          "fillRequiredFields": "Gerekli alanları doldurun"
+        }
+      },
+      "depositWithModal": {
+        "paymentCard": {
+          "title": "Kart detayları",
+          "backBtn": "Geri",
+          "continueBtn": "Devam et",
+          "toast": {
+            "fillCardNumber": "Lütfen kart numarasını doğru doldurun",
+            "fillHolderName": "Lütfen kart sahibinin adını girin",
+            "expirationNotCorrect": "Son kullanma süresi doğru değil",
+            "fillCVV": "Lütfen CVV doldurunuz"
+          },
+          "processing": "Ödeme yönteminizin işlenmesi",
+          "processingFailed": "Kredi kartınız başarıyla doğrulandı",
+          "cardholderName": "Kart sahibinin adı"
+        },
+        "title": "Visa, Mastercard ile finansman",
+        "paragraph": "İşlem depozitonuzu tamamlamaktan bir adım uzaktasınız. Sadece {m$sg} düğmesine tıklayın ve talimatları izleyin.",
+        "cantLoadWidget": "Widget yüklenemiyor",
+        "paybis": {
+          "text": "Yatırım hesabınızı 3. taraf sağlayıcı Paybis ile kripto satın alarak Visa/Mastercard ile fonluyorsunuz.",
+          "depositWith": "Paybis ile {a$mnt} satın alın",
+          "addressText": "Aşağıda sizin için özel olarak oluşturduğumuz cüzdan adresi yer almaktadır. Tam olarak gösterildiği gibi kopyaladığınızdan emin olun.",
+          "walletAddress": "Cüzdan Adresi",
+          "clickButtonText": "Kripto satın almak için güvenli bir hizmet olan Paybis'e yönlendirilmek için aşağıdaki düğmeye tıklayın.",
+          "afterText": "Paybis üzerinden satın alma işlemini gerçekleştirdiğinizde, tutar otomatik olarak yatırım hesabınıza aktarılacaktır. Bu kadar basit!"
+        }
+      },
+      "transfer": {
+        "amount": "Miktar",
+        "status": "Durum",
+        "available": "Çekilebilir",
+        "toAccount": "Hesaba",
+        "continueBtn": "Devam et",
+        "backToTrading": "Ticarete Geri Dön",
+        "inReview": "İncelemede",
+        "info": "Para çekme talebiniz başarıyla gönderildi. Para çekme talebini 1 saat içinde inceleyip onaylayacağız. Para çekme talebi ek kontroller gerektiriyorsa, para çekme işleminin onaylanması 48 saate kadar sürebilir."
+      },
+      "withdrawal": {
+        "amount": "Miktar",
+        "balance": "Denge",
+        "address": "Adres",
+        "networkFee": "Ağ Ücreti",
+        "youGet": "Sen Alırsın",
+        "continueBtn": "Devam et",
+        "blockchain_network": "Şebeke",
+        "cancelBtn": "İptal",
+        "currency": "Para Birimi"
+      },
+      "depositSuccessPage": {
+        "paid": "Sen ödedin:",
+        "deposited": "Yatırıldı:"
+      }
+    },
+    "wallets": {
+      "title": "Cüzdanlar",
+      "tabs": {
+        "wallets": {
+          "label": "Cüzdanlar"
+        },
+        "transactionsHistory": {
+          "label": "İşlem Geçmişi"
+        }
+      },
+      "walletsTab": {
+        "addWalletBtn": "Cüzdan Ekle",
+        "addWalletCancel": "İptal",
+        "estimatedBalance": "Tahmini Bakiye",
+        "hideSmallBalances": "Küçük Bakiyeleri Gizleyin",
+        "columns": {
+          "currency": "Madeni Para",
+          "balance": "Mevcut Bakiye",
+          "locked_balance": "Kilitli Bakiye"
+        },
+        "btnDeposit": "Depozito",
+        "btnTransfer": "Transfer",
+        "btnWithdraw": "Geri Çekilme",
+        "btnExchange": "Değişim",
+        "withdrawal": {
+          "amount": "Miktar",
+          "balance": "Denge",
+          "address": "Adres",
+          "networkFee": "Para Çekme Komisyonu",
+          "youGet": "Sen Alırsın",
+          "continueBtn": "Devam et",
+          "goBackBtn": "Geri Dön",
+          "withdrawalErrors": {
+            "required": "Gerekli",
+            "minValue": "Minimum değer {m$sg}",
+            "maxValue": "Sende {m$sg} var",
+            "numeric": "Değer sayısal olmalıdır",
+            "verifiedNotification": "Para çekmek için lütfen kimliğinizi doğrulayın.",
+            "verifiedDepositNotification": "Para çekmek için en az bir depozitonuz olması gerekir."
+          },
+          "withdrawalSuccess": {
+            "inReview": "İncelemede",
+            "address": "Adres",
+            "amount": "Miktar",
+            "status": "Durum",
+            "statusResult": "Beklemede",
+            "info": "Para çekme talebiniz başarıyla gönderildi. Para çekme talebini 1 saat içinde inceleyip onaylayacağız. Para çekme talebi ek kontroller gerektiriyorsa, para çekme işleminin onaylanması 48 saate kadar sürebilir.",
+            "backToWallets": "Cüzdanlara Geri Dön"
+          },
+          "startVerification": "Doğrulamayı başlat.",
+          "networkPlaceholder": "Para çekme ağını seçin",
+          "network": "Şebeke",
+          "makeDeposit": "Para yatırın",
+          "unlockKYC": "KYC doğrulama ve para çekme seçeneklerinin kilidini açmak için lütfen önce para yatırın."
+        },
+        "deposit": {
+          "transaction": "İşlem",
+          "scanQr": "Ödeme yapmak için bu QR kodunu mobil cüzdan uygulaması ile tarayabilir veya tam tutarı para yatırma adresine gönderebilirsiniz.",
+          "depositAmount": "Mevduat Tutarı",
+          "copyBtn": "Anlaşıldı",
+          "depositAddress": "Depozito Adresi",
+          "onlySendCurrency": "Sadece bu adrese {m$sg} gönderin",
+          "confirmationMessage": "Madeni paralar 3 onaydan sonra yatırılacaktır.",
+          "confirmationMessages": {
+            "eth": "Madeni paralar 12 onaydan sonra yatırılacaktır.",
+            "ltc": "Madeni paralar 12 onaydan sonra yatırılacaktır.",
+            "bch": "Madeni paralar 12 onaydan sonra yatırılacaktır.",
+            "zec": "Madeni paralar 24 onaydan sonra yatırılacaktır."
+          },
+          "goBackBtn": "Geri Dön",
+          "depositMessage": "Finteria yalnızca yerel {m$sg} ana ağı üzerinden {m$sg} para yatırma işlemlerini destekler. Diğer ağlar desteklenmemektedir. Diğer paraları göndermek veya diğer ağlar üzerinden {m$sg} göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+          "depositMessages": {
+            "btc": "Bitcoin ağı üzerinden yalnızca BTC transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer paraları göndermek veya diğer ağlar üzerinden BTC göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+            "eth": "Ethereum Mainnet (ERC-20) üzerinden yalnızca ETH para yatırma işlemleri gönderin. Diğer ağlar desteklenmemektedir. Diğer coinleri göndermek veya diğer ağlar üzerinden ETH göndermek, fonlarınızın kalıcı olarak kaybedilmesine neden olacaktır.",
+            "usdc": {
+              "erc20": "Bu adrese ERC20 ağı üzerinden yalnızca USDT gönderin. Diğer coinleri göndermek veya diğer ağlar üzerinden USDT göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+              "trc20": "Bu adrese yalnızca TRC20 ağı üzerinden USDT gönderin. Diğer paraları göndermek veya diğer ağlar üzerinden USDT göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır"
+            },
+            "dai": "Yalnızca Ethereum Mainnet (ERC-20) üzerinden DAI transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer coinleri göndermek veya diğer ağlar üzerinden DAI göndermek, fonlarınızın kalıcı olarak kaybedilmesine neden olacaktır.",
+            "wbtc": "Ethereum Mainnet (ERC-20) üzerinden yalnızca WBTC transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer coinleri göndermek veya diğer ağlar üzerinden WBTC göndermek, fonlarınızın kalıcı olarak kaybedilmesine neden olacaktır.",
+            "trx": "TRON Mainnet üzerinden sadece TRX transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer coinleri göndermek veya diğer ağlar üzerinden TRX göndermek, fonlarınızın kalıcı olarak kaybedilmesine neden olacaktır.",
+            "avax": "Avalanche Mainnet üzerinden yalnızca AVAX transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer coinleri göndermek veya AVAX'ı diğer ağlar üzerinden göndermek, fonlarınızın kalıcı olarak kaybedilmesine neden olacaktır.",
+            "dot": "TRON Mainnet üzerinden sadece TRX transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer paraları göndermek veya diğer ağlar üzerinden TRX göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+            "ada": "Polkadot Mainnet üzerinden sadece DOT transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer paraları göndermek veya diğer ağlar üzerinden DOT göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+            "matic": "Polygon Mainnet üzerinden sadece MATIC transferleri gönderin. Diğer ağlar desteklenmemektedir. Diğer paraları göndermek veya diğer ağlar üzerinden MATIC göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+            "usdt": {
+              "erc20": "Bu adrese ERC20 ağı üzerinden yalnızca USDT gönderin. Diğer coinleri göndermek veya diğer ağlar üzerinden USDT göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır.",
+              "trc20": "Bu adrese yalnızca TRC20 ağı üzerinden USDT gönderin. Diğer paraları göndermek veya diğer ağlar üzerinden USDT göndermek, paranızın kalıcı olarak kaybedilmesine neden olacaktır"
+            }
+          },
+          "selectNetwork": "Ağ seçin",
+          "rotationalAddress": "Geçici adres",
+          "beAwareAddresIsTemporary": "Lütfen para yatırma adresinin geçici olduğunu ve sınırlı bir süre için aktif olduğunu unutmayın. Paranızın kalıcı olarak kaybedilmesine neden olabileceğinden, sona erme süresinden sonra para göndermeyin."
+        }
+      },
+      "filters": {
+        "title": "Filtreler",
+        "allCurrency": "Tüm Para Birimleri",
+        "transactionType": "İşlem türü",
+        "period": "Dönem",
+        "transactionTypes": {
+          "deposit": "mevduat",
+          "withdraw": "geri çekilme",
+          "commission": "Komisyon",
+          "fee": "ücret",
+          "loan_origination_fee": "kredi̇ kullandirma ücreti̇",
+          "conversion": "dönüşüm",
+          "internal_exchange": "dahili değişim",
+          "collateral": "teminat",
+          "collateral_adjustment": "teminat ayarlaması",
+          "loan": "Kredi",
+          "loan_payment": "kredi̇ ödemesi̇",
+          "loan_interest_payment": "kredi faiz ödemesi"
+        }
+      },
+      "transactionsTab": {
+        "columns": {
+          "id": "KIMLIK",
+          "created_at": "Tarih",
+          "type": "Tip",
+          "transaction_owner_name": "Köken",
+          "amount": "Miktar"
+        }
+      },
+      "ordersTab": {
+        "columns": {
+          "id": "KIMLIK",
+          "date": "Tarih",
+          "status": "Durum",
+          "amount": "Miktar",
+          "type": "Tip"
+        }
+      }
+    },
+    "settings": {
+      "settingsTitle": "Profil",
+      "tabs": {
+        "general": {
+          "label": "Genel"
+        },
+        "verification": {
+          "label": "Doğrulama"
+        },
+        "password": {
+          "label": "Şifre"
+        },
+        "sessions": {
+          "label": "Oturumlar"
+        }
+      },
+      "general": {
+        "email": "E-posta",
+        "emailText": "E-posta adresinizi değiştirmek istiyorsanız, lütfen destek ekibimizle iletişime geçin.",
+        "phone": "Telefon",
+        "phoneText": "Telefon numaranızı değiştirmek istiyorsanız, lütfen destek ekibimizle iletişime geçin.",
+        "language": "Dil",
+        "languageText": "Tercih ettiğiniz dil.",
+        "btnSave": "Ayarları Kaydet",
+        "selectCountry": "Ülke seçiniz",
+        "changePhone": "Telefon numarasını değiştir"
+      },
+      "verification": {
+        "accountVerificationsStatus": "Hesap doğrulama durumu",
+        "agreementSignInstruction": "Kişisel adınızı ve soyadınızı girin ve sözleşmeyi imzalayın.",
+        "personalData": "Kişisel veriler",
+        "name": "İsim",
+        "surname": "Soyadı",
+        "accountVerification": "Hesap doğrulama",
+        "chooseYourIdType": "Kimlik türünüzü seçin",
+        "copyOfPassport": "Pasaport fotokopisi",
+        "frontSide": "Ön taraf Kart Kimliği",
+        "backSide": "Arka taraf Kart Kimliği",
+        "uploadFileImg": "Dosya yükleme (PDF, PNG, JPG, HEIC, HEIF) en fazla 10 mb",
+        "notLoaded": "Yüklü değil",
+        "loaded": "Yüklü",
+        "onVerification": "Doğrulama üzerine",
+        "notSigned": "İmzalanmadı",
+        "signed": "İmza",
+        "uploadFile": "Dosya yükle",
+        "uploadSign": "Sözleşme İmzala",
+        "takeASelfie": "Bir selfie çekin",
+        "takeASelfieText": "Lütfen kimlik belgenizi yüzünüzün yanında tutarak bir selfie çekin. Lütfen fotoğrafta hem yüzünüzün hem de kimliğinizin net bir şekilde göründüğünden emin olun. Kimlik üzerinde hiçbir şey olmamalıdır.",
+        "agreement": "Anlaşma",
+        "downloadAgreement": "Sözleşmeyi indirin",
+        "isVerified": {
+          "verified": "Doğrulandı",
+          "notVerified": "Doğrulanmadı"
+        },
+        "verifyBtn": "Doğrulama",
+        "saveBtn": "Kaydet",
+        "submitBtn": "Gönder",
+        "signBtn": "İşaret",
+        "signAcceptanceTitle": "Ticarete başlamak için bir hizmet kabulü imzalayın",
+        "signAcceptanceDescription": "Bu web sitesi tarafından sağlanan finansal hizmetler yüksek düzeyde risk taşır ve tüm paranızın kaybına neden olabilir. Kaybetmeyi göze alamayacağınız bir parayı asla yatırmamalısınız. Lütfen yatırım platformumuzda herhangi bir işlem yapmadan önce hüküm ve koşullarımızı okuduğunuzdan emin olun. Hiçbir koşul altında şirketin bu web sitesindeki işlemlerden kaynaklanan herhangi bir kayıp veya hasar için herhangi bir kişi veya kuruluşa karşı herhangi bir sorumluluğu yoktur. Finteria veya temsilcileri veya ortakları ABD topraklarında kayıtlı değildir ve herhangi bir hizmet sağlamamaktadır.",
+        "codeConfirmed": "Doğrulama kodunuz onaylandı",
+        "toast": {
+          "dataRequired": "Lütfen sayfanın üst kısmına adınızı ve soyadınızı girin ve sözleşmeyi imzalayın",
+          "signatureNeeded": "Lütfen imzanızı gönderin",
+          "fileSize": "Dosya boyutu 10 MB'ı geçmemelidir",
+          "fileFormat": "Dosya yükleyin (PDF, PNG, JPG, HEIC, HEIF)",
+          "dataSent": "Verileriniz doğrulama için gönderildi"
+        },
+        "drawSignature": "Buraya imzanızı atın",
+        "phonePlaceholder": "Telefon numaranızı ekleyin",
+        "addBtn": "Ekle",
+        "verifyPhone": "Telefonunuzu doğrulayın",
+        "verifyEmail": "E-postanızı doğrulayın",
+        "whatIsPhoneNumber": "Telefon numaran nedir?",
+        "enterCode": "Gönderilen kodu girin",
+        "didReceiveCode": "Kodu almadınız mı?"
+      },
+      "password": {
+        "paragraph": "Güvenlik amacıyla, bu işlemi tamamladıktan sonra para çekme işlemleri 24 saat boyunca bekletilecektir.",
+        "currentPassword": "Geçerli Şifre",
+        "newPassword": "Yeni Şifre",
+        "confirmNewPassword": "Yeni Şifreyi Onayla",
+        "changePasswordBtn": "Şifre değiştirme",
+        "passwordSuccess": "Parolanız başarıyla değiştirildi",
+        "comparePasswordError": "Parolalar eşleşmiyor"
+      },
+      "authentication": {
+        "enableAuth": "İki Faktörlü Kimlik Doğrulamayı Etkinleştir",
+        "enableAuthText": "Güvenliğiniz için, hesabınızda 2FA'yı etkinleştirmenizi şiddetle tavsiye ederiz. Bundan sonra, hesabınıza her giriş yaptığınızda, para çektiğinizde veya şifreyi değiştirdiğinizde tek seferlik 6 haneli bir kod girmeniz gerekecektir.",
+        "enableAuthBtn": "2FA'yı Etkinleştir",
+        "download2faApp": "2FA Uygulamasını İndirin",
+        "download2faAppText": "Mobil cihazınıza Google Authenticator veya Authy gibi bir kimlik doğrulama uygulaması indirip yüklemelisiniz. Bu uygulama, hesabınıza giriş yapmak için gerekli olan tek seferlik 6 haneli erişim kodları oluşturacaktır.",
+        "save2faBackupKey": "2FA Yedekleme Anahtarını Kaydetme ve QR Kodunu Tarama",
+        "save2faBackupKeyText": "Lütfen 2FA kurtarma anahtarınızı çevrimdışı bir depolama alanına yedekleyin, örneğin bir kağıda yazın. Mobil cihazınız kaybolur, çalınır veya silinirse, 2FA erişiminizi kurtarmak için bu anahtara ihtiyacınız olacaktır.",
+        "backupSecretKey": "Yedekleme / Gizli Anahtar",
+        "backupSecretKeyText": "Lütfen yukarıdaki anahtarın bir kopyasını yazın veya yazdırın ve güvenli bir şekilde saklayın.",
+        "confirm2faActivation": "2FA Etkinleştirmeyi Onayla",
+        "confirm2faActivationText": "Authenticator Uygulamasından 2FA Kodu",
+        "confirm2faActivationPlaceholder": "6 basamaklı bir 2FA kodu girin",
+        "enable2faBtn": "2FA'yı Etkinleştir"
+      },
+      "sessions": {
+        "columns": {
+          "user_agent": "Cihaz",
+          "country": "Ülke",
+          "ip": "IP adresi",
+          "created_at": "Zaman"
+        }
+      },
+      "languageChanged": "Diliniz değiştirildi",
+      "dataUpdated": "Kişisel verileriniz güncellendi"
+    },
+    "exchange": {
+      "infoBlock": {
+        "summary": "Özet",
+        "yourBalance": "Sizin {m$sg} Denge",
+        "exchangeRate": "Döviz Kuru",
+        "time": {
+          "hours": "içinde {m$sg} h."
+        }
+      },
+      "actionBlock": {
+        "balance": "Denge"
+      },
+      "page": {
+        "youPay": "Sen Öde",
+        "youGet": "Sen Alırsın",
+        "exchangeBtn": "Değişim"
+      },
+      "success": {
+        "spent": "Harcadın:",
+        "converted": "Dönüştürülmüş:",
+        "price": "Fiyat:",
+        "backToWallets": "Cüzdanlara Geri Dön",
+        "exchangeAgain": "Tekrar değişim"
+      }
+    },
+    "loans": {
+      "columns": {
+        "id": "Kredi Kimliği",
+        "status": "Durum",
+        "loan_amount": "Kredi",
+        "loan_currency": "Kredi Para Birimi",
+        "collateral_amount": "Teminat",
+        "collateral_currency": "Teminat Para Birimi",
+        "ltv": "LTV",
+        "daily_rate": "Günlük ücret"
+      },
+      "helpers": {
+        "currency": "Para Birimi",
+        "id": "KIMLIK"
+      },
+      "tabs": [
+        {
+          "label": "Tümü",
+          "value": "hepsi"
+        },
+        {
+          "label": "Aktif",
+          "value": "aktif"
+        },
+        {
+          "label": "Arşiv",
+          "value": "arşiv"
+        }
+      ],
+      "statuses": {
+        "opened": "Aktif",
+        "closed": "Arşiv",
+        "unsecured": "Teminatsız"
+      },
+      "actionBlock": {
+        "available": "Denge"
+      },
+      "page": {
+        "youPay": "Sen Öde",
+        "youGet": "Sen Alırsın",
+        "exchangeBtn": "Değişim"
+      }
+    },
+    "nav": {
+      "wallets": "Kripto Cüzdanları",
+      "trading": "Ticari Hesaplar",
+      "loans": "Krediler",
+      "interest": "Faiz Hesapları",
+      "exchange": "Kripto Borsası",
+      "button": "Ticaret Platformları",
+      "buttonSmall": "Ticaret",
+      "account": "Ayarlar",
+      "profile": "Profil"
+    },
+    "navHelper": {
+      "profile-wallets": {
+        "label": "Cüzdanlar"
+      },
+      "profile-trading": {
+        "label": "Ticari hesaplar"
+      },
+      "profile-trading-deposit": {
+        "label": "Ticari hesaplar"
+      },
+      "profile-trading-transfer": {
+        "label": "Ticari hesaplar"
+      },
+      "profile-trading-address": {
+        "label": "Ticari hesaplar"
+      },
+      "profile-loans": {
+        "label": "Krediler"
+      },
+      "profile-loans-create": {
+        "label": "Krediler"
+      },
+      "profile-loans-loan": {
+        "label": "Krediler"
+      },
+      "profile-loans-repay": {
+        "label": "Krediler"
+      },
+      "profile-interest": {
+        "label": "Faiz hesapları"
+      },
+      "profile-exchange": {
+        "label": "Kripto borsası"
+      },
+      "profile": {
+        "label": "Profil"
+      },
+      "profile-trading-withdraw-id": {
+        "label": "Ticari hesaplar"
+      }
+    },
+    "payment": {
+      "success": "Ödeme başarılı oldu",
+      "error": "Ödeme başarısız oldu",
+      "info": "Ödeme iptal edildi"
+    }
+  },
+  "borrow": {
+    "landingPreview": {
+      "pretitle": "Kripto Yatırın, Nakit Alın",
+      "title": "Anında Kripto Kredileri Alın",
+      "subtitle": "En yüksek kredi / değer oranına (% 90) sahip kripto kredileri için TOP 20 coinleri teminat olarak kullanın. EUR, USD, CHF ve GBP cinsinden kredi alın ve anında kredi kartına ve banka hesabına çekin.",
+      "posttitle": "FSA tarafından düzenlenmektedir",
+      "btnPrimary": "KREDİ AL"
+    },
+    "landingRates": {
+      "title": "Desteklenen varlıklar ve oranlar"
+    },
+    "numCards": [
+      {
+        "bigTitle": "$15.6B+",
+        "subtitle": "Mevcut likiditenin"
+      },
+      {
+        "bigTitle": "100+",
+        "subtitle": "madeni paralar ve jetonlar desteklenir"
+      },
+      {
+        "bigTitle": "$100M+",
+        "subtitle": "Finteria poliçesi kapsamındaki varlıklar"
+      },
+      {
+        "bigTitle": "$110M+",
+        "subtitle": "Topluluk BTC"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "FSA tarafından kayıtlı",
+        "icon": "sw_flag"
+      },
+      {
+        "text": "7/24 müşteri hizmetleri",
+        "icon": "saat"
+      },
+      {
+        "text": "Güvenlik ISO 27001 sertifikalı",
+        "icon": "sheild"
+      },
+      {
+        "text": "Çoklu dil desteği",
+        "icon": "globus"
+      }
+    ],
+    "infoBlock": {
+      "title": "Kripto destekli krediler nasıl çalışır?",
+      "left_items": [
+        {
+          "title": "Finteria cüzdanınıza kripto aktarın",
+          "text": "Finteria, TOP 20 kripto para birimini teminat olarak kabul eder. Kripto para yatırma veya çekme işlemleri için ücret alınmaz."
+        },
+        {
+          "title": "Kripto teminatınızı istediğiniz zaman geri alın",
+          "text": "Kredinizi bir kredi kartı, stablecoin veya banka hesabı kullanarak geri ödeyebilir ve kriptonuzu geri alabilirsiniz. Kripto varlıklarınızı Finteria'nın cüzdanında tutabilir ve kripto kredilerine anında erişebilirsiniz."
+        },
+        {
+          "title": "Kripto kredisi alın ve para çekin",
+          "text": "Kredi onayınız saniyeler sürer. Eşler arası (p2p) platformlardaki gibi bir borç veren bulmanıza gerek yok. EUR, USD, USDT veya BTC cinsinden anında nakit alırsınız. Finteria bir rehinci dükkanı gibi çalışır. Sizin satıcı ve Finteria'nın alıcı olduğu geçici bir kripto para satışı vardır. İstediğiniz zaman, kripto parayı Finteria'dan geri satın alabilirsiniz."
+        }
+      ],
+      "right_title": "Nakit çekme seçeneklerimiz",
+      "right_items": [
+        "SEPA ve SWIFT üzerinden banka havalesi ile para çekme. Dünya çapında kullanılabilir.",
+        "MasterCard veya VISA'nıza kredi kartı ile para çekme.",
+        "Kripto para çekme: entegre kripto borsamızı kullanarak herhangi bir kripto veya sabit coin satın alın."
+      ]
+    },
+    "helpCenter": {
+      "title": "Yardım Merkezi",
+      "text": "Finteria'ya başlamak çok kolay. Ancak biraz emin olmayanlar için, varlıkların güvenli ve akıllı bir şekilde nasıl yönetileceğine dair çok sayıda eğitici gönderimiz ve yararlı ipuçlarımız var.",
+      "buttonText": "Bizimle sohbet edin!",
+      "accordions": [
+        {
+          "title": "Kripto nasıl satın alınır?",
+          "text": "Kripto satın almak için cüzdanınıza gidin ve kredi kartı veya banka hesabı aracılığıyla para yatırın. Fonlar alındıktan sonra cüzdanınızda kullanılabilir hale gelir ve fiat'ınızla kripto satın alabilirsiniz.\n"
+        },
+        {
+          "text": "Kredi almak kolay ve anlaşılırdır. Sadece cüzdanınıza kripto para yatırın ve bir kredi sözleşmesi başlatın. \nKredi onayınız saniyeler sürer. Anında EUR, USD, USDT veya BTC cinsinden nakit alırsınız. Kripto parayı daha sonra istediğiniz zaman Finteria'dan geri satın alabilirsiniz.",
+          "title": "Nasıl kredi alabilirim?"
+        },
+        {
+          "title": "Değişim için hangi para birimleri mevcut?",
+          "text": "Finteria, değişim, borçlanma ve kazanç için 20'den fazla kripto para birimini desteklemektedir. Mevcut coin ve tokenların listesi düzenli olarak güncellenmektedir.\n"
+        },
+        {
+          "title": "Herhangi bir para çekme ücreti var mı?",
+          "text": "Fiat para birimleri için herhangi bir çekim ücreti yoktur. Kripto para çekme işlemleri için ücretler ağ ücretlerine ve blok zinciri ağının mevcut durumuna bağlıdır."
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "Kredi Tutarı",
+      "secondTitle": "Teminat",
+      "loan_to_value": "Kredi-değer (LTV)",
+      "dailyInterest": "Günlük Faiz"
+    }
+  },
+  "earn": {
+    "landingPreview": {
+      "pretitle": "Kripto paranız sizin için çalışıyor",
+      "title": "TOP stake ve borç verme platformları ile Kripto kazanın",
+      "subtitle": "DeFi ve üçüncü taraf merkezi platformlarda faiz ve stake ödülleri kazanın. Finteria cüzdanınıza kripto yatırarak soğuk varlıklarınızı anında sıcak kâra dönüştürün ve günlük faiz ödemeleri almaya başlayın.",
+      "posttitle": "FSA tarafından düzenlenmektedir",
+      "btnPrimary": "Kripto Kazanın"
+    },
+    "landingRates": {
+      "title": "Desteklenen varlıklar ve oranlar"
+    },
+    "numCards": [
+      {
+        "bigTitle": "$15.6B+",
+        "subtitle": "Topluluk varlıklarında"
+      },
+      {
+        "bigTitle": "897K+",
+        "subtitle": "Finteria kullanıcıları"
+      },
+      {
+        "bigTitle": "$386M+",
+        "subtitle": "Son 12 ayda ödenen getiri"
+      },
+      {
+        "bigTitle": "109K+",
+        "subtitle": "Topluluk BTC"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "FSA tarafından kayıtlı",
+        "icon": "sw_flag"
+      },
+      {
+        "text": "7/24 müşteri hizmetleri",
+        "icon": "saat"
+      },
+      {
+        "text": "Güvenlik ISO 27001 sertifikası",
+        "icon": "sheild"
+      },
+      {
+        "text": "Çoklu dil desteği",
+        "icon": "globus"
+      }
+    ],
+    "infoBlock": {
+      "title": "Kripto tasarruf hesabı nasıl çalışır?",
+      "left_items": [
+        {
+          "title": "Finteria cüzdanınıza kripto para yatırın",
+          "text": "Finteria TOP 20 kripto para birimini kabul eder. Kripto para yatırma veya çekme işlemleri için ücret alınmaz."
+        },
+        {
+          "title": "Finteria'ya kripto paranızı DeFi'ye veya staking platformuna aktarma talimatı verin",
+          "text": "Bir kripto ödül programı seçin ve kripto tokenlerinizi bireysel cüzdanınızda tutarken kazanmaya başlayın."
+        },
+        {
+          "title": "Her gün bileşik ödüller kazanın",
+          "text": "Tasarruf programı onayınız saniyeler sürer. Kripto tokenlerinizden anında bileşik ödüller kazanmaya başlarsınız."
+        }
+      ],
+      "right_title": "Tasarruf hesabı para çekme politikası",
+      "right_items": [
+        "Paranızı istediğiniz zaman serbest bırakabilirsiniz ve kazanılan faizi tam olarak alırsınız.",
+        "Tasarruf hesabına yapılan her ek kripto transferi, ayrı bir stake etme veya ödünç alma sözleşmesi oluşturacaktır. ",
+        "Daha fazla kâr elde etmek için birikmiş faizinizi saklamakta özgürsünüz."
+      ]
+    },
+    "helpCenter": {
+      "title": "Yardım Merkezi",
+      "text": "Finteria'ya başlamak çok kolay. Ancak biraz emin olmayanlar için, varlıkların güvenli ve akıllı bir şekilde nasıl yönetileceğine dair çok sayıda eğitici gönderimiz ve yararlı ipuçlarımız var.",
+      "accordions": [
+        {
+          "title": "Nasıl kripto satın alabilirim?",
+          "text": "Kripto satın almak için cüzdanınıza gidin ve kredi kartı veya banka hesabı aracılığıyla para yatırın. Fonlar alındıktan sonra cüzdanınızda kullanılabilir hale gelir ve fiat'ınızla kripto satın alabilirsiniz.\n"
+        },
+        {
+          "title": "Nasıl kredi alabilirim?",
+          "text": "Kredi almak kolay ve anlaşılırdır. Sadece cüzdanınıza kripto para yatırın ve bir kredi sözleşmesi başlatın. \nKredi onayınız saniyeler sürer. Anında EUR, USD, USDT veya BTC cinsinden nakit alırsınız. Kripto parayı daha sonra istediğiniz zaman Finteria'dan geri satın alabilirsiniz."
+        },
+        {
+          "title": "Değişim için hangi para birimleri mevcut?",
+          "text": "Finteria, değişim, borçlanma ve kazanç için 20'den fazla kripto para birimini desteklemektedir. Mevcut coin ve tokenların listesi düzenli olarak güncellenmektedir.\n"
+        },
+        {
+          "title": "Herhangi bir para çekme ücreti var mı?",
+          "text": "Fiat para birimleri için herhangi bir çekim ücreti yoktur. Kripto para çekme işlemleri için ücretler ağ ücretlerine ve blok zinciri ağının mevcut durumuna bağlıdır."
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "Miktar",
+      "secondTitle": "Ne kadar süre için?",
+      "annual": "Yıllık Faiz (APY)",
+      "period": "Dönem kazancı",
+      "estimated": "Tahmini kazançlar",
+      "week": "hafta",
+      "month": "ay",
+      "year": "yıl"
+    }
+  },
+  "exchange": {
+    "landingPreview": {
+      "pretitle": "Kripto Yatırın, Nakit Alın",
+      "title": "Finteria ÜCRET YOK kripto borsası",
+      "subtitle": "Hiçbir ücret ödemeden anında kripto para birimi değişimi. Kripto, stablecoin ve BTC, ETH, USD gibi fiat alışverişi yapın. Kredi kartı ile Bitcoin satın alın. ",
+      "posttitle": "BitGo Cüzdan",
+      "posttitle2": "Velayet Sağlayıcı",
+      "optionsAdvantages": "Mükemmel Derecelendirildi",
+      "optionsAdvantages2": "Trustpilot'ta",
+      "btnPrimary": "KRIPTO DEĞIŞIMI"
+    },
+    "landingRates": {
+      "title": "Desteklenen varlıklar"
+    },
+    "numCards": [
+      {
+        "bigTitle": "24/7",
+        "title": "Kesintisiz ticaret",
+        "subtitle": "hafta sonları dahil"
+      },
+      {
+        "bigTitle": "$250",
+        "title": "Minimum depozito",
+        "subtitle": "Herkes için uygun fiyatlı"
+      },
+      {
+        "bigTitle": "$1",
+        "title": "Minimum işlem büyüklüğü",
+        "subtitle": "Yeni başlayanlar için uygun"
+      },
+      {
+        "bigTitle": "100+",
+        "title": "Ticari varlıklar",
+        "subtitle": "hisse senetleri, kripto, emtialar"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "FSA tarafından kayıtlı",
+        "icon": "kilit"
+      },
+      {
+        "text": "7/24 müşteri hizmetleri",
+        "icon": "saat mavisi"
+      },
+      {
+        "text": "Güvenlik ISO 27001 sertifikalı",
+        "icon": "sheild"
+      },
+      {
+        "text": "Küresel erişim 150+ ülke",
+        "icon": "globus"
+      }
+    ],
+    "infoBlock": {
+      "title": "Kripto borsası nasıl çalışır?",
+      "left_items": [
+        {
+          "title": "Kripto Para Yatırma",
+          "text": "Finteria TOP 20 kripto para birimini kabul eder. Kripto para yatırma veya çekme işlemleri için ücret alınmaz."
+        },
+        {
+          "title": "Fiat veya Kripto için Değişim",
+          "text": "Fiat ve kripto varlıklarını düşük ücretlerle kolayca değiştirebilir ve kartınıza, banka hesabınıza veya cüzdanınıza para çekebilirsiniz."
+        }
+      ],
+      "right_title": "Önemli bilgi",
+      "right_items": [
+        "Finteria, kripto para birimleri satın almak, satmak veya depolamak için güvenli ve düzenlenmiş bir platformdur.",
+        "Döviz kuru, kripto piyasasını takiben her saniye güncellenir, böylece fiyat oranı hakkında anında bir fikir edinebilirsiniz.",
+        "Kriptodan kriptoya değişim için hiçbir ücret talep etmiyoruz.",
+        "VISA/MASTERCARD'ınızı kullanarak başlıca kripto para birimlerini güncel döviz kuru üzerinden satın alabilirsiniz."
+      ]
+    },
+    "helpCenter": {
+      "title": "Yardım Merkezi",
+      "text": "Finteria'ya başlamak çok kolay. Ancak biraz emin olmayanlar için, varlıkların güvenli ve akıllı bir şekilde nasıl yönetileceğine dair çok sayıda eğitici gönderimiz ve yararlı ipuçlarımız var.",
+      "buttonText": "Bizimle sohbet edin!",
+      "accordions": [
+        {
+          "title": "Kripto nasıl satın alınır?",
+          "text": "Kripto satın almak için cüzdanınıza gidin ve kredi kartı veya banka hesabı aracılığıyla para yatırın. Fonlar alındıktan sonra cüzdanınızda kullanılabilir hale gelir ve fiat'ınızla kripto satın alabilirsiniz.\n"
+        },
+        {
+          "title": "Nasıl kredi alabilirim?",
+          "text": "Kredi almak kolay ve anlaşılırdır. Sadece cüzdanınıza kripto para yatırın ve bir kredi sözleşmesi başlatın. \nKredi onayınız saniyeler sürer. Anında EUR, USD, USDT veya BTC cinsinden nakit alırsınız. Kripto parayı daha sonra istediğiniz zaman Finteria'dan geri satın alabilirsiniz."
+        },
+        {
+          "title": "Değişim için hangi para birimleri mevcut?",
+          "text": "Finteria, değişim, borçlanma ve kazanç için 20'den fazla kripto para birimini desteklemektedir. Mevcut coin ve tokenların listesi düzenli olarak güncellenmektedir.\n"
+        },
+        {
+          "title": "Herhangi bir para çekme ücreti var mı?",
+          "text": "Fiat para birimleri için herhangi bir çekim ücreti yoktur. Kripto para çekme işlemleri için ücretler ağ ücretlerine ve blok zinciri ağının mevcut durumuna bağlıdır."
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "Sahip olduğum miktar",
+      "secondTitle": "İhtiyacım var.",
+      "rate": "Oran"
+    }
+  },
+  "trade": {
+    "game-widget-title": "Fiyat <span class='green'>Yukarı</span> veya <span class='red'>Aşağı</span> gidecek mi?",
+    "landingPreview": {
+      "title": "Kripto, Forex, CFD ticareti yapın ve 30 saniyede %90'a kadar kazanın",
+      "subtitle": "Kripto ve döviz piyasalarının hareketlerini tahmin ederek ek gelir elde edin",
+      "btnPrimary": "TİCARETE BAŞLA",
+      "btnTry": "DEMO PLATFORMU",
+      "gift": "100'e varan <br> ticaret bonusu",
+      "student": "Demo hesabına 10.000 $ hediye <br>"
+    },
+    "numCards": [
+      {
+        "bigTitle": "24/7",
+        "title": "Kesintisiz ticaret",
+        "subtitle": "hafta sonları dahil"
+      },
+      {
+        "bigTitle": "${m$sg}",
+        "title": "Minimum depozito",
+        "subtitle": "Herkes için uygun fiyatlı"
+      },
+      {
+        "bigTitle": "$1",
+        "title": "Minimum işlem büyüklüğü",
+        "subtitle": "Yeni başlayanlar için uygun"
+      },
+      {
+        "bigTitle": "100+",
+        "title": "Ticari varlıklar",
+        "subtitle": "hisse senetleri, kripto, emtialar"
+      }
+    ],
+    "tradeAtHome": {
+      "header": "Evde veya hareket halindeyken ticaret yapın!",
+      "finteria": {
+        "title": "Finteria Platformu",
+        "subtitle": "Çalıştırması kolay, en iyi grafiklere sahip modern platform",
+        "list": [
+          "12 grafik türü",
+          "50+ akıllı çizim aracı",
+          "Kullanımı kolay ve sezgisel",
+          "Teknik Analiz için en iyisi!"
+        ],
+        "button": "Lansman Platformu"
+      }
+    },
+    "threeSteps": {
+      "title": "Başlamak için Üç Kolay Adım",
+      "list": [
+        {
+          "title": "Kaydolun",
+          "text": "Kayıt bir dakikadan kısa sürer",
+          "icon": "bayrak"
+        },
+        {
+          "title": "Hesabınıza para yatırın",
+          "text": "Para yatırın ve işlem yapmaya başlayın",
+          "icon": "kart"
+        },
+        {
+          "title": "Ticaret & Para Çekme",
+          "text": "Ticaret yapın, kazanın ve kârınızı çekin!",
+          "icon": "TİCARET"
+        }
+      ],
+      "button": "Kaydolun"
+    },
+    "tradingExperience": {
+      "title": "Ticaret deneyiminiz yok mu?",
+      "subtitle": "En başarılı yatırımcıları kopyalayın",
+      "topStrategies": {
+        "title": "En İyi Stratejiler",
+        "tableHeader": ["rütbe", "strateji̇", "performans"],
+        "buttonFollow": "Anlaşıldı"
+      },
+      "list": [
+        {
+          "title": "Sosyal Ticaret Platformuna Katılın",
+          "text": "Uzun mu kısa mı? En iyi tüccarlarla gidin. Ticaret hesabı açın ve TOP tüccarların siparişlerini kopyalayın."
+        },
+        {
+          "title": "En İyi Yatırımcılara Abone Olun",
+          "text": "En iyi yatırımcıları seçin ve onlarla anında bağlantı kurun. İşlem sinyalleri almaya başlamak sadece birkaç tıklama alır. Doğrudan ticaret platformunda koşulları belirtin ve abonelikler oluşturun."
+        },
+        {
+          "title": "Daha yüksek karlar elde edin",
+          "text": "Ticaret verimliliğinizi artırın ve daha yüksek karlar elde etmek için ticaretinizden yararlanın. En iyi performans gösteren alım satım önerilerinden yararlanın."
+        }
+      ]
+    },
+    "tradingIdeas": {
+      "title": "Ticaret fikirlerine mi ihtiyacınız var?",
+      "subtitle": "En iyi pazar fırsatlarını bulmak için analitik araçlarımızı kullanın",
+      "list": [
+        {
+          "title": "Kazananlar Kaybedenler"
+        },
+        {
+          "title": "Pazar Gücü"
+        },
+        {
+          "title": "Isı haritası"
+        },
+        {
+          "title": "Günlük Tahmin"
+        }
+      ]
+    },
+    "whyFinteria": {
+      "title": "Neden Finteria sizin seçiminiz",
+      "choices": [
+        {
+          "text": "<span>Garantili</span> para çekme işlemleri 1 saat içinde"
+        },
+        {
+          "text": "<span>yetenekli danışmanın yardımıyla rehberli ticaret imkanı</span>"
+        },
+        {
+          "text": "Hafta sonları <span>üzerinden işlem yapma imkanı</span>"
+        },
+        {
+          "text": "<span>üzerinde 10 000 işlem</span> günlük olarak sunulmaktadır"
+        },
+        {
+          "text": "<span>Geniş bir yelpazede</span> fonlama ve para çekme yöntemleri"
+        },
+        {
+          "text": "Müşteri desteği <span>7/24</span>"
+        },
+        {
+          "text": "<span>100 güvenli</span> veri korumalı ticaret"
+        },
+        {
+          "text": "İşlemleri kopyalayın ve herhangi bir deneyim olmadan <span>bile kazanın</span> ticarette"
+        },
+        {
+          "text": "<span>Komisyonsuz</span> ticaret"
+        }
+      ]
+    },
+    "helpCenter": {
+      "title": "Finteria ile çalışmaya başlamak çok kolay",
+      "text": "Ancak biraz emin olamayanlarınız için, ticarete nasıl başlayacağınıza dair çok sayıda eğitici gönderimiz ve yararlı ipuçlarımız var",
+      "buttonText": "Bizimle sohbet edin!",
+      "accordions": [
+        {
+          "title": "Başlamak için ne kadar paraya ihtiyacım var?",
+          "text": "Minimum ilk depozito 10 $ veya başka bir para biriminde eşdeğeridir."
+        },
+        {
+          "title": "Nasıl para yatırabilirim?",
+          "text": "Bulunduğunuz yere bağlı olarak çeşitli para yatırma yöntemleri mevcuttur. Para yatırma yöntemleri arasında kripto, VISA/Mastercard kartları ve diğer elektronik ödeme sistemleri bulunmaktadır. Mevcut para yatırma yöntemleri hakkında daha fazla bilgi için Müşteri Alanınızı kontrol edin."
+        },
+        {
+          "title": "Hangi enstrümanlarla işlem yapabilirim?",
+          "text": "Finteria, Kripto, Forex, CFD'ler ve Emtialar dahil olmak üzere 100'den fazla ticaret aracı sunar."
+        },
+        {
+          "title": "Hangi platformu kullanabilirim?",
+          "text": "Finteria Trader'ı kullanabilirsiniz. Platform hem masaüstü hem de mobil cihazlar için mevcuttur ve kullanıcıların her zaman, her yerden erişmesine olanak tanır."
+        },
+        {
+          "title": "Komisyon ödüyor muyum?",
+          "text": "Finteria sıfır komisyonla işlem yapma imkanı sunar."
+        },
+        {
+          "title": "Para çekme ücretleri nedir?",
+          "text": "Fiat para birimleri için herhangi bir çekim ücreti yoktur. Kripto para çekme işlemleri için ücretler ağ ücretlerine ve blok zinciri ağının mevcut durumuna bağlıdır."
+        }
+      ]
+    },
+    "joinFinteriaNow": "Hemen Finteria'ya katılın!",
+    "calculator": {
+      "title": "24 Saat Kârınız",
+      "dailyChange": "Günlük değişim",
+      "investment": "Yatırım",
+      "leverage": "Kaldıraç",
+      "tradeSize": "Ticaret Büyüklüğü",
+      "profit": "Kâr",
+      "selectAsset": "Sembol seçin",
+      "profitability": "Kârlılık"
+    },
+    "meta": {
+      "title": "Kripto, Forex, CFD ticareti yapın ve 30 saniyede %90'a kadar kazanın",
+      "description": "Hızla büyüyen ticaret platformu Finteria'ya katılın ve çevrimiçi para kazanmaya başlamak için sınırsız ticaret fırsatlarının kilidini açın. Ücretsiz kaydolun ve kârınızı en üst düzeye çıkarmak için güçlü araçlara erişin. Şimdi işlem yapmaya başlayın ve Finteria ile piyasanın potansiyelinden yararlanın."
+    }
+  },
+  "login": {
+    "reset": "Şifre Sıfırlama",
+    "title": "Giriş Yap",
+    "inputs": {
+      "email": {
+        "label": "E-posta"
+      },
+      "newPassword": "Yeni Şifre",
+      "confirmPassword": "Şifreyi Onayla",
+      "password": {
+        "label": "Şifre",
+        "postfix": "Şifrenizi mi unuttunuz?"
+      }
+    },
+    "button": "GİRİŞ YAPIN",
+    "buttonReset": "SIFIRLA",
+    "toastSuccessNewpassword": "Parolanız başarıyla güncellendi",
+    "toastSuccessReset": "E-postanıza bir bağlantı gönderildi",
+    "footer": "Hesabınız yok mu?",
+    "fireBlock": "BitGo, dijital varlık saklama çözümleri ve 700 milyon dolarlık havuzlanmış suç sigortası sağlıyor.",
+    "welcome": "Finteria'ya Hoş Geldiniz"
+  },
+  "signUp": {
+    "title": "Kaydolun",
+    "subtitle": "Ve varlıklarınızın değerini ortaya çıkarın!",
+    "inputs": {
+      "email": {
+        "label": "E-posta",
+        "postfix": "Doğru e-posta değerini girin"
+      },
+      "country": {
+        "label": "Sizin ülkeniz"
+      },
+      "password": {
+        "label": "Şifre",
+        "postfix": "En az 6 sembol içermelidir",
+        "identy": "Şifreleriniz eşleşmiyor"
+      },
+      "signupAgreement": "Hizmetin bana ABD bölgesi dışında sağlandığını onaylıyorum",
+      "termsAgreement": {
+        "prefix": "Hizmet Şartlarını ve Risk Açıklamasını okudum ve kabul ediyorum",
+        "links": {
+          "service": "Hizmet Koşulları",
+          "privacy": "Gizlilik Bildirimi",
+          "policy": "AML Politikası",
+          "execution": "Yalnızca Sözleşme Yürütme",
+          "conversion": "Dönüşüm Hizmetleri için Şartlar",
+          "complaints": "Şikâyet süreci",
+          "specific": "Dönüşüm Hizmetleri için Özel Şartlar"
+        },
+        "union": "ve"
+      }
+    },
+    "button": "KAYIT OL",
+    "footer": "Zaten bir hesabınız var mı?",
+    "fireBlock": "Varlıklarınız 9 milyar dolarlık sigorta poliçesi ile lider saklama çözümü altında saklanır.",
+    "description": {
+      "gift": "100'e varan <br> ticaret bonusu",
+      "student": "Demo hesabına 10.000 $ hediye <br>",
+      "times": "1 saat <br> Para Çekme"
+    },
+    "wrongPromoCode": "Yanlış promosyon kodu",
+    "promoCodeApplied": "Promosyon kodu XXX başarıyla uygulandı",
+    "toast": {
+      "recaptchaFailed": "Recaptcha kontrolü başarısız"
+    }
+  },
+  "common": {
+    "btns": {
+      "clear": "Temiz",
+      "loading": "Yükleniyor",
+      "reset": "Sıfırla",
+      "waiting": "Bekliyorum",
+      "apply": "Başvurmak",
+      "goBack": "Geri Dön",
+      "cancel": "İptal",
+      "confirm": "Onaylayın",
+      "preview": "Önizleme",
+      "continue": "Devam et",
+      "copied": "Kopyalandı",
+      "done": "Bitti",
+      "save": "Kaydet",
+      "resend": "Yeniden Gönder"
+    },
+    "toast": {
+      "success": "Başarı"
+    },
+    "errors": {
+      "goHomePage": "Ana sayfaya git",
+      "403": "Yetkilendirme reddedildi. Lütfen destek ekibiyle iletişime geçin.",
+      "copyError": "Kopyalama hatası"
+    }
+  },
+  "Network": "account.wallets.walletsTab.withdrawal.network",
+  "blog": {
+    "list": {
+      "title": "Ticaret Blogu",
+      "categories": "Kategoriler",
+      "categoriesTitle": "Tüccarlar için:",
+      "articlesTitle": "Makaleler",
+      "paginatorPrev": "Önceki",
+      "paginatorNext": "Sonraki",
+      "lead": "Ticaretteki en son sıcak konular için Finteria blogunu keşfedin. Finteria'daki uzman bir ekipten içgörüler, güncellemeler, haberler ve daha fazlasını alın."
+    },
+    "article": {
+      "otherNews": "Diğer Haberler"
+    }
+  },
+  "pressMedia": {
+    "title": "Basın ve medya"
+  },
+  "cryptocurrency": {
+    "title": "Kripto para ticareti",
+    "lead": "Finteria ile Bitcoin, Ethereum, Solana ve daha fazlası gibi çeşitli kripto para birimleri ile işlem yapabilirsiniz.",
+    "description1": "Küresel kripto para piyasasına hızlı erişimi deneyimleyin, çok çeşitli popüler kripto varlıkları ve tokenleri alıp satın ve ünlü platformumuzla alım satım sonuçlarınızı yükseltin.",
+    "description2": "Finteria'da sağlam bir ticaret altyapısı, güvenilir bir yazılım ve kripto para dünyası için özel olarak tasarlanmış kullanıcı dostu bir arayüz sunuyoruz. Gelişmiş geleneksel ticaret araçlarımızla Bitcoin, Ethereum, Solana, Litecoin ve ötesi gibi en iyi kripto para birimlerini güvenle alıp satabilirsiniz.",
+    "trade": "Ticaret",
+    "tradeNow": "Şimdi ticaret yapın",
+    "see": "Bkz.",
+    "exchangeRate": "döviz kuru",
+    "toolsSectionTitle": "Araçlar",
+    "tradingSectionTitle": "Kripto para ticaretinin potansiyelini ortaya çıkarın",
+    "tradingCheckList": [
+      {
+        "title": "Yüksek kâr potansiyeli",
+        "text": "Yatırımcılar, daha yüksek volatilite ve başarılı işlemlerde artan potansiyel karlar nedeniyle kripto para birimlerini seçiyor."
+      },
+      {
+        "title": "En popüler dijital varlıklar",
+        "text": "Finteria, piyasadaki en popüler kripto para birimleri olan Bitcoin, Ethereum, Solana ve Litecoin'i sunmaktadır."
+      },
+      {
+        "title": "Güvenli ticaret",
+        "text": "Yatırımcılar, koruma emirlerini kullanarak pozisyonlarını aşırı piyasa dalgalanmalarına karşı koruyabilir ve güvenli bir platformda işlem yaparken gönül rahatlığı yaşayabilirler."
+      }
+    ],
+    "whyFinteriaSectionTitle": "Neden Finteria ile kripto para ticareti yapmalısınız?",
+    "whyFinteriaCheckList": [
+      {
+        "title": "Derin likidite, güçlü araçlar",
+        "text": "Hızlı, güvenli ve güvenilir platformumuzla kripto para ticareti yapın. Derin likiditeden ve çok çeşitli gelişmiş özelliklerden ve ticaret araçlarından yararlanın."
+      },
+      {
+        "title": "Rekabetçi ücret tarifesi",
+        "text": "Tüm kripto para işlemlerinde sıkı spreadler ve düşük ücretlerle piyasadaki en iyi işlem koşullarından bazılarının keyfini çıkarın."
+      },
+      {
+        "text": "Çoklu monitör işlevselliği, bir dizi profesyonel ticaret aracı ve 7/24 müşteri hizmetleri gibi özelliklerle ticaret arayüzünüzü özelleştirin.",
+        "title": "Sezgisel, kullanıcı dostu ticaret"
+      },
+      {
+        "title": "Gelişmiş grafik araçları",
+        "text": "Bir dizi farklı grafik türünü, 50'den fazla alım satım göstergesini ve alım satımları doğrudan grafiklerden gerçekleştirme yeteneğini deneyimleyin."
+      }
+    ],
+    "stepList": [
+      {
+        "title": "Kayıt Olun",
+        "text": "Bir dakikadan kısa bir sürede FInteria'da yeni bir hesap oluşturun. Başlamak için sadece kayıtlı bir E-posta gereklidir."
+      },
+      {
+        "text": "Kişisel cüzdanınıza para yatırın. Hesabınıza para yatırıldıktan sonra işlem yapmaya hazırsınız!",
+        "title": "Hesabınıza para yatırın"
+      },
+      {
+        "title": "Ticarete başlayın",
+        "text": "Ödüllü ticaret yazılımımıza tam erişim elde edin. Düşük ücretlerden ve gelişmiş işlem özelliklerinden yararlanın"
+      }
+    ],
+    "getStarted": "Başlayın",
+    "market": "Pazar",
+    "marketLast": "Market / Son",
+    "last": "En son",
+    "24h": "24h",
+    "more": "Daha fazla",
+    "tradingSectionText": "Kripto para ticareti, değişken ve hızla dalgalanan doğasıyla muazzam bir kâr potansiyeli sunar. Dijital varlıkların fiyatları önemli dalgalanmalar yaşayabilir, genellikle tek bir gün içinde veya bir hafta boyunca %20'ye kadar yükselebilir veya düşebilir.",
+    "startSteps": "Sadece 3 adımda ticarete başlayın"
+  },
+  "forex": {
+    "title": "Forex ticareti",
+    "description1": "Küresel Forex piyasasına hızlı erişimi deneyimleyin, çok çeşitli popüler döviz çiftlerinde işlem yapın ve ünlü platformumuzla işlem sonuçlarınızı yükseltin.",
+    "trade": "Ticaret",
+    "tradeNow": "Şimdi ticaret yapın",
+    "see": "Bkz.",
+    "exchangeRate": "döviz kuru",
+    "toolsSectionTitle": "Araçlar",
+    "tradingSectionTitle": "Forex ticaretinin potansiyelini ortaya çıkarın",
+    "tradingCheckList": [
+      {
+        "title": "Yüksek kâr potansiyeli",
+        "text": "Yatırımcılar, daha yüksek likidite ve başarılı işlemlerde artan potansiyel kar nedeniyle Forex'i seçerler."
+      },
+      {
+        "title": "En popüler forex para birimleri",
+        "text": "Finteria, piyasadaki en popüler döviz çiftlerini sunar."
+      },
+      {
+        "title": "Güvenli ticaret",
+        "text": "Yatırımcılar, koruma emirlerini kullanarak pozisyonlarını aşırı piyasa dalgalanmalarına karşı koruyabilir ve güvenli bir platformda işlem yaparken gönül rahatlığı yaşayabilirler."
+      }
+    ],
+    "whyFinteriaCheckList": [
+      {
+        "text": "Hızlı, güvenli ve güvenilir platformumuzla Forex ticareti yapın. Derin likiditeden ve çok çeşitli gelişmiş özelliklerden ve işlem araçlarından yararlanın.",
+        "title": "Derin likidite, güçlü araçlar"
+      },
+      {
+        "title": "Rekabetçi ücret tarifesi",
+        "text": "Tüm işlemlerde sıkı spreadler ve düşük ücretlerle piyasadaki en iyi işlem koşullarından bazılarının keyfini çıkarın."
+      },
+      {
+        "title": "Sezgisel, kullanıcı dostu ticaret",
+        "text": "Çoklu monitör işlevselliği, bir dizi profesyonel ticaret aracı ve 7/24 müşteri hizmetleri gibi özelliklerle ticaret arayüzünüzü özelleştirin."
+      },
+      {
+        "title": "Gelişmiş grafik araçları",
+        "text": "Bir dizi farklı grafik türünü, 50'den fazla alım satım göstergesini ve alım satımları doğrudan grafiklerden gerçekleştirme yeteneğini deneyimleyin."
+      }
+    ],
+    "lead": "Finteria ile EURUSD, USDJPY, GBPUSD ve daha fazlası gibi çeşitli forex para birimlerini satın alabilir, satabilir ve ticaret yapabilirsiniz.",
+    "description2": "Finteria'da, sağlam bir ticaret altyapısı, güvenilir bir yazılım ve para birimi alanı için özel olarak tasarlanmış kullanıcı dostu bir arayüz sunuyoruz. Gelişmiş geleneksel ticaret araçlarımızla, en iyi para birimleri olan Dolar, Euro, İngiliz Sterlini, Japon Yeni ve ötesinde güvenle işlem yapabilirsiniz.",
+    "tradingSectionText": "Forex ticareti, değişken ve hızla dalgalanan doğasıyla muazzam bir kâr potansiyeli sunar. Para birimlerinin fiyatları, ekonomik ve siyasi olaylar nedeniyle önemli dalgalanmalar yaşayabilir.",
+    "whyFinteriaSectionTitle": "Neden Finteria ile Forex ticareti yapmalısınız?",
+    "getStarted": "Başlayın"
+  },
+  "markets": {
+    "title": "bugün için fiyat",
+    "chartTitle": "Fiyat Tablosu",
+    "marketWatchTitle": "Daha fazla varlık keşfedin",
+    "chartText": "Fiyat hareketleri hakkında spekülasyon yapmak için bu gerçek zamanlı fiyat grafiğini takip edin. Bu kullanışlı canlı grafik ile mevcut fiyatı görüntüleyebilir, fiyat dinamiklerini analiz edebilir, geçmiş döviz kurlarını izleyebilirsiniz.",
+    "periods": {
+      "1hour": "1 saat",
+      "24hours": "24 saat",
+      "7days": "7 gün",
+      "14days": "14 gün",
+      "30days": "30 gün",
+      "1year": "1 yıl"
+    }
+  },
+  "strength": {
+    "currency": {
+      "title": "Para Birimi Gücü",
+      "lead": "Currency Strength, piyasadaki en güçlü ve en zayıf para birimlerini bulmanıza yardımcı olan bir araçtır. Güçlü ve zayıf para birimlerini birleştirerek, herhangi bir anda yeni ticaret fikirleri keşfedebilirsiniz. Ayrıca piyasadaki yeni eğilimleri ve farklı enstrümanlar arasındaki korelasyonu da görebilirsiniz."
+    },
+    "crypto": {
+      "title": "Kripto Gücü",
+      "lead": "Crypto Strength, kripto para birimlerinin ilk 10 büyük kripto para biriminin tamamında nasıl performans gösterdiğini görmenize yardımcı olan bir araçtır. Kripto piyasasının genel performansını değerlendirmenin yanı sıra farklı kripto para birimlerinin birbirleriyle ilişkili olarak nasıl performans gösterdiğini görmenize yardımcı olur. İlk 10 coin arasındaki en güçlü ve en zayıf kripto paraları kolayca belirleyebilirsiniz."
+    },
+    "periods": {
+      "5min": "Son 5 dakika",
+      "15min": "Son 15 dakika",
+      "30min": "Son 30 dakika",
+      "1h": "Son 1 saat",
+      "4h": "Son 4 saat",
+      "8h": "Son 8 saat",
+      "12h": "Son 12 saat",
+      "72h": "Son 72 saat",
+      "1w": "Son 1 hafta",
+      "2w": "Son 2 hafta",
+      "1m": "Son 1 ay",
+      "today": "Bugün",
+      "yesterday": "Dün",
+      "week": "Bu Hafta",
+      "prevWeek": "Önceki Hafta",
+      "month": "Bu Ay",
+      "24h": "Son 24 saat"
+    }
+  },
+  "contest": {
+    "intro": {
+      "prize": "Haftalık ödül fonu",
+      "prizeNumber": "$20 000",
+      "title": "Deneyimli yatırımcılar ve yeni başlayanlar için",
+      "tradingContest": "Ticaret Yarışması!",
+      "winners": "Her hafta 10 kazanan",
+      "freeRegistration": "Ücretsiz Kayıt"
+    },
+    "leaders": {
+      "rules": "Ticaret Yarışması Kuralları.",
+      "periodTitle": "Dönem",
+      "table": {
+        "headers": {
+          "name": "İsim",
+          "trades": "Toplam İşlemler",
+          "prize": "Ödül",
+          "prizeTrades": "Ödül/Toplam işlem"
+        }
+      },
+      "periodPrev": "Önceki",
+      "periodNext": "Sonraki",
+      "title": "Liderler",
+      "text": "Haftalık Alım Satım Yarışmamıza katılın ve becerilerinizi test edin! Ödüller için liderlik tablosunda tırmanırken ticaret yapın, rekabet edin ve eğlenin."
+    },
+    "questions": {
+      "title": "Sorular",
+      "accordions": [
+        {
+          "title": "Yarışmaya nasıl katılabilirsiniz?",
+          "text": "Tüm canlı hesaplar yarışmaya otomatik olarak katılır. Ek bir kayda gerek yoktur. "
+        },
+        {
+          "title": "Kazanan yerler nasıl dağıtılıyor?",
+          "text": "Yerler, yarışma dönemi boyunca yapılan işlem sayısına göre dağıtılır. Ne kadar çok işlem yaparsanız, sıralamanız o kadar yüksek olur. Birden fazla hesabınız varsa, tüm hesaplardan yapılan tüm işlemler dikkate alınır. Demo hesaplar dahil değildir."
+        },
+        {
+          "title": "Bu yarışmanın ödülleri nelerdir?",
+          "text": "Tüm ödüller, kazananlara yatırılan bonus depozitolarıdır. Bir ödül almak için net bakiyenizin (bakiye eksi bonuslar) ödül tutarına eşit veya daha fazla olması gerekir. Örneğin, ödülünüz 500 USD ise, hesabınızın net bakiyesinin en az 500 USD olması gerekir."
+        },
+        {
+          "title": "Bir ödül kazandığımı nasıl bileceğim?",
+          "text": "Yeriniz ve kazandığınız ödül hakkında e-posta ile bilgilendirileceksiniz. Ayrıca liderlik tablosundaki sıralamanızı her zaman kontrol edebilirsiniz."
+        },
+        {
+          "title": "Ödülü hesaptan çekebilir miyim?",
+          "text": "Ödül bonus depozitosu olarak yatırıldığı için çekemezsiniz. Ancak, minimum ciro koşulları yerine getirilirse karı çekebilirsiniz. Ciro gereksinimi, tüm para yatırma ve bonusların toplamının 3 katıdır."
+        }
+      ]
+    }
+  }
+}

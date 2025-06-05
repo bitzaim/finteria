@@ -1,0 +1,1473 @@
+{
+  "common": {
+    "btns": {
+      "copied": "コピペ",
+      "done": "完了",
+      "save": "セーブ",
+      "clear": "クリア",
+      "loading": "ローディング",
+      "reset": "リセット",
+      "waiting": "待機中",
+      "apply": "適用する",
+      "resend": "再送",
+      "goBack": "戻る",
+      "cancel": "キャンセル",
+      "confirm": "確認",
+      "preview": "プレビュー",
+      "continue": "続き"
+    },
+    "toast": {
+      "success": "サクセス"
+    },
+    "errors": {
+      "goHomePage": "トップページに戻る",
+      "403": "認証が拒否されました。サポートチームまでご連絡ください。",
+      "copyError": "コピーエラー"
+    }
+  },
+  "header": {
+    "nav": {
+      "trade": "トレード",
+      "borrow": "借りる",
+      "earn": "アーン",
+      "exchange": "交換"
+    },
+    "btns": {
+      "login": "ログイン",
+      "signup": "登録する",
+      "myAccount": "マイアカウント",
+      "logout": "ログアウト",
+      "unverified": "ふかくじつ",
+      "close": "閉じる"
+    },
+    "menu": {
+      "platforms": {
+        "web": "ウェブプラットフォーム",
+        "android": "Androidアプリ",
+        "title": "取引プラットフォーム"
+      },
+      "support": {
+        "help": "ヘルプガイド",
+        "faq": "よくあるご質問",
+        "title": "サポート"
+      },
+      "menu": "メニュー",
+      "blog": {
+        "marketResearch": "市場調査",
+        "education": "教育",
+        "reviews": "レビュー",
+        "pressAndMedia": "プレス・メディア",
+        "title": "ブログ"
+      },
+      "markets": {
+        "title": "マーケット",
+        "forex": "FXの通貨",
+        "crypto": "クリプトカレンシーズ",
+        "currencystrength": "通貨の強さ",
+        "cryptostrength": "暗号の強さ"
+      },
+      "services": {
+        "title": "サービス",
+        "copytrading": "コピートレード",
+        "contest": "コンテスト",
+        "blog": "ブログ",
+        "pressAndMedia": "プレス・メディア",
+        "helpGuides": "ヘルプガイド",
+        "platform": "プラットフォーム"
+      }
+    }
+  },
+  "footer": {
+    "prefooterTitle": "© Finteria, 2023 - 暗号市場へのシングルエントリー",
+    "col1": {
+      "title": "Finteria Markets LLC",
+      "ul": [
+        {
+          "label": "ご利用条件"
+        },
+        {
+          "label": "ボーナスポリシー"
+        },
+        {
+          "label": "個人情報保護方針"
+        },
+        {
+          "label": "AML/KYCポリシー"
+        },
+        {
+          "label": "リスク開示"
+        }
+      ]
+    },
+    "col2": {
+      "title": "クイックリンク",
+      "ul": [
+        {
+          "label": "ウェブプラットフォーム"
+        },
+        {
+          "label": "Androidアプリ"
+        },
+        {
+          "label": "ナレッジベース"
+        },
+        {
+          "label": "バイナリーオプション取引"
+        },
+        {
+          "label": "ヘルプガイド"
+        },
+        {
+          "label": "アフィリエイトプログラム"
+        }
+      ]
+    },
+    "col3": {
+      "title": "クリプトを購入する"
+    },
+    "col4": {
+      "registrationInfo": "Company number 13983022",
+      "address": "20-22 Wenlock Road, London, England, N1 7GU"
+    },
+    "postfooter": "本ウェブサイトのサービスは、EEA諸国、米国、英国にお住まいの方はご利用いただけません。",
+    "colBlog": {
+      "title": "ブログ",
+      "ul": [
+        {
+          "label": "市場調査"
+        },
+        {
+          "label": "教育"
+        },
+        {
+          "label": "レビュー"
+        },
+        {
+          "label": "プレス・メディア"
+        }
+      ]
+    },
+    "colMarkets": {
+      "title": "マーケット",
+      "ul": [
+        {
+          "label": "FXの通貨"
+        },
+        {
+          "label": "クリプトカレンシーズ"
+        },
+        {
+          "label": "通貨の強さ"
+        },
+        {
+          "label": "暗号の強さ"
+        }
+      ]
+    },
+    "disclaimer": "リスクに関する警告レバレッジ金融商品の取引には大きなリスクが伴い、投資資金を失う可能性があります。損失が許容される以上の投資は行わず、関連するリスクを十分に理解するようにしてください。レバレッジ商品の取引は、すべての投資家に適しているとは限りません。FXのような非レバレッジ商品の取引にはリスクも伴います。なぜなら、資産価値は下落することもあれば上昇することもあるからです。過去の実績は将来の結果を保証するものではありません。取引を行う前に、お客様の経験レベル、投資目的を考慮し、必要に応じて独立した財務アドバイスを受けてください。居住国の法的要件に基づき、フィンテリアブランドのサービスを利用することが許可されているかどうかを評価するのはお客様の責任です。"
+  },
+  "account": {
+    "trading": {
+      "subPages": {
+        "withdrawal": "退会",
+        "deposit": "デポジット",
+        "depositTransaction": "デポジット",
+        "transfer": "転送",
+        "openedWithdrawal": "開設された出金依頼"
+      },
+      "tradingAccounts": {
+        "title": "トレーディング口座",
+        "addAccountBtn": "アカウント追加",
+        "columns": {
+          "external_id": "アイド",
+          "group": "タイプ",
+          "currency": "通貨",
+          "balance": "バランス",
+          "bonus": "ボーナス"
+        },
+        "btnDeposit": "デポジット",
+        "btnTransfer": "転送",
+        "btnWithdraw": "撤退する"
+      },
+      "depositFirstPage": {
+        "depositIsProcessing": "入金処理中",
+        "demoDepositUnavaliable": "デモ口座への入金はできません",
+        "depositError": "何かが間違っていた",
+        "chooseDepositAmount": "入金額を選ぶ",
+        "bonus": "ボーナス",
+        "policyPrivacy": "を受け入れ、同意します",
+        "policyPrivacyLink": "ボーナスポリシー",
+        "totalTradingDeposit": "預金総額",
+        "chooseFundingMethod": "資金調達方法を選択する",
+        "depositBtn": "デポジット",
+        "doYouHavePromocode": "プロモコードはあるのでしょうか？"
+      },
+      "depositSecondPage": {
+        "transaction": "トランザクション",
+        "scanQr": "このQRコードをおサイフケータイアプリで読み取って支払いを行うか、正確な金額を入金先に送信することができます。",
+        "depositAmount": "入金額",
+        "receivingAmount": "受入金額",
+        "copyBtn": "コピー",
+        "depositAddress": "預け入れ先住所",
+        "txid": "ティーエックスアイディー",
+        "openInExplorer": "エクスプローラーで開く",
+        "onlySendCurrency": "このアドレスにのみ{m$sg}を送信します",
+        "depositMessage": "フィンテリアは、ネイティブの{m$sg}メインネット経由の{m$sg}入金にのみ対応しています。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由で{m$sg}を送ったりすると、資金が永久に失われます。",
+        "depositMessages": {
+          "btc": "Bitcoinネットワーク経由のBTC送金のみを送信します。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でBTCを送ったりすると、お客様の資金が永久に失われます。",
+          "eth": "イーサリアムメインネット（ERC-20）経由でETHデポジットのみを送信します。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でETHを送ったりすると、お客様の資金が永久に失われることになります。",
+          "usdt": {
+            "erc20": "このアドレスには、ERC20ネットワーク経由でUSDTのみを送信してください。他のコインを送ったり、他のネットワーク経由でUSDTを送ったりすると、資金が永久に失われることになります。",
+            "trc20": "このアドレスには、TRC20ネットワーク経由でUSDTのみを送信してください。他のコインを送ったり、他のネットワーク経由でUSDTを送ったりすると、資金が永久に失われることになります"
+          },
+          "usdc": {
+            "erc20": "このアドレスには、ERC20ネットワーク経由でUSDTのみを送信してください。他のコインを送ったり、他のネットワーク経由でUSDTを送ったりすると、資金が永久に失われることになります。",
+            "trc20": "このアドレスには、TRC20ネットワーク経由でUSDTのみを送信してください。他のコインを送ったり、他のネットワーク経由でUSDTを送ったりすると、資金が永久に失われることになります"
+          },
+          "dai": "イーサリアムメインネット（ERC-20）経由でDAI転送のみを送信してください。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でDAIを送ったりすると、資金が永久に失われることになります。",
+          "wbtc": "イーサリアムメインネット（ERC-20）経由でWBTCの送金のみを行います。他のネットワークはサポートされていません。他のコインを送信したり、他のネットワーク経由でWBTCを送信すると、資金が永久に失われます。",
+          "trx": "TRX転送は、TRON Mainnet経由でのみ送信できます。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でTRXを送ったりすると、お客様の資金が永久に失われることになります。",
+          "avax": "AVAXの転送は、Avalanche Mainnet経由でのみ送信してください。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でAVAXを送ったりすると、資金が永久に失われることになります。",
+          "dot": "Polkadotメインネット経由のDOT転送のみ送信可能です。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でDOTを送ったりすると、お客様の資金が永久に失われることになります。",
+          "ada": "AVAXの転送は、Avalanche Mainnet経由でのみ送信してください。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でAVAXを送ったりすると、資金が永久に失われることになります。",
+          "matic": "Polkadotメインネット経由のDOT転送のみ送信可能です。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でDOTを送ったりすると、資金が永久に失われることになります。"
+        },
+        "status": "ステータス",
+        "statuses": {
+          "waiting": "待機中",
+          "expired": "期限切れ",
+          "pending": "保留中",
+          "completed": "完成品",
+          "available": "アベイラベ"
+        },
+        "timeInterval": "残り時間",
+        "timeIntervalExpired": "支払いがまだの場合は、キャンセルして新たに入金してください",
+        "confirmationMessage": "コインは3回確認後、入金されます。",
+        "confirmationMessages": {
+          "eth": "コインは12回確認後、入金されます。",
+          "ltc": "コインは12回確認後、入金されます。",
+          "bch": "コインは12回確認後、入金されます。",
+          "zec": "コインは24回確認後、入金されます。"
+        },
+        "needAssistance": "サポートが必要ですか？",
+        "requestCallback": "コールバックを依頼する",
+        "or": "または",
+        "chatWithUs": "話をする",
+        "timeRemaining": "残り時間",
+        "rotationalAddress": "仮の住所",
+        "payretailers": {
+          "fillRequiredFields": "必須項目"
+        }
+      },
+      "depositWithModal": {
+        "paymentCard": {
+          "title": "カード内容",
+          "backBtn": "バック",
+          "continueBtn": "続き",
+          "toast": {
+            "fillCardNumber": "カード番号を正しく記入してください",
+            "fillHolderName": "カード名義人のお名前をご記入ください",
+            "expirationNotCorrect": "有効期限は正しくありません",
+            "fillCVV": "CVVをご記入ください"
+          },
+          "processing": "お支払い方法の処理",
+          "processingFailed": "クレジットカードの認証に成功しました",
+          "cardholderName": "カード会員名"
+        },
+        "title": "Visa、Mastercardによる資金調達",
+        "paragraph": "取引入金完了まであと一歩です。ボタン{m$sg}をクリックし、指示に従うだけです。",
+        "cantLoadWidget": "ウィジェットを読み込むことができない",
+        "paybis": {
+          "text": "お客様は、サードパーティプロバイダーのPaybisで暗号を購入することにより、Visa/Mastercardで取引口座に資金を提供しています。",
+          "depositWith": "ペイビスで{a$mnt}を購入する",
+          "afterText": "Paybisで購入すると、取引口座に自動的に入金されます。とても簡単です！",
+          "addressText": "下記はあなたのために特別に作成したウォレットアドレスです。正確にコピーしてください。",
+          "walletAddress": "財布の住所",
+          "clickButtonText": "下のボタンをクリックすると、暗号を購入するための安全なサービスであるPaybisに移動します。"
+        }
+      },
+      "transfer": {
+        "amount": "金額",
+        "status": "ステータス",
+        "available": "引き出し可能",
+        "toAccount": "アカウントへ",
+        "continueBtn": "続き",
+        "backToTrading": "トレーディングに戻る",
+        "inReview": "レビューで",
+        "info": "あなたの出金依頼は正常に送信されました。1時間以内に出金依頼を確認し、確認します。出金リクエストに追加のチェックが必要な場合は、出金確認に最大48時間かかる場合があります。"
+      },
+      "withdrawal": {
+        "amount": "金額",
+        "balance": "バランス",
+        "address": "アドレス",
+        "networkFee": "ネットワーク料金",
+        "youGet": "あなたが得る",
+        "continueBtn": "続き",
+        "blockchain_network": "ネットワーク",
+        "cancelBtn": "キャンセル",
+        "currency": "通貨"
+      },
+      "depositSuccessPage": {
+        "paid": "払いましたね：",
+        "deposited": "デポジットした："
+      }
+    },
+    "wallets": {
+      "title": "財布",
+      "tabs": {
+        "wallets": {
+          "label": "財布"
+        },
+        "transactionsHistory": {
+          "label": "トランザクション履歴"
+        }
+      },
+      "walletsTab": {
+        "addWalletBtn": "ウォレットを追加",
+        "addWalletCancel": "キャンセル",
+        "estimatedBalance": "見積もり残高",
+        "hideSmallBalances": "小さな残高を隠す",
+        "columns": {
+          "currency": "コイン",
+          "balance": "利用可能残高",
+          "locked_balance": "ロックされたバランス"
+        },
+        "btnDeposit": "デポジット",
+        "btnTransfer": "転送",
+        "btnWithdraw": "撤退する",
+        "btnExchange": "交換",
+        "withdrawal": {
+          "amount": "金額",
+          "balance": "バランス",
+          "address": "アドレス",
+          "networkFee": "引出手数料",
+          "youGet": "あなたが得る",
+          "continueBtn": "続き",
+          "goBackBtn": "戻る",
+          "withdrawalErrors": {
+            "required": "必須",
+            "minValue": "最小値は{m$sg}です。",
+            "maxValue": "{m$sg}がありますね。",
+            "numeric": "値は数値でなければならない",
+            "verifiedNotification": "出金する場合は、ご本人確認をお願いします。",
+            "verifiedDepositNotification": "資金を引き出すには、少なくとも1回の入金が必要です。"
+          },
+          "withdrawalSuccess": {
+            "inReview": "レビューで",
+            "address": "アドレス",
+            "amount": "金額",
+            "status": "ステータス",
+            "statusResult": "保留中",
+            "info": "あなたの出金依頼は正常に送信されました。1時間以内に出金依頼を確認し、確認します。出金リクエストに追加のチェックが必要な場合は、出金確認に最大48時間かかる場合があります。",
+            "backToWallets": "財布のページへ戻る"
+          },
+          "startVerification": "検証を開始します。",
+          "networkPlaceholder": "出金先ネットワーク選択",
+          "network": "ネットワーク",
+          "makeDeposit": "入金する",
+          "unlockKYC": "KYC認証と出金オプションを解除するには、まずご入金ください。"
+        },
+        "deposit": {
+          "transaction": "トランザクション",
+          "scanQr": "このQRコードをおサイフケータイアプリで読み取って支払いを行うか、正確な金額を入金先に送信することができます。",
+          "depositAmount": "入金額",
+          "copyBtn": "コピー",
+          "depositAddress": "預け入れ先住所",
+          "onlySendCurrency": "このアドレスにのみ{m$sg}を送信します",
+          "confirmationMessage": "コインは3回確認後、入金されます。",
+          "confirmationMessages": {
+            "eth": "コインは12回確認後、入金されます。",
+            "ltc": "コインは12回確認後、入金されます。",
+            "bch": "コインは12回確認後、入金されます。",
+            "zec": "コインは24回確認後、入金されます。"
+          },
+          "goBackBtn": "戻る",
+          "depositMessage": "フィンテリアは、ネイティブの{m$sg}メインネット経由の{m$sg}入金にのみ対応しています。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由で{m$sg}を送ったりすると、資金が永久に失われます。",
+          "depositMessages": {
+            "btc": "Bitcoinネットワーク経由のBTC送金のみを送信します。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でBTCを送ったりすると、お客様の資金が永久に失われます。",
+            "eth": "イーサリアムメインネット（ERC-20）経由でETHデポジットのみを送信します。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でETHを送ったりすると、お客様の資金が永久に失われることになります。",
+            "usdc": {
+              "erc20": "このアドレスには、ERC20ネットワーク経由でUSDTのみを送信してください。他のコインを送ったり、他のネットワーク経由でUSDTを送ったりすると、資金が永久に失われることになります。",
+              "trc20": "このアドレスには、TRC20ネットワーク経由でUSDTのみを送信してください。他のコインを送ったり、他のネットワーク経由でUSDTを送ったりすると、資金が永久に失われることになります"
+            },
+            "dai": "イーサリアムメインネット（ERC-20）経由でDAI転送のみを送信してください。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でDAIを送ったりすると、資金が永久に失われることになります。",
+            "wbtc": "イーサリアムメインネット（ERC-20）経由でWBTCの送金のみを行います。他のネットワークはサポートされていません。他のコインを送信したり、他のネットワーク経由でWBTCを送信すると、資金が永久に失われます。",
+            "trx": "TRX転送は、TRON Mainnet経由でのみ送信できます。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でTRXを送ったりすると、お客様の資金が永久に失われることになります。",
+            "avax": "AVAXの転送は、Avalanche Mainnet経由でのみ送信してください。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でAVAXを送ったりすると、資金が永久に失われることになります。",
+            "dot": "Polkadotメインネット経由のDOT転送のみ送信可能です。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でDOTを送ったりすると、お客様の資金が永久に失われることになります。",
+            "ada": "カルダノメインネット経由のADA転送のみ送信してください。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でADAを送ったりすると、お客様の資金が永久に失われます。",
+            "matic": "ポリゴンメインネット経由のMATIC転送のみ送信可能です。他のネットワークはサポートされていません。他のコインを送ったり、他のネットワーク経由でMATICを送ったりすると、資金が永久に失われることになります。",
+            "usdt": {
+              "trc20": "このアドレスには、TRC20ネットワーク経由でUSDTのみを送信してください。他のコインを送ったり、他のネットワーク経由でUSDTを送ったりすると、資金が永久に失われることになります",
+              "erc20": "このアドレスには、ERC20ネットワーク経由でUSDTのみを送信してください。他のコインを送ったり、他のネットワーク経由でUSDTを送ったりすると、資金が永久に失われることになります。"
+            }
+          },
+          "selectNetwork": "ネットワークを選択",
+          "beAwareAddresIsTemporary": "入金先アドレスは一時的なもので、期間限定で有効であることにご注意ください。有効期限を過ぎての送金は、お客様の資金が永久に失われる可能性がありますので、お控えください。",
+          "rotationalAddress": "仮の住所"
+        }
+      },
+      "filters": {
+        "title": "フィルター",
+        "allCurrency": "すべての通貨",
+        "transactionType": "トランザクションの種類",
+        "period": "期間",
+        "transactionTypes": {
+          "deposit": "沈殿物",
+          "withdraw": "ひきとる",
+          "commission": "コミッション",
+          "fee": "料金",
+          "loan_origination_fee": "ローンオリジネーションフィー",
+          "conversion": "コンバージョン",
+          "internal_exchange": "内部交換",
+          "collateral": "担保",
+          "collateral_adjustment": "担保調整",
+          "loan": "ローン",
+          "loan_payment": "ローン支払い",
+          "loan_interest_payment": "借入金利子支払い"
+        }
+      },
+      "transactionsTab": {
+        "columns": {
+          "id": "ID",
+          "created_at": "日付",
+          "type": "タイプ",
+          "transaction_owner_name": "原点",
+          "amount": "金額"
+        }
+      },
+      "ordersTab": {
+        "columns": {
+          "id": "ID",
+          "date": "日付",
+          "status": "ステータス",
+          "amount": "金額",
+          "type": "タイプ"
+        }
+      }
+    },
+    "settings": {
+      "settingsTitle": "プロフィール",
+      "tabs": {
+        "general": {
+          "label": "一般"
+        },
+        "verification": {
+          "label": "検証"
+        },
+        "password": {
+          "label": "パスワード"
+        },
+        "sessions": {
+          "label": "セッション"
+        }
+      },
+      "general": {
+        "email": "電子メール",
+        "emailText": "メールアドレスの変更を希望される場合は、サポートまでご連絡ください。",
+        "phone": "電話番号",
+        "phoneText": "電話番号の変更を希望される場合は、サポートまでご連絡ください。",
+        "language": "言語",
+        "languageText": "ご希望の言語",
+        "btnSave": "設定の保存",
+        "selectCountry": "国を選択",
+        "changePhone": "電話番号の変更"
+      },
+      "verification": {
+        "accountVerificationsStatus": "アカウント認証の状況",
+        "agreementSignInstruction": "個人名と苗字を入力し、契約書に署名する。",
+        "personalData": "個人情報",
+        "name": "名称",
+        "surname": "苗字",
+        "accountVerification": "アカウント認証",
+        "chooseYourIdType": "IDの種類を選択してください",
+        "copyOfPassport": "パスポートのコピー",
+        "frontSide": "前面 カードID",
+        "backSide": "裏面 カードID",
+        "uploadFileImg": "ファイル（PDF、PNG、JPG、HEIC、HEIF）のアップロード 10mb以内",
+        "notLoaded": "未搭載",
+        "loaded": "ロード",
+        "onVerification": "検証について",
+        "notSigned": "サインなし",
+        "signed": "サイン入り",
+        "uploadFile": "ファイルのアップロード",
+        "uploadSign": "契約書",
+        "takeASelfie": "自撮りする",
+        "takeASelfieText": "身分証明書を顔の横に置いて、自撮りをしてください。写真には、あなたの顔とIDの両方がはっきりと写っていることを確認してください。IDには何も写っていないはずです。",
+        "agreement": "契約内容",
+        "downloadAgreement": "ダウンロード契約",
+        "isVerified": {
+          "verified": "検証済み",
+          "notVerified": "未確認"
+        },
+        "verifyBtn": "ベリファイ",
+        "saveBtn": "セーブ",
+        "submitBtn": "送信",
+        "signBtn": "サイン",
+        "signAcceptanceTitle": "取引を開始するには、サービス承諾書にサインをする",
+        "signAcceptanceDescription": "本サイトが提供する金融サービスには高いリスクが伴い、お客様の資金がすべて失われる可能性があります。失うことのできない資金を決して投資すべきではありません。当社の取引プラットフォームで操作を行う前に、必ず当社の利用規約をお読みください。いかなる場合においても、当社は、本ウェブサイトの操作によって生じた損失や損害について、いかなる個人または団体に対しても責任を負うものではありません。Finteria、その代理店またはパートナーは、米国領域で登録されておらず、いかなるサービスも提供していません。",
+        "codeConfirmed": "認証コードが確認されました",
+        "toast": {
+          "dataRequired": "ページ上部にお名前と苗字をご記入の上、同意書にご署名ください。",
+          "dataSent": "あなたのデータは検証のために送信されました",
+          "signatureNeeded": "サインをお送りください",
+          "fileSize": "ファイルサイズが10MBを超えないこと",
+          "fileFormat": "ファイル（PDF、PNG、JPG、HEIC、HEIF）をアップロードする"
+        },
+        "drawSignature": "ここにサインを描いてください",
+        "phonePlaceholder": "電話番号の追加",
+        "addBtn": "追加",
+        "verifyPhone": "携帯電話を確認する",
+        "verifyEmail": "Eメールを確認する",
+        "whatIsPhoneNumber": "電話番号を教えてください",
+        "enterCode": "に送信されたコードを入力してください",
+        "didReceiveCode": "コードが届かなかった？"
+      },
+      "password": {
+        "paragraph": "セキュリティのため、この操作を完了してから24時間、出金は保留されます。",
+        "currentPassword": "現在のパスワード",
+        "newPassword": "新しいパスワード",
+        "confirmNewPassword": "新しいパスワードの確認",
+        "changePasswordBtn": "パスワードの変更",
+        "passwordSuccess": "パスワードの変更に成功しました",
+        "comparePasswordError": "パスワードが一致しない"
+      },
+      "authentication": {
+        "enableAuth": "二要素認証の有効化",
+        "enableAuthText": "お客様のセキュリティのため、お客様のアカウントで2FAを有効にすることを強くお勧めします。その後、アカウントへのログイン、資金の引き出し、パスワードの変更のたびに、1回限りの6桁のコードを入力する必要があります。",
+        "enableAuthBtn": "2FAを有効にする",
+        "download2faApp": "2FAアプリのダウンロード",
+        "download2faAppText": "Google Authenticator や Authy などの認証アプリケーションをモバイル デバイスにダウンロードおよびインストールしてください。このアプリケーションは、アカウントへのログインに必要な6桁のアクセスコードを1回だけ生成します。",
+        "save2faBackupKey": "2FA Backup Keyを保存してQRコードをスキャンする",
+        "save2faBackupKeyText": "2FAリカバリーキーをオフラインストレージにバックアップしてください（紙に書くなど）。モバイルデバイスが紛失、盗難、または消去された場合、2FAアクセスを回復するためにこのキーが必要になります。",
+        "backupSecretKey": "バックアップ／シークレットキー",
+        "backupSecretKeyText": "上記の鍵は、メモするかプリントアウトして、大切に保管してください。",
+        "confirm2faActivation": "2FAアクティベーションの確認",
+        "confirm2faActivationText": "Authenticatorアプリからの2FAコード",
+        "confirm2faActivationPlaceholder": "6桁の2FAコードを入力する",
+        "enable2faBtn": "2FAを有効にする"
+      },
+      "sessions": {
+        "columns": {
+          "user_agent": "デバイス",
+          "country": "国名",
+          "ip": "IPアドレス",
+          "created_at": "時間"
+        }
+      },
+      "languageChanged": "使用言語が変更されました",
+      "dataUpdated": "お客様の個人情報が更新されました"
+    },
+    "exchange": {
+      "infoBlock": {
+        "summary": "概要",
+        "yourBalance": "あなたの{m$sg}をバランス",
+        "exchangeRate": "為替レート",
+        "time": {
+          "hours": "を{m$sg}hにしました。"
+        }
+      },
+      "actionBlock": {
+        "balance": "バランス"
+      },
+      "page": {
+        "youPay": "あなたが支払う",
+        "youGet": "あなたが得る",
+        "exchangeBtn": "交換"
+      },
+      "success": {
+        "spent": "使ったんですね：",
+        "converted": "コンバートされた：",
+        "price": "価格です：",
+        "backToWallets": "財布のページへ戻る",
+        "exchangeAgain": "再度交換"
+      }
+    },
+    "loans": {
+      "columns": {
+        "id": "ローンID",
+        "status": "ステータス",
+        "loan_amount": "ローン",
+        "loan_currency": "貸出通貨",
+        "collateral_amount": "コラテラル",
+        "collateral_currency": "担保通貨",
+        "ltv": "LTV",
+        "daily_rate": "日割り計算"
+      },
+      "helpers": {
+        "currency": "通貨",
+        "id": "ID"
+      },
+      "tabs": [
+        {
+          "label": "すべて",
+          "value": "どれもこれも"
+        },
+        {
+          "label": "アクティブ",
+          "value": "アクティブ"
+        },
+        {
+          "label": "アーカイブ",
+          "value": "アーカイヴ"
+        }
+      ],
+      "statuses": {
+        "opened": "アクティブ",
+        "closed": "アーカイブ",
+        "unsecured": "無担保"
+      },
+      "actionBlock": {
+        "available": "バランス"
+      },
+      "page": {
+        "youPay": "あなたが支払う",
+        "youGet": "あなたが得る",
+        "exchangeBtn": "交換"
+      }
+    },
+    "nav": {
+      "wallets": "暗号化ウォレット",
+      "trading": "トレーディング口座",
+      "loans": "貸出金",
+      "interest": "金利口座",
+      "exchange": "暗号化取引所",
+      "button": "取引プラットフォーム",
+      "buttonSmall": "トレード",
+      "account": "設定方法",
+      "profile": "プロフィール"
+    },
+    "navHelper": {
+      "profile-wallets": {
+        "label": "財布"
+      },
+      "profile-trading": {
+        "label": "トレーディング口座"
+      },
+      "profile-trading-deposit": {
+        "label": "トレーディング口座"
+      },
+      "profile-trading-transfer": {
+        "label": "トレーディング口座"
+      },
+      "profile-trading-address": {
+        "label": "トレーディング口座"
+      },
+      "profile-loans": {
+        "label": "貸出金"
+      },
+      "profile-loans-create": {
+        "label": "貸出金"
+      },
+      "profile-loans-loan": {
+        "label": "貸出金"
+      },
+      "profile-loans-repay": {
+        "label": "貸出金"
+      },
+      "profile-interest": {
+        "label": "金利口座"
+      },
+      "profile-exchange": {
+        "label": "暗号化取引所"
+      },
+      "profile": {
+        "label": "プロフィール"
+      },
+      "profile-trading-withdraw-id": {
+        "label": "トレーディング口座"
+      }
+    },
+    "payment": {
+      "success": "支払い成功",
+      "error": "支払い失敗",
+      "info": "支払いキャンセル"
+    }
+  },
+  "borrow": {
+    "landingPreview": {
+      "pretitle": "暗号を預ける、現金を受け取る",
+      "title": "クリプトローンの即日融資を受ける",
+      "subtitle": "最高の融資比率（90％）を持つ暗号ローンの担保としてTOP20コインを使用します。EUR、USD、CHF、GBPで融資を受け、クレジットカードや銀行口座に即座に引き出すことができます。",
+      "posttitle": "金融庁の規制を受ける",
+      "btnPrimary": "融資を受ける"
+    },
+    "landingRates": {
+      "title": "対応資産・料金"
+    },
+    "numCards": [
+      {
+        "bigTitle": "$15.6B+",
+        "subtitle": "利用可能な流動性のうち"
+      },
+      {
+        "bigTitle": "100+",
+        "subtitle": "対応コイン・トークン"
+      },
+      {
+        "bigTitle": "$100M+",
+        "subtitle": "フィンテリアの保険が適用される資産"
+      },
+      {
+        "bigTitle": "$110M+",
+        "subtitle": "コミュニティBTC"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "金融庁登録済み",
+        "icon": "スワップフラッグ"
+      },
+      {
+        "text": "24時間365日対応のカスタマー・サービス",
+        "icon": "クロック"
+      },
+      {
+        "text": "セキュリティ ISO27001認証取得",
+        "icon": "シルド"
+      },
+      {
+        "text": "多言語対応",
+        "icon": "グローブス"
+      }
+    ],
+    "infoBlock": {
+      "title": "クリプト・バックド・ローンの仕組み",
+      "left_items": [
+        {
+          "title": "Finteriaウォレットに暗号を転送する",
+          "text": "FinteriaはTOP20の暗号通貨を担保として受け入れています。暗号通貨の入出金に手数料はかかりません。"
+        },
+        {
+          "title": "いつでも暗号担保を取り戻せる",
+          "text": "クレジットカード、ステーブルコイン、銀行口座を使ってローンを返済し、暗号を返してもらうことができます。Finteriaのウォレットに暗号資産を保管し、暗号ローンに即座にアクセスすることができます。"
+        },
+        {
+          "title": "暗号ローンを組み、資金を引き出す",
+          "text": "融資の承認は数秒で完了します。ピアツーピア（p2p）プラットフォームのように貸し手を探す必要はありません。ユーロ、米ドル、USDT、BTCで即座に現金を受け取ることができます。Finteriaは質屋のように機能します。暗号通貨を一時的に販売し、お客様が売り手、Finteriaが買い手となります。お客様はいつでもFinteriaから暗号通貨を買い戻すことができます。"
+        }
+      ],
+      "right_title": "当社の現金引き出しオプション",
+      "right_items": [
+        "SEPA、SWIFTによる銀行電信出金。全世界で利用可能です。",
+        "MasterCardまたはVISAにクレジットカードで引き落とされます。",
+        "暗号の引き出し：当社の統合暗号取引所を使用して、任意の暗号または安定したコインを購入します。"
+      ]
+    },
+    "helpCenter": {
+      "title": "ヘルプセンター",
+      "text": "Finteriaを始めるのは簡単です。しかし、少し不安な方のために、安全でスマートな資産運用の方法を解説した記事や役立つヒントをたくさん用意しています。",
+      "buttonText": "チャットで相談する",
+      "accordions": [
+        {
+          "title": "クリプトを購入するには？",
+          "text": "暗号を購入するには、ウォレットにアクセスし、クレジットカードまたは銀行口座経由で資金を入金します。資金が入金されると、ウォレットで利用可能になり、フィアットで暗号を購入することができます。\n"
+        },
+        {
+          "title": "どうすれば融資を受けられるのでしょうか？",
+          "text": "融資を受けるのは簡単でわかりやすい。あなたのウォレットに暗号を入金して、ローン契約を開始するだけです。 \n融資の承認には数秒かかります。ユーロ、米ドル、USDT、BTC で即座に現金を受け取れます。暗号通貨は、後でいつでも Finteria から買い戻すことができます。"
+        },
+        {
+          "title": "交換可能な通貨は？",
+          "text": "Finteriaは、交換、借り入れ、稼ぎのために20以上の暗号通貨をサポートしています。利用可能なコインとトークンのリストは、定期的に更新されます。\n"
+        },
+        {
+          "title": "出金手数料はかかりますか？",
+          "text": "フィアット通貨のウィズダワル手数料は無料です。暗号の引き出しの手数料は、ネットワーク手数料とブロックチェーンネットワークの現在の状態によって異なります。"
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "借入金額",
+      "secondTitle": "コラテラル",
+      "loan_to_value": "ローン・トゥ・バリュー（LTV）",
+      "dailyInterest": "デイリーインタレスト"
+    }
+  },
+  "earn": {
+    "landingPreview": {
+      "pretitle": "あなたの暗号はあなたのために働く",
+      "title": "TOPステーキングとレンディングプラットフォームでCryptoを稼ぐ",
+      "subtitle": "DeFiおよびサードパーティの集中型プラットフォームで利子とステーキング報酬を獲得することができます。Finteriaウォレットに暗号を預けることで、冷え切った資産を即座にホットな利益に変え、毎日の利息を受け取り始めましょう。",
+      "posttitle": "金融庁の規制を受ける",
+      "btnPrimary": "クリプトを稼ぐ"
+    },
+    "landingRates": {
+      "title": "対応資産・料金"
+    },
+    "numCards": [
+      {
+        "bigTitle": "$15.6B+",
+        "subtitle": "地域資産において"
+      },
+      {
+        "bigTitle": "897K+",
+        "subtitle": "フィンテリアユーザー"
+      },
+      {
+        "bigTitle": "$386M+",
+        "subtitle": "過去12ヶ月間に支払われた利回り"
+      },
+      {
+        "bigTitle": "109K+",
+        "subtitle": "コミュニティBTC"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "金融庁登録済み",
+        "icon": "スワップフラッグ"
+      },
+      {
+        "text": "24時間365日対応のカスタマー・サービス",
+        "icon": "クロック"
+      },
+      {
+        "text": "セキュリティISO27001認証取得",
+        "icon": "シルド"
+      },
+      {
+        "text": "多言語対応",
+        "icon": "グローブス"
+      }
+    ],
+    "infoBlock": {
+      "title": "暗号化貯蓄口座の仕組み",
+      "left_items": [
+        {
+          "title": "Finteriaウォレットに暗号を預け入れる",
+          "text": "FinteriaはTOP20の暗号通貨を受け入れています。暗号通貨の入出金にかかる手数料は無料です。"
+        },
+        {
+          "title": "Finteriaに暗号をDeFiまたはステーキングプラットフォームに転送するように指示する。",
+          "text": "暗号報酬プログラムを選択し、個々のウォレットで暗号トークンを保持しながら稼ぎ始めます。"
+        },
+        {
+          "title": "毎日、複利の報酬を獲得する",
+          "text": "保存プログラムの承認は数秒で完了します。暗号トークンの複利報酬を即座に獲得し始めることができます。"
+        }
+      ],
+      "right_title": "セービング・アカウントの引き出し方針",
+      "right_items": [
+        "いつでも資金を放出することができ、獲得した利息を全額受け取ることができます。",
+        "貯蓄口座に暗号を追加送金するたびに、個別のステーキングまたは借入契約が作成されます。 ",
+        "貯まった利息は、さらに利益を得るために自由に保管することができます。"
+      ]
+    },
+    "helpCenter": {
+      "title": "ヘルプセンター",
+      "text": "Finteriaを始めるのは簡単です。しかし、少し不安な方のために、安全でスマートな資産運用の方法を解説した記事や役立つヒントをたくさん用意しています。",
+      "accordions": [
+        {
+          "title": "暗号を購入するにはどうすればよいですか？",
+          "text": "暗号を購入するには、ウォレットにアクセスし、クレジットカードまたは銀行口座経由で資金を入金します。資金が入金されると、ウォレットで利用可能になり、フィアットで暗号を購入することができます。\n"
+        },
+        {
+          "title": "どうすれば融資を受けられるのでしょうか？",
+          "text": "融資を受けるのは簡単でわかりやすい。あなたのウォレットに暗号を入金して、ローン契約を開始するだけです。 \n融資の承認には数秒かかります。ユーロ、米ドル、USDT、BTC で即座に現金を受け取れます。暗号通貨は、後でいつでも Finteria から買い戻すことができます。"
+        },
+        {
+          "title": "交換可能な通貨は？",
+          "text": "Finteriaは、交換、借り入れ、稼ぎのために20以上の暗号通貨をサポートしています。利用可能なコインとトークンのリストは、定期的に更新されます。\n"
+        },
+        {
+          "title": "出金手数料はかかりますか？",
+          "text": "フィアット通貨のウィズダワル手数料は無料です。暗号の引き出しの手数料は、ネットワーク手数料とブロックチェーンネットワークの現在の状態によって異なります。"
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "金額",
+      "secondTitle": "いつまで？",
+      "annual": "年利（APY）",
+      "period": "当期利益",
+      "estimated": "予想される利益",
+      "week": "週",
+      "month": "月",
+      "year": "イヤー"
+    }
+  },
+  "exchange": {
+    "landingPreview": {
+      "pretitle": "暗号を預ける、現金を受け取る",
+      "title": "Finteria NO FEE 暗号化取引所",
+      "subtitle": "手数料無料のインスタント暗号通貨交換。暗号、安定コイン、BTC、ETH、USDなどのフィアットを交換します。クレジットカードでビットコインを購入する。 ",
+      "posttitle": "BitGoウォレット",
+      "posttitle2": "カストディプロバイダー",
+      "optionsAdvantages": "評価：エクセレント",
+      "optionsAdvantages2": "トラストパイロットで",
+      "btnPrimary": "暗号を交換する"
+    },
+    "landingRates": {
+      "title": "対応資産"
+    },
+    "numCards": [
+      {
+        "bigTitle": "24/7",
+        "title": "ノンストップ・トレーディング",
+        "subtitle": "土日を含む"
+      },
+      {
+        "bigTitle": "$250",
+        "title": "最低入金額",
+        "subtitle": "誰もが手に取りやすい価格"
+      },
+      {
+        "bigTitle": "$1",
+        "title": "最小取引サイズ",
+        "subtitle": "初心者の方にもおすすめです"
+      },
+      {
+        "bigTitle": "100+",
+        "title": "トレーディング資産",
+        "subtitle": "ストック、クリプト、コモディティ"
+      }
+    ],
+    "smallNumCards": [
+      {
+        "text": "金融庁登録済み",
+        "icon": "ロック"
+      },
+      {
+        "text": "24時間365日対応のカスタマー・サービス",
+        "icon": "クロックブルー"
+      },
+      {
+        "text": "セキュリティ ISO27001認証取得",
+        "icon": "シルド"
+      },
+      {
+        "text": "グローバルリーチ 150カ国以上",
+        "icon": "グローブス"
+      }
+    ],
+    "infoBlock": {
+      "title": "暗号化取引所の仕組み",
+      "left_items": [
+        {
+          "title": "暗号を預ける",
+          "text": "FinteriaはTOP20の暗号通貨を受け入れています。暗号通貨の入出金にかかる手数料は無料です。"
+        },
+        {
+          "title": "フィアットまたはクリプトの交換",
+          "text": "低い手数料で簡単に不換紙幣と暗号資産を交換し、カード、銀行口座、ウォレットに資金を引き出すことができます。"
+        }
+      ],
+      "right_title": "重要なお知らせ",
+      "right_items": [
+        "Finteriaは、暗号通貨の売買や保管を行うための安全で規制されたプラットフォームです。",
+        "為替レートは暗号市場に続いて毎秒更新されるので、価格比を即座に把握することができます。",
+        "暗号から暗号への交換の手数料は無料です。",
+        "VISA/MASTERCARDを使って、主要な暗号通貨を現在の為替レートで購入することができます。"
+      ]
+    },
+    "helpCenter": {
+      "title": "ヘルプセンター",
+      "text": "Finteriaを始めるのは簡単です。しかし、少し不安な方のために、安全でスマートな資産運用の方法を解説した記事や役立つヒントをたくさん用意しています。",
+      "buttonText": "チャットで相談する",
+      "accordions": [
+        {
+          "title": "クリプトを購入するには？",
+          "text": "暗号を購入するには、ウォレットにアクセスし、クレジットカードまたは銀行口座経由で資金を入金します。資金が入金されると、ウォレットで利用可能になり、フィアットで暗号を購入することができます。\n"
+        },
+        {
+          "title": "どうすれば融資を受けられるのでしょうか？",
+          "text": "融資を受けるのは簡単でわかりやすい。あなたのウォレットに暗号を入金して、ローン契約を開始するだけです。 \n融資の承認には数秒かかります。ユーロ、米ドル、USDT、BTC で即座に現金を受け取れます。暗号通貨は、後でいつでも Finteria から買い戻すことができます。"
+        },
+        {
+          "title": "交換可能な通貨は？",
+          "text": "Finteriaは、交換、借り入れ、稼ぎのために20以上の暗号通貨をサポートしています。利用可能なコインとトークンのリストは、定期的に更新されます。\n"
+        },
+        {
+          "title": "出金手数料はかかりますか？",
+          "text": "フィアット通貨のウィズダワル手数料は無料です。暗号の引き出しの手数料は、ネットワーク手数料とブロックチェーンネットワークの現在の状態によって異なります。"
+        }
+      ]
+    },
+    "calculator": {
+      "firstTitle": "所持している金額",
+      "secondTitle": "要る",
+      "rate": "レート"
+    }
+  },
+  "trade": {
+    "game-widget-title": "価格は、<span class='green'>Up</span> または<span class='red'>Down</span> のどちらでしょうか？",
+    "landingPreview": {
+      "title": "暗号、FX、CFDを取引し、30秒で最大90％の利益を得ることができます。",
+      "subtitle": "暗号や通貨市場の動きを予測することで副収入を得る",
+      "btnPrimary": "トレーディングを開始する",
+      "btnTry": "DEMO PLATFORM",
+      "gift": "最大100%の<br>取引ボーナス",
+      "student": "デモ口座に10,000ドルプレゼント"
+    },
+    "numCards": [
+      {
+        "bigTitle": "24/7",
+        "title": "ノンストップ・トレーディング",
+        "subtitle": "土日を含む"
+      },
+      {
+        "bigTitle": "${m$sg}",
+        "title": "最低入金額",
+        "subtitle": "誰もが手に取りやすい価格"
+      },
+      {
+        "bigTitle": "$1",
+        "title": "最小取引サイズ",
+        "subtitle": "初心者の方にもおすすめです"
+      },
+      {
+        "bigTitle": "100+",
+        "title": "トレーディング資産",
+        "subtitle": "ストック、クリプト、コモディティ"
+      }
+    ],
+    "tradeAtHome": {
+      "header": "自宅でもGOでもトレード！",
+      "finteria": {
+        "title": "フィンテリアプラットフォーム",
+        "subtitle": "簡単な操作で、トップチャートのあるモダンなプラットフォーム",
+        "list": [
+          "チャート12種類",
+          "50以上のスマートな描画ツール",
+          "直感的な操作で使いやすい",
+          "テクニカル分析に最適です！"
+        ],
+        "button": "ローンチプラットフォーム"
+      }
+    },
+    "threeSteps": {
+      "title": "簡単に始められる3つのステップ",
+      "list": [
+        {
+          "title": "登録する",
+          "text": "登録にかかる時間は1分以内",
+          "icon": "フラグ"
+        },
+        {
+          "title": "口座開設",
+          "text": "入金して取引を開始する",
+          "icon": "カード"
+        },
+        {
+          "title": "取引・出金",
+          "text": "取引して、利益を得て、出金する！",
+          "icon": "トレード"
+        }
+      ],
+      "button": "登録する"
+    },
+    "tradingExperience": {
+      "title": "トレーディングの経験がない方",
+      "subtitle": "最も成功しているトレーダーをコピーする",
+      "topStrategies": {
+        "title": "トップ戦略",
+        "tableHeader": ["階梯", "兵法", "パフォーマンス"],
+        "buttonFollow": "コピー"
+      },
+      "list": [
+        {
+          "title": "ソーシャルトレーディングプラットフォームへの参加",
+          "text": "ロングかショートか？最高のトレーダーと一緒に行きましょう。取引口座を開設し、トップトレーダーの注文をコピーする。"
+        },
+        {
+          "title": "トップトレーダーに登録する",
+          "text": "トップトレーダーを選択し、即座に接続することができます。わずか数クリックで取引シグナルの受信を開始できます。条件を指定し、取引プラットフォーム上で購読を作成することができます。"
+        },
+        {
+          "title": "より高い利益を得る",
+          "text": "取引効率を高め、取引にレバレッジをかけてより高い利益を得ることができます。最高のパフォーマンスを発揮する取引推奨の恩恵を受ける。"
+        }
+      ]
+    },
+    "tradingIdeas": {
+      "title": "トレーディングのアイデアが必要ですか？",
+      "subtitle": "分析ツールで最適な市場機会を見つける",
+      "list": [
+        {
+          "title": "勝者 敗者"
+        },
+        {
+          "title": "市場の強さ"
+        },
+        {
+          "title": "ヒートマップ"
+        },
+        {
+          "title": "デイリーフォーキャスト"
+        }
+      ]
+    },
+    "whyFinteria": {
+      "title": "フィンテリアが選ばれる理由",
+      "choices": [
+        {
+          "text": "<span></span> 1時間以内に出金処理することを保証します。"
+        },
+        {
+          "text": "<span>、熟練したアドバイザーの助けを借りて、ガイド付き取引機能を提供します。</span>"
+        },
+        {
+          "text": "<span>週末に取引する可能性</span>"
+        },
+        {
+          "text": "<span>10,000件以上の取引</span> 毎日提供されています"
+        },
+        {
+          "text": "<span>幅広い資金調達方法と出金方法</span>"
+        },
+        {
+          "text": "カスタマーサポート<span>24時間365日</span>"
+        },
+        {
+          "text": "<span>100％安全な</span> データ保護による取引"
+        },
+        {
+          "text": "トレードをコピーして、未経験でも<span>を獲得する</span> トレーディングで"
+        },
+        {
+          "text": "<span>手数料無料</span> 取引"
+        }
+      ]
+    },
+    "helpCenter": {
+      "title": "Finteriaの利用開始は簡単です",
+      "text": "しかし、少し不安な方のために、取引の始め方についての解説記事や役立つヒントをたくさん用意しています。",
+      "buttonText": "チャットで相談する",
+      "accordions": [
+        {
+          "title": "いくらあれば始められますか？",
+          "text": "最低初回入金額は10ドルまたは他の通貨での同等額です。"
+        },
+        {
+          "title": "入金方法を教えてください",
+          "text": "お住まいの地域によって、いくつかの入金方法が用意されています。入金方法には、暗号、VISA/Mastercardカード、その他の電子決済システムなどがあります。利用可能な入金方法の詳細については、お客様のクライアントエリアをご確認ください。"
+        },
+        {
+          "title": "取引できる商品は何ですか？",
+          "text": "フィンテリアは、Crypto、Forex、CFD、Commodityを含む100以上の取引商品を提供しています。"
+        },
+        {
+          "title": "どのプラットフォームで使用できますか？",
+          "text": "Finteria Traderを使用することができます。このプラットフォームはデスクトップとモバイルデバイスの両方で利用でき、ユーザーはいつでもどこでもアクセスできます。"
+        },
+        {
+          "title": "コミッションは支払うのですか？",
+          "text": "フィンテリアは、手数料ゼロで取引を行うことができます。"
+        },
+        {
+          "title": "出金手数料とは何ですか？",
+          "text": "フィアット通貨のウィズダワル手数料は無料です。暗号の引き出しの手数料は、ネットワーク手数料とブロックチェーンネットワークの現在の状態によって異なります。"
+        }
+      ]
+    },
+    "joinFinteriaNow": "今すぐFinteriaに参加する！",
+    "calculator": {
+      "title": "あなたの24時間の利益",
+      "dailyChange": "日替わり",
+      "investment": "投資",
+      "leverage": "レバレッジ",
+      "tradeSize": "トレードサイズ",
+      "profit": "プロフィット",
+      "selectAsset": "シンボルを選択",
+      "profitability": "収益性"
+    },
+    "meta": {
+      "title": "暗号、FX、CFDを取引し、30秒で最大90％の利益を得ることができます",
+      "description": "急成長中の取引プラットフォームである Finteria に参加して、無限の取引機会を引き出し、オンラインでお金を稼ぐことを始めましょう。無料でサインアップして、利益を最大化するための強力なツールにアクセスしましょう。今すぐ取引を開始し、Finteriaで市場の潜在力を活用しましょう。"
+    }
+  },
+  "login": {
+    "reset": "パスワードの再設定",
+    "title": "ログイン",
+    "inputs": {
+      "email": {
+        "label": "電子メール"
+      },
+      "newPassword": "新しいパスワード",
+      "confirmPassword": "パスワードの確認",
+      "password": {
+        "label": "パスワード",
+        "postfix": "パスワードを忘れた方はこちら"
+      }
+    },
+    "button": "サインイン",
+    "buttonReset": "リセット",
+    "toastSuccessNewpassword": "パスワードは正常に更新されました",
+    "toastSuccessReset": "あなたのメールにリンクが送信されました",
+    "footer": "アカウントをお持ちでない方",
+    "fireBlock": "BitGoは、デジタル資産カストディソリューションと$700Mプール型犯罪保険を提供しています。",
+    "welcome": "フィンテリアへようこそ"
+  },
+  "signUp": {
+    "title": "登録する",
+    "subtitle": "そして、あなたの資産価値を解き放つ！",
+    "inputs": {
+      "email": {
+        "label": "電子メール",
+        "postfix": "正しいEメール値を入力する"
+      },
+      "country": {
+        "label": "あなたの国"
+      },
+      "password": {
+        "label": "パスワード",
+        "postfix": "6個以上のシンボルを含むこと",
+        "identy": "パスワードが一致しない"
+      },
+      "signupAgreement": "私は、本サービスが米国領土の外で私に提供されることを確認します。",
+      "termsAgreement": {
+        "prefix": "私は、サービス利用規約とリスク開示に同意します",
+        "links": {
+          "service": "利用規約",
+          "privacy": "プライバシーポリシー",
+          "policy": "AMLポリシー",
+          "execution": "契約締結のみ",
+          "conversion": "コンバージョンサービスに関する規約",
+          "complaints": "クレーム処理",
+          "specific": "コンバージョンサービスに関する特定事項"
+        },
+        "union": "と"
+      }
+    },
+    "button": "サインアップ",
+    "footer": "すでにアカウントをお持ちの方",
+    "fireBlock": "お客様の資産は、90億ドルの保険に加入した大手カストディ・ソリューションの下で保管されます。",
+    "description": {
+      "gift": "最大100%の<br>取引ボーナス",
+      "student": "デモ口座に10,000ドルプレゼント",
+      "times": "1時間 <br> 退会"
+    },
+    "wrongPromoCode": "間違ったプロモコード",
+    "promoCodeApplied": "プロモコードXXXが正常に適用されました",
+    "toast": {
+      "recaptchaFailed": "Recaptchaのチェックに失敗する"
+    }
+  },
+  "Network": "アカウント.ウォレット.ウォレットタブ.引き出し.ネットワーク",
+  "blog": {
+    "list": {
+      "title": "トレーディングブログ",
+      "lead": "Finteriaブログでトレーディングの最新ホットトピックを探そう。Finteriaの専門家チームから、洞察、最新情報、ニュースなどを入手しましょう。",
+      "categories": "カテゴリー",
+      "categoriesTitle": "トレーダー向け：",
+      "articlesTitle": "記事一覧",
+      "paginatorPrev": "前へ",
+      "paginatorNext": "次のページ"
+    },
+    "article": {
+      "otherNews": "その他のニュース"
+    }
+  },
+  "pressMedia": {
+    "title": "プレス・メディア"
+  },
+  "cryptocurrency": {
+    "description2": "フィンテリアでは、堅牢な取引インフラ、信頼性の高いソフトウェア、暗号通貨領域用に調整されたユーザーフレンドリーなインターフェースを提供しています。当社の高度な伝統的取引ツールを使用すれば、ビットコイン、イーサリアム、ソラナ、ライトコインなどのトップクラスの暗号通貨を自信を持って取引することができます。",
+    "trade": "トレード",
+    "tradingSectionText": "暗号通貨取引は、その不安定で急速に変動する性質から、膨大な利益の可能性を秘めています。デジタル資産の価格は大きく変動し、1日または1週間の間に20％も上昇または下降することがよくあります。",
+    "tradingCheckList": [
+      {
+        "title": "高い収益性が期待できる",
+        "text": "トレーダーが暗号通貨を選ぶ理由は、ボラティリティが高く、取引に成功した場合の潜在的な利益が大きいからです。"
+      },
+      {
+        "text": "フィンテリアは、市場で最も人気のある暗号通貨であるビットコイン、イーサリアム、ソラナ、ライトコインを提供しています。",
+        "title": "最も人気のあるデジタル資産"
+      },
+      {
+        "text": "トレーダーは、保護注文を利用することで極端な市場の変動からポジションを保護し、安全なプラットフォームで安心して取引することができます。",
+        "title": "安全な取引"
+      }
+    ],
+    "whyFinteriaCheckList": [
+      {
+        "title": "深い流動性、強力なツール",
+        "text": "高速、安全、信頼性の高いプラットフォームで暗号通貨を取引しましょう。深い流動性、幅広い高度な機能と取引ツールから利益を得ることができます。"
+      },
+      {
+        "title": "競争力のある料金体系",
+        "text": "すべての暗号通貨取引において、狭いスプレッドと低い手数料で、市場で最高の取引条件をお楽しみください。"
+      },
+      {
+        "title": "直感的でユーザーフレンドリーな取引",
+        "text": "マルチモニター機能、プロフェッショナルな取引ツール、24時間365日のカスタマーサービスなどの機能により、取引インターフェースをカスタマイズすることができます。"
+      },
+      {
+        "title": "高度なチャートツール",
+        "text": "様々な種類のチャート、50種類以上の取引指標、チャートから直接取引を実行する機能などを体験できます。"
+      }
+    ],
+    "stepList": [
+      {
+        "title": "登録",
+        "text": "FInteriaの新規アカウント作成は1分以内に完了します。登録したメールアドレスだけで始められます。"
+      },
+      {
+        "title": "口座開設",
+        "text": "個人用ウォレットに資金を入金します。口座に資金が入れば、取引可能な状態になります！"
+      },
+      {
+        "text": "受賞歴のあるトレーディングソフトウェアにフルアクセスできます。低い手数料と高度な取引機能で利益を得る",
+        "title": "取引開始"
+      }
+    ],
+    "title": "クリプトカレンシー取引",
+    "lead": "Finteria では、ビットコイン、イーサリアム、ソラナなど、さまざまな暗号通貨を取引できます。",
+    "description1": "世界の暗号通貨市場への迅速なアクセス、人気の高い暗号資産やトークンを幅広く取引し、当社の有名なプラットフォームで取引結果を向上させることができます。",
+    "tradeNow": "今すぐ取引する",
+    "see": "見る",
+    "exchangeRate": "為替レート",
+    "toolsSectionTitle": "ツール",
+    "tradingSectionTitle": "暗号通貨取引の可能性を解き明かす",
+    "whyFinteriaSectionTitle": "Finteriaで暗号通貨を取引する理由",
+    "getStarted": "スタートダッシュ",
+    "market": "マーケット",
+    "marketLast": "マーケット / ラスト",
+    "last": "最後",
+    "24h": "24h",
+    "more": "もっと見る",
+    "startSteps": "たった3ステップで取引を開始"
+  },
+  "forex": {
+    "title": "外国為替証拠金取引",
+    "lead": "Finteriaでは、EURUSD、USDJPY、GBPUSDなど、様々なFX通貨の売買や取引が可能です。",
+    "description1": "世界のFX市場に素早くアクセスし、人気の高い通貨ペアを幅広く取引し、定評あるプラットフォームで取引結果を向上させることができます。",
+    "trade": "トレード",
+    "tradeNow": "今すぐ取引する",
+    "see": "見る",
+    "toolsSectionTitle": "ツール",
+    "tradingSectionTitle": "外国為替取引の可能性を引き出す",
+    "tradingCheckList": [
+      {
+        "title": "高い収益性が期待できる",
+        "text": "トレーダーがFXを選ぶ理由は、流動性が高く、取引に成功したときの潜在的な利益が大きいからです。"
+      },
+      {
+        "title": "最も人気のあるFX通貨",
+        "text": "フィンテリアは、市場で最も人気のある通貨ペアを提供しています。"
+      },
+      {
+        "title": "安全な取引",
+        "text": "トレーダーは、保護注文を利用することで極端な市場の変動からポジションを保護し、安全なプラットフォームで安心して取引することができます。"
+      }
+    ],
+    "whyFinteriaCheckList": [
+      {
+        "text": "高速で安全、かつ信頼性の高いプラットフォームでFXを取引しましょう。豊富な流動性、幅広い先進機能、取引ツールから利益を得ることができます。",
+        "title": "深い流動性、強力なツール"
+      },
+      {
+        "title": "競争力のある料金体系",
+        "text": "狭いスプレッドと低い手数料で、市場で最も優れた取引条件をお楽しみください。"
+      },
+      {
+        "title": "直感的でユーザーフレンドリーな取引",
+        "text": "マルチモニター機能、プロフェッショナルな取引ツール、24時間365日のカスタマーサービスなどの機能により、取引インターフェースをカスタマイズすることができます。"
+      },
+      {
+        "title": "高度なチャートツール",
+        "text": "様々な種類のチャート、50種類以上の取引指標、チャートから直接取引を実行する機能などを体験できます。"
+      }
+    ],
+    "description2": "フィンテリアでは、堅牢な取引インフラ、信頼性の高いソフトウェア、通貨領域向けに調整されたユーザーフレンドリーなインターフェイスを提供しています。当社の高度な伝統的取引ツールを使えば、ドル、ユーロ、英ポンド、日本円などのトップクラスの通貨を自信を持って取引することができます。",
+    "exchangeRate": "為替レート",
+    "tradingSectionText": "外国為替取引は、その不安定で急速に変動する性質から、計り知れない利益の可能性を秘めています。通貨価格は、経済や政治的な出来事によって大きく変動することがあります。",
+    "whyFinteriaSectionTitle": "FinteriaでFXをするメリット",
+    "getStarted": "スタートダッシュ"
+  },
+  "markets": {
+    "title": "きょうか",
+    "chartTitle": "価格表",
+    "marketWatchTitle": "その他の資産を見る",
+    "chartText": "このリアルタイムの価格チャートに従って、値動きを推測することができます。この便利なライブチャートで、現在の価格を確認し、価格変動を分析し、過去の為替レートを追跡することができます。",
+    "periods": {
+      "1hour": "1時間",
+      "24hours": "24時間",
+      "7days": "7日",
+      "14days": "14日",
+      "30days": "30日",
+      "1year": "1年"
+    }
+  },
+  "strength": {
+    "currency": {
+      "title": "通貨の強さ",
+      "lead": "Currency Strengthは、市場で最も強い通貨と最も弱い通貨を見つけるためのツールです。強い通貨と弱い通貨を組み合わせることで、いつでも新しい取引のアイデアを発見することができます。また、市場の新しい傾向や異なる商品間の相関関係を見ることもできます。"
+    },
+    "crypto": {
+      "title": "暗号の強さ",
+      "lead": "Crypto Strengthは、すべてのトップ10主要暗号通貨の暗号通貨のパフォーマンスを確認するのに役立つツールです。暗号市場の全体的なパフォーマンスを評価するだけでなく、異なる暗号通貨が互いに関連してどのように動作するかを確認するのに役立ちます。トップ10コインの中で最も強い暗号通貨と最も弱い暗号通貨を簡単に特定することができます。"
+    },
+    "periods": {
+      "5min": "ラスト5分",
+      "15min": "ラスト15分",
+      "30min": "ラスト30分",
+      "1h": "ラスト1時間",
+      "4h": "最後の4時間",
+      "8h": "最後の8時間",
+      "12h": "直近12時間",
+      "24h": "直近24時間",
+      "72h": "直近72時間",
+      "1w": "直近1週間",
+      "2w": "直近2週間",
+      "1m": "直近1ヶ月",
+      "today": "今日",
+      "yesterday": "昨日",
+      "week": "今週",
+      "prevWeek": "前の週",
+      "month": "今月"
+    }
+  },
+  "contest": {
+    "leaders": {
+      "text": "毎週開催されるトレーディングコンテストに参加して、あなたのスキルを試してみましょう！取引、競争、そして楽しみながらリーダーボードに登り、報酬を獲得しましょう。",
+      "table": {
+        "headers": {
+          "name": "名称",
+          "trades": "総取引高",
+          "prize": "賞品",
+          "prizeTrades": "賞金/総取引高"
+        }
+      },
+      "periodPrev": "過去の記事",
+      "periodNext": "次のページ",
+      "title": "リーダー",
+      "rules": "取引コンテストのルール",
+      "periodTitle": "期間"
+    },
+    "questions": {
+      "title": "質問",
+      "accordions": [
+        {
+          "title": "コンテストに参加するには？",
+          "text": "すべてのライブアカウントは自動的にコンテストに参加します。追加登録は必要ありません。 "
+        },
+        {
+          "title": "入賞はどのように配分されるのか？",
+          "text": "順位は、コンテスト期間中の取引回数に基づいて配分される。取引回数が多ければ多いほど、順位は高くなります。複数の口座を持っている場合は、すべての口座のすべての取引が考慮されます。デモ口座は含まれません。"
+        },
+        {
+          "title": "このコンテストの賞品は何ですか？",
+          "text": "すべての賞金はボーナスデポジットであり、当選者に入金されます。賞金を獲得するには、お客様のネット残高（残高からボーナスを差し引いたもの）が賞金額以上である必要があります。例えば、賞金が500米ドルの場合、あなたのアカウントの純残高は少なくとも500米ドルである必要があります。"
+        },
+        {
+          "title": "入賞したかどうかはどうすればわかりますか？",
+          "text": "あなたの順位と獲得賞品はEメールで通知されます。また、リーダーボードでいつでも順位を確認することができます。"
+        },
+        {
+          "title": "賞金を口座から引き出すことはできますか？",
+          "text": "賞金はボーナスデポジットとして入金されるため、引き出すことはできない。しかし、最低売上高条件を満たせば、利益を引き出すことができます。回転率の条件は、すべての入金とボーナスの合計の3倍です。"
+        }
+      ]
+    },
+    "intro": {
+      "title": "経験豊富なトレーダーから初心者まで",
+      "tradingContest": "トレーディング・コンテスト",
+      "prize": "週間賞金",
+      "prizeNumber": "$20 000",
+      "winners": "毎週10名様にプレゼント",
+      "freeRegistration": "無料登録"
+    }
+  }
+}
