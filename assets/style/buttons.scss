@@ -1,0 +1,69 @@
+button {
+  border: none;
+  background: none;
+  padding: 0;
+}
+
+.button {
+  cursor: pointer;
+  padding: 16px 24px;
+  border-radius: 4px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-align: center;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.button_yellow {
+  color: $color-button-text;
+  background: $color-orange;
+  transition: background $transition-time;
+  &:hover {
+    color: $color-button-text;
+    background: $color-orange-hover;
+  }
+}
+
+.button_outline {
+  letter-spacing: unset;
+  padding: 8px 12px;
+  font-size: 14px;
+  border-radius: 2px;
+  border: 2px solid $color-orange;
+  color: $color-primary;
+  transition: background $transition-time;
+  &:hover {
+    border-color: $color-orange-hover;
+  }
+
+  &.secondary {
+    border-color: $color-disable-light;
+    &:hover {
+      border-color: $color-orange;
+    }
+  }
+}
+
+.button_large {
+  width: 100%;
+}
+
+.button_small {
+  padding: 10px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 700;
+  width: fit-content;
+}
+
+.button_center {
+  display: block;
+  margin: 0 auto;
+}
+
+.button:disabled {
+  cursor: not-allowed;
+  background: $color-btn-disable;
+  color: $color-disable-light;
+}

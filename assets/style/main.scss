@@ -1,0 +1,295 @@
+@import "bootstrap/scss/bootstrap-reboot.scss";
+@import "bootstrap/scss/bootstrap-grid.scss";
+@import "bootstrap/scss/forms/_form-select.scss";
+@import "bootstrap/scss/accordion";
+@import "bootstrap/scss/transitions";
+@import "bootstrap/dist/css/bootstrap-utilities.min.css";
+@import "bootstrap/scss/_tables";
+@import "bootstrap/scss/_pagination";
+@import "@vueform/slider/themes/default.scss";
+
+@import "./normalize.scss";
+
+@import "./include.scss";
+@import "./buttons.scss";
+@import "./fonts.scss";
+
+@import "./calc.scss";
+html {
+  scroll-behavior: auto !important;
+}
+
+body {
+  color: $color-text-dark;
+  font-family: "Manrope", "Open Sans", sans-serif;
+  &.scroll-off {
+    overflow: hidden;
+  }
+}
+
+.container {
+  max-width: 1370px;
+  padding: 0px 40px;
+  margin: 0 auto;
+  @include media-breakpoint-down("md") {
+    padding: 0px 15px;
+  }
+}
+
+.block_blue {
+  background: $color-primary-lightest;
+}
+
+.title {
+  position: relative;
+  padding-top: 30px;
+  font-size: 46px;
+  width: fit-content;
+  font-weight: 700;
+
+  &:after {
+    content: "";
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    max-width: 190px;
+    height: 3px;
+    background: $color-primary;
+  }
+  @include media-breakpoint-down("md") {
+    font-size: 28px;
+  }
+}
+
+.title_center {
+  margin: 0 auto;
+  &.title:after {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
+.title_without-border {
+  padding-top: 40px;
+
+  &::after {
+    content: none;
+  }
+
+  @include media-breakpoint-up("md") {
+    padding-top: 80px;
+  }
+}
+
+.title_border-after {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1.4;
+  color: $color-text-dark;
+  padding: 0;
+  padding-bottom: 20px;
+
+  @include media-breakpoint-up("md") {
+    font-size: 36px;
+    padding-bottom: 40px;
+  }
+}
+
+.title_border-after::after {
+  top: initial;
+  bottom: 0;
+}
+
+.subtitle {
+  font-size: 20px;
+}
+
+.subtitle_center {
+  text-align: center;
+}
+
+.block__background-intro {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  @include media-breakpoint-down("md") {
+    height: 100vw;
+    top: 5%;
+  }
+  @include media-breakpoint-down("lg") {
+    height: auto;
+  }
+}
+
+.block__background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.block__background-img {
+  width: 100%;
+  display: block;
+  height: 100%;
+  object-fit: cover;
+}
+
+.darkorange {
+  color: $color-orange-dark;
+}
+
+.color-primary {
+  color: $color-primary;
+}
+
+h1,
+.display-1,
+h2,
+.display-2,
+h3,
+.display-3,
+h4,
+.display-4,
+h5,
+.display-5,
+h6,
+.display-6 {
+  margin: 0;
+}
+
+h1,
+.display-1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 46px;
+  line-height: 140%;
+  color: $color-text-darkest;
+  @media (max-width: 767px) {
+    font-size: 28px;
+    line-height: 130%;
+  }
+}
+
+h2,
+.display-2 {
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 140%;
+  color: $color-text-darkest;
+  @media (max-width: 767px) {
+    font-size: 22px;
+    line-height: 140%;
+  }
+}
+
+h3,
+.display-3 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 140%;
+}
+
+h4,
+.display-4 {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 140%;
+  @media (max-width: 767px) {
+    font-size: 16px;
+    line-height: 140%;
+  }
+}
+
+ul {
+  padding-left: 0;
+}
+
+img,
+svg {
+  vertical-align: sub;
+}
+
+a {
+  color: $color-primary;
+  &:hover {
+    color: $color-primary-hover;
+  }
+}
+
+.v-toast {
+  padding: 100px 30px !important;
+  @include media-breakpoint-down("xl") {
+    padding: 170px 30px !important;
+  }
+  @include media-breakpoint-down("sm") {
+    padding: 80px 30px !important;
+  }
+}
+
+.v-toast__item {
+  @include media-breakpoint-down("sm") {
+    column-gap: 9px !important;
+    padding: 9px 10px !important;
+    row-gap: 0px !important;
+  }
+}
+
+.v-toast__title {
+  @include media-breakpoint-down("sm") {
+    font-size: 13px !important;
+  }
+}
+
+.v-toast__text {
+  @include media-breakpoint-down("sm") {
+    font-size: 13px !important;
+  }
+}
+
+.v-toast__item .v-toast__icon {
+  @include media-breakpoint-down("sm") {
+    background-size: contain !important;
+    width: 35px !important;
+    min-width: 35px !important;
+    height: 35px !important;
+  }
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: all 0.3s ease-in-out;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+@include media-breakpoint-down("md") {
+  @media screen and (orientation: landscape) {
+    jdiv#jvlabelWrap {
+      left: 40px !important;
+      right: auto !important;
+    }
+  }
+}

@@ -1,0 +1,105 @@
+$color-white: hsl(0, 0%, 100%);
+$color-white-secondary: hsl(0, 0%, 98%); // #fafafa
+$color-black: hsl(0, 0%, 0%);
+$color-black-contest: hsl(230, 75%, 5%); // #030615
+$color-transparent: hsla(0, 0%, 100%, 0);
+$color-transparent-middle: hsla(0, 0%, 100%, 0.4);
+
+$color-primary-light-trade: hsl(206, 100%, 97%); // #eff8ff
+$color-bg-lightest: hsl(217, 100%, 97%); // #eff5ff
+$color-bg-lightest-to: hsla(223, 100%, 96%);
+$color-bg-status: hsl(24, 100%, 94%); // #ffede1
+
+$color-primary-lightest: hsl(207, 100%, 94%); // #e0f1ff
+$color-primary-light: hsl(218, 73%, 65%); // #6293e7
+$color-primary-secondary: hsl(218, 90%, 60%); // #3d81f5
+$color-primary-pre-light: hsl(218, 84%, 61%); // #4785ef
+$color-primary: hsl(218, 62%, 50%); // #306bcf
+$color-primary-hover: hsl(218, 62%, 30%); // #1d407c
+$color-primary-pre-dark: hsl(218, 62%, 36%); // #234d95
+$color-primary-dark: hsl(218, 62%, 40%); // #2756a5
+$color-primary-border: hsl(218, 62%, 26%);
+$color-primary-lightest-secondary: hsl(218, 84%, 65%); // #5d94f1;
+
+$color-btn-disable: hsl(0, 0%, 75%); //#bfbfbf
+
+$color-disable-light: hsl(0, 0%, 85%); // #d9d9d9
+$color-disable: hsl(0, 0%, 96%); //#f5f5f5;
+$color-disable-dark: hsla(0, 0%, 47%, 1);
+
+$color-btn-primary: hsl(47, 96%, 18%); // #5a4702
+$color-btn-bg-primary: hsl(46, 96%, 55%); // #fbc920
+$color-btn-bg-primary-hover: hsl(46, 96%, 67%); // #fcd758
+$color-btn-bg-secondary: hsl(0, 0%, 100%); // #ffffff
+$color-btn-bg-secondary-hover: hsl(46, 82%, 52%); // #e9bb1e
+$color-btn-bg-disabled: hsl(0, 0%, 85%); // #d9d9d9
+$color-btn-text-disabled: hsl(0, 0%, 65%); // #a6a6a6
+
+$color-text-dark: hsl(0, 0%, 13%); // #222222
+$color-text-darkest: hsl(0, 0%, 20%); // #333333
+$color-orange-lightest: hsla(46, 97%, 87%, 1); // #feefbc
+$color-orange: hsl(46, 96%, 55%); // #fbc920
+$color-orange-hover: hsl(46, 82%, 52%); // #e9bb1e;
+$color-orange-dark: hsl(25, 96%, 55%); //#fb7c20
+$color-orange-darkest: hsla(46, 100%, 38%, 1);
+
+$color-green-light: hsla(96, 41%, 51%, 1); // #78b650
+$color-green-lightest: hsl(160, 63%, 53%); // #3ad2a0
+$color-green-title: hsl(155, 91%, 32%); // #079c5e
+$color-green: hsla(81, 53%, 29%, 1);
+$color-green-darkest: hsl(160, 63%, 17%);
+
+$color-danger: hsl(349, 100%, 42%); // #D80027
+$color-danger-light: hsl(0, 89%, 62%); // #f44848
+$color-danger-lightest: hsl(0, 100%, 77%); // #ff8888
+
+$color-button-text: hsla(47, 96%, 18%, 1);
+
+$color-grey-light: hsl(0, 0%, 40%); // #666666
+$color-grey: hsl(0, 0%, 47%); // #777777
+$color-head-light: hsl(0, 0%, 65%); // #a6a6a6
+$color-border-light: hsla(0, 0%, 0%, 0.12);
+$color-border-pre-dark: hsl(0, 0%, 88%); // #e0e0e0
+$color-border-pre-dark-secondary: hsl(0, 0%, 90%); // #e5e5e5
+$color-bg-grey: hsl(0, 0%, 94%); // #f0f0f0
+
+$transition-time: 0.3s;
+
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px,
+);
+
+// spinner
+$spinner-padding: 10px;
+$spinner-circle-animation-time: 1s;
+$spinner-circle-line-width: 50px;
+
+$spinner-color: hsl(205, 83%, 42%);
+$spinner-circle-size: 100px;
+$spinner-circle-size_inline: 1rem;
+
+// slider range
+$slider-bg: hsl(207, 100%, 91%); // #d1eaff
+
+$color-link: hsl(218, 62%, 50%); // #306bcf
+$color-link-hover: hsl(218, 62%, 30%); // #1d407c
+$color-link-secondary: hsl(223, 100%, 60%); // 336cff
+
+$table-header-bg: hsl(207, 100%, 91%); // #d1eaff
+
+$color-shadow-primary: hsla(0, 0%, 0%, 0.12);
+$color-shadow-secondary: hsla(0, 0%, 0%, 0.04);
+$color-shadow-dark: hsla(160.274, 62%, 23%, 0.4);
+
+$color-head-border: hsl(206, 53%, 85%); // #c4dbed
+$color-contest-gold: hsl(44, 100%, 40%); // #cd9500
+$color-contest-silver: hsl(218, 13%, 47%); // #687488
+$color-contest-bronze: hsl(20, 53%, 48%); // #bb6439
+$color-gradient-gold: linear-gradient(270deg, #fae5af 0%, rgba(251, 239, 175, 0) 100%);
+$color-gradient-silver: linear-gradient(270deg, #dbe3f0 0%, rgba(232, 236, 242, 0) 100%);
+$color-gradient-bronze: linear-gradient(270deg, #e1d0c8 0%, rgba(236, 219, 212, 0) 100%);

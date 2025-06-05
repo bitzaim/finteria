@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
+p:only-child {
+  margin: 0;
+}
+
+p:only-of-type {
+  margin: 0;
+}
+
+p:first-of-type {
+  margin-top: 0px;
+}
+
+p:last-of-type {
+  margin-bottom: 0px;
+}
+
+body {
+  margin: 0;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+a {
+  display: inline-flex;
+  color: inherit;
+  text-decoration: none;
+}
+
+ol {
+  margin: 0px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+input {
+  font-size: 16px;
+}
+
+button {
+  padding: 0px;
+  font-size: 16px;
+  color: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
